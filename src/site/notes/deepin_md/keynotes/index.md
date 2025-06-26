@@ -15,10 +15,9 @@ Zotero 7 各平台下载地址：https://www.zotero.org/support/beta_builds
 https://zlibrary-east.se/
 
 
-- [[deepin_md/Template/TP-digitalgarden\|TP-digitalgarden]]
-- [[deepin_md/ebooks/[OCR]_神经症 (许又新) \|[OCR]_神经症 (许又新) ]]
 - [[deepin_md/keynotes/index\|index]]
 - [[deepin_md/mindful/README\|README]]
+- [[deepin_md/Template/TP-digitalgarden\|TP-digitalgarden]]
 
 { .block-language-dataview}
 分享一个好用的脚本[知乎直接看] 
