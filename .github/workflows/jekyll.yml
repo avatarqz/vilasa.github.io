@@ -1,69 +1,124 @@
-  # Build job
+# 这个工作流使用了非 GitHub 认证的操作。
+# 它们由第三方提供，并受
+# 单独的服务条款、隐私政策和支持文档约束。
+
+# 构建和部署 Jekyll 网站到 GitHub Pages 的示例工作流
+name: Deploy Jekyll site to Pages
+
+on:
+  # 在推送到默认分支时运行
+  push:
+    branches: ["master"] # 请确保这与您的默认分支名称一致
+
+  # 允许您从“Actions”选项卡手动运行此工作流
+  workflow_dispatch:
+
+# 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 允许一次只并发部署一个，跳过在进行中的运行和最新排队的运行之间排队的运行。
+# 但是，不要取消进行中的运行，因为我们希望允许这些生产部署完成。
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # 构建作业
   build:
-    # 注意：确保您的自托管运行器满足这些要求
-    # runs-on: ubuntu-latest # <-- 原来的行，如果您的自托管运行器标签不是 ubuntu-latest，请相应修改
-    runs-on: [self-hosted, your-labels] # <-- 替换为您的自托管运行器标签
+    # 请将 'self-hosted' 替换为您实际配置自托管运行器时使用的标签
+    # 例如: runs-on: [self-hosted, linux, x64]
+    # 请务必确保您的自托管运行器满足 Ruby 3.1.4 的要求
+    runs-on: self-hosted 
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 步骤 1: 安装 ruby-build (如果尚未安装)
-      # 您也可以预先在自托管运行器上安装好 ruby-build
-      - name: Install ruby-build
-        run: |
-          # 如果您使用的是基于 Debian/Ubuntu 的系统
-          # 确保已安装依赖
-          sudo apt update
-          sudo apt install -y git autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libgmp-dev libncurses5-dev libffi-dev libgdbm6 libgdbm-dev libdb-dev uuid-dev
-          # 克隆并安装 ruby-build
-          git clone https://github.com/rbenv/ruby-build.git /tmp/ruby-build
-          PREFIX=/usr/local ./tmp/ruby-build/install.sh
-          # 清理
-          rm -rf /tmp/ruby-build
+      # --- 关键修改：手动安装 Ruby ---
+      # 假设 ruby-build 已预先安装在您的自托管运行器上
+      # 如果未安装，请取消下面步骤的注释，并根据需要修改安装命令
+      # - name: Install ruby-build dependencies (if needed)
+      #   run: |
+      #     # 适用于 Debian/Ubuntu 系统
+      #     sudo apt update
+      #     sudo apt install -y git autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libgmp-dev libncurses5-dev libffi-dev libgdbm6 libgdbm-dev libdb-dev uuid-dev
 
-      # 步骤 2: 使用 ruby-build 安装 Ruby 3.1.4 到指定的缓存目录
-      # 确保目录存在并有正确权限
-      - name: Install Ruby 3.1.4
+      # - name: Install ruby-build (if needed)
+      #   run: |
+      #     git clone https://github.com/rbenv/ruby-build.git /tmp/ruby-build
+      #     PREFIX=/usr/local ./tmp/ruby-build/install.sh
+      #     rm -rf /tmp/ruby-build
+
+      - name: Install Ruby 3.1.4 using ruby-build
         run: |
+          # 定义 Ruby 版本和安装路径
           RUBY_VERSION=3.1.4
           INSTALL_PATH="/opt/hostedtoolcache/Ruby/${RUBY_VERSION}/x64"
-          mkdir -p "$INSTALL_PATH"
-          # 使用 ruby-build 安装 Ruby
-          ruby-build "$RUBY_VERSION" "$INSTALL_PATH"
-          # 创建完成标记文件
-          touch "$INSTALL_PATH".complete
-        env:
-          # 可能需要设置一些环境变量，如 CC, MAKE 等，具体取决于您的系统
-          # CC: gcc
-          # MAKE: make
 
-      # 步骤 3: 设置 Ruby 环境变量 (可选，但推荐确保路径正确)
-      # 这一步可能需要您手动将 Ruby 添加到 PATH
+          # 创建安装目录（如果不存在）
+          sudo mkdir -p "$INSTALL_PATH"
+
+          # 使用 ruby-build 安装 Ruby 到指定路径
+          sudo ruby-build "$RUBY_VERSION" "$INSTALL_PATH"
+
+          # 创建完成标记文件，模拟 GitHub-hosted runner 的行为
+          sudo touch "$INSTALL_PATH".complete
+
+          # 确保当前用户（运行器用户）有权限访问安装目录
+          # 这一步很重要，具体命令取决于您的运行器用户
+          # 例如，如果运行器用户是 'runner'，您可能需要执行：
+          # sudo chown -R runner:runner "$INSTALL_PATH"
+          # 或者调整权限：
+          # sudo chmod -R 755 "$INSTALL_PATH"
+          # 请根据您的实际运行器用户进行调整
+          # 一个常见的做法是让 ruby-build 安装到用户目录，然后移动，但这需要更复杂的权限处理。
+          # 这里假设 sudo 安装后，后续步骤可以访问。
+          # 您可能需要根据运行器的实际用户调整此步骤。
+          # 例如，如果 runner 用户需要访问，可能需要：
+          sudo chown -R $(whoami):$(whoami) "$INSTALL_PATH" # 或者指定运行器用户名
+
       - name: Setup Ruby Environment
         run: |
-          echo "${RUNNER_TOOL_CACHE}/Ruby/3.1.4/x64/bin" >> $GITHUB_PATH
-          # 或者，如果 ruby-build 安装到 /usr/local/bin，则可能不需要此步骤
+          # 将新安装的 Ruby 添加到 PATH
+          echo "$RUNNER_TOOL_CACHE/Ruby/3.1.4/x64/bin" >> $GITHUB_PATH
+          
           # 验证安装
+          which ruby
           ruby -v
           gem -v
-          bundle -v # 确保 bundler 也已安装或可用
+          # 确保 bundler 可用
+          gem list bundler || gem install bundler
+          bundle -v
 
-      # 步骤 4: 安装 Bundler 和 Gems
-      - name: Setup Gems
-        run: |
-          gem install bundler
-          # bundler-cache: true 的逻辑需要手动实现
-          bundle config path vendor/bundle
-          bundle install --jobs 4 --retry 3
-
-      - name: Setup Pages # 假设后续步骤不变
+      # --- 标准 Jekyll 构建步骤 ---
+      - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        # 默认输出到 './_site' 目录
+        run: |
+          bundle config path vendor/bundle # 推荐，将 gems 安装到项目目录以利用缓存
+          bundle install --jobs 4 --retry 3 # 安装依赖
+          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" # 构建网站
         env:
           JEKYLL_ENV: production
 
       - name: Upload artifact
+        # 默认从 './_site' 目录自动上传构件
         uses: actions/upload-pages-artifact@v3
+
+  # 部署作业
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest # 部署步骤通常使用 GitHub-hosted runner
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
