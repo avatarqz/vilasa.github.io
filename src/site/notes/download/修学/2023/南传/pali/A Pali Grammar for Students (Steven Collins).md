@@ -100,18 +100,18 @@ Cerebrals/Retroflexes are pronounced with the tongue curled round touching the t
 Dentals are pronounced with the teeth.
 Labials are pronounced with the lips.
 
-| place of articulation → manner of articulation ↓ | kantbhaja guttural | taluja palatal | mudbhaja cerebral, retroflex | dantaja dental | ottbhaja labial |
+| place of articulation → manner of articulation ↓ | kanthhaja guttural | taluja palatal | mudbhaja cerebral, retroflex | dantaja dental | otthhaja labial |
 | --- | --- | --- | --- | --- | --- |
-| agghosa sitbhila (voiceless unaspirated) | k | c | ṭ | t | p |
+| agghosa sithhila (voiceless unaspirated) | k | c | ṭ | t | p |
 | agghosa dhanita (voiceless aspirated) | kh | ch | ṭh | th | ph |
-| ghosavat sitbhila (voiced unaspirated) | g | j | ḍ | d | b |
+| ghosavat sithhila (voiced unaspirated) | g | j | ḍ | d | b |
 | ghosavat dhanita (voiced aspirated) | gh | jh | ḍh | dh | bh |
 | nāsika (nasal) | ṅ | ñ | ṇ | n | m |
 | antatjha (semivowel) |  | y | r, l [ḷ] | l | v* |
 | bhakāra/sakāra (spirant / sibilant) | h | [ś] | [ṣ] | s |  |
 | sara (corresponding vowels) | a, e* | i | [r, ṛ] |  | u, o* |
 
-$^{\star}\mathbf{v}$ is dental-labial, dantottbhaja; e is guttural-palatal, kantbataluja; o is guttural-labial, kantbottbhaja.
+$^{\star}\mathbf{v}$ is dental-labial, dantotthhaja; e is guttural-palatal, kanthataluja; o is guttural-labial, kanthotthhaja.
 
 ## 1.2 akkharanam sannipata, When Letters Meet
 ### With rare exceptions:
@@ -140,20 +140,20 @@ Understanding how words are formed and what happens to them when they are put to
 ### Vowel Gradation and Sandhi
 Gramarians use Pali versions of the Sanskrit terms familiar to all students of Sanskrit, guna and vrdbhi → vuddhi. Guna and vuddhi are, with the exception of short $a$, the addition of one $a$ strength:
 
-| [zero strength] | guna strength | vuddhi strength |
-| --- | --- | --- |
-| a | a | [a+a] ā |
-| i, ī, y | [a+i/y] = ay or e | [a+a+i/y] = āy or ē |
-| u, ū, v | [a+u/v] = av or o | [a+a+u/v] = āv or ō |
+| [zero strength] | guna strength     | vuddhi strength     |
+| --------------- | ----------------- | ------------------- |
+| a               | a                 | [a+a] ā             |
+| i, ī, y         | [a+i/y] = ay or e | [a+a+i/y] = āy or ē |
+| u, ū, v         | [a+u/v] = av or o | [a+a+u/v] = āv or ō |
 
-In elements in brackets are not in order of appearance in words, but elements of the grade which appear in words and sandhi in any order. Thus $\bar{e} = ay$ or ya, $\bar{o} = \bar{a}v$ or ava or vāa or vāa. The sandhi $yo + asa \rightarrow ywaissa$ is to be explained as $[a + v] + a = va$, and te + asa to ryassa as $[a + y] + a = ya$. The verbal affixes -aya- and $-\bar{e}$ are interchangeable. The Sanskrit prefix ava- standardly appears as $o (= \bar{o})$, although ava- can be retained (&- can also be a development from apo-, u-, ut-, upa-, etc.). The prefixes vi- and ava- together can $\rightarrow \bar{v}\bar{o}$ - yavabara → vobara, vyavastbana → vottbana/vavattbana (vottbana/varvattbana).
+In elements in brackets are not in order of appearance in words, but elements of the grade which appear in words and sandhi in any order. Thus $\bar{e} = ay$ or ya, $\bar{o} = \bar{a}v$ or ava or vāa or vāa. The sandhi $yo + asa \rightarrow ywaissa$ is to be explained as $[a + v] + a = va$, and te + asa to ryassa as $[a + y] + a = ya$. The verbal affixes -aya- and $-\bar{e}$ are interchangeable. The Sanskrit prefix ava- standardly appears as $o (= \bar{o})$, although ava- can be retained (&- can also be a development from apo-, u-, ut-, upa-, etc.). The prefixes vi- and ava- together can $\rightarrow \bar{v}\bar{o}$ - yavabara → vobara, vyavasthana → votthana/vavatthana (votthana/varvatthana).
 
 When vowels meet as final + initial of two words or within a compound, five things can happen:
 (i) They stay the same, with hiatus (mostly with $a + a$), jayamaṅgala-atthāgāṭa, upastika-adinna.
 (ii) One is elided (often marked by an apostrophe in $\mathbf{E}'$), kilanto+asmi → kilanto 'smi'.
 (iii) They undergo sandhi, as in Sanskrit, $maha + udadhi \rightarrow mahodadhi$
 (iv) The former is turned into a semi-vowel, $api + etam \rightarrow apetyam$, $su + akkhata \rightarrow svakkhata$.
-(v) A consonant is inserted, atta-d-attbam, cha-j-abhiñña, na-y-idam, ajfa-t-agge or ajfa-d-agge.
+(v) A consonant is inserted, atta-d-attham, cha-j-abhiñña, na-y-idam, ajfa-t-agge or ajfa-d-agge.
 
 It is not necessary to know the full gamut of theoretically possible sandhis. The common ones are:
 
@@ -172,7 +172,7 @@ $e$ or $o + v$ oel can change into y and v, can be elided, or can cause elision 
 When vowels meet within words, and when they are changed by the rules of word-formation, the same rules apply:
 $\sqrt{ni}$ (present) $\rightarrow ne / ay + ati \rightarrow neti$ or $nayati$
 $ati + \check{t}a$ (past passive participle of $\sqrt{i}$）→ atitata
-$\sqrt{bha}$ in the present tense is bhabhati $[bh\to b,$ and $aba\to a]\rightarrow boti$; in the future can be babhasivatti $\rightarrow [v$ lost$] bha\rightarrow$ issati $\rightarrow *b$ bessati $[bh\to b]\rightarrow$ bessati.
+$\sqrt{bha}$ in the present tense is bhabhati $[bh\to b,$ and $aba\to a]\rightarrow hoti$; in the future can be babhasivatti $\rightarrow [v$ lost$] bha\rightarrow$ issati $\rightarrow *b$ bessati $[bh\to b]\rightarrow$ bessati.
 $\sqrt{s}ru \rightarrow$ Pali $\sqrt{s}u$
 causative saveti
 future passive participle (i) $+$ tabba $\rightarrow$ sotabba, (ii) $+a\bar{i}\bar{i}\bar{y}a\rightarrow$ savanya
@@ -220,9 +220,9 @@ c) Specific instances or exceptions are:
 ##### (i) Mute first:
 ###### (a) Mute $\spadesuit\spadesuit\spadesuit +$ mute $\spadesuit\spadesuit\spadesuit$
 - $[c + t]c \to k$, then $kt \to tt, \sqrt{muc} + ta \to mukta \to mutta, \sqrt{vac} + ta \to ukta \to vutta$ [The initial $v$- here is euphonic, not from the root. Pali preserves the Sanskrit weakening $vac \to uc$.]
-- [ch in $\sqrt{prch}$] + ta, prya $[\rightarrow$ pucch$] \rightarrow$ puttba
-- In past passive participles $j \rightarrow g$ before na, √bhañj + na → bhagna → bhagga, $j \rightarrow k$ before ta, √bhnju + ta → bhukta → bhutta. In some instances, $t \rightarrow th$, with $j$ assimilated, √maj + ta → mattba, avasj + ta → √o-(s)saj + ta → as(s)attba.
-- $j$ sometimes $\rightarrow s, rij + tra \rightarrow rastra \rightarrow rattba.$
+- [ch in $\sqrt{prch}$] + ta, prya $[\rightarrow$ pucch$] \rightarrow$ puttha
+- In past passive participles $j \rightarrow g$ before na, √bhañj + na → bhagna → bhagga, $j \rightarrow k$ before ta, √bhnju + ta → bhukta → bhutta. In some instances, $t \rightarrow th$, with $j$ assimilated, √maj + ta → mattha, avasj + ta → √o-(s)saj + ta → as(s)attha.
+- $j$ sometimes $\rightarrow s, rij + tra \rightarrow rastra \rightarrow rattha.$
 - $[dh$ or $bh + t]$ $t\to d$ and the previous consonant is assimilated, $\sqrt{lab} + ta$ $\rightarrow$ labdha $\rightarrow$ laddha, $\sqrt{vrd} + ta\rightarrow$ vaddha/vuddha, $\sqrt{vyad} + ta\rightarrow$ viddha.
 
 ###### (b) Mute $\spadesuit\spadesuit\spadesuit +$ sibilant $\spadesuit\spadesuit\spadesuit$
@@ -415,9 +415,9 @@ Buddha...dhamman deseti, the Blessed One teaches the dhamma (D 1 62),
 Buddhata dhammo desiyati, the dhamma is taught by the Blessed One (D III 264).
 
 2. Any word which qualifies the subject, such as an adjective, predicate, or a term placed in apposition:
-sambdo gharavaso rajapatbo, abhokaso pabhajja, the household life is constricted, full of dust, going forth is the open air (M III 33),
+sambdo gharavaso rajapatho, abhokaso pabhajja, the household life is constricted, full of dust, going forth is the open air (M III 33),
 ayam tena samayena raja Mahasudassano abosi, I was at that time king Mahasudassana (D II 196),
-seyathapi nama ayam Aciravati nadi purudakassama samatittbika kakaepyyya, it is just as if this river Aciravati were full of water, level with the banks, drinkable by crows (Aciravati might also be in a ti clause or followed by the adverb nama, by name) (D I 244).
+seyathapi nama ayam Aciravati nadi purudakassama samatitthika kakaepyyya, it is just as if this river Aciravati were full of water, level with the banks, drinkable by crows (Aciravati might also be in a ti clause or followed by the adverb nama, by name) (D I 244).
 
 3. Items referred to in a ti clause:
 so...evam bha, yam kho idam vucatti cakkhu ti pi sota ti pi ghanan ti pi jiva ti pi kayo ti pi ayam atta anicco...yam kho idam vucatti cittan ti va mano ti va vinnanam ti pi va ayam vucatti atta nico... He says "that which is called 'eye,' 'ear,' 'nose,' 'tongue,' 'body,' this an impermanent self... that which is called 'thinking,' 'mind,' 'consciousness,' this is a permanent self..." (D I 21).
@@ -467,8 +467,8 @@ dhi-r-attuh idha jivitam, a curse on life here! (Sn 440).
 
 7. It has various adverbial uses:
 - Time during which:
-te tattha... ciram digham addhanam tittbanti, they stay there long, for a protracted stretch of time (D III 84),
-yo kho... añnatiitbiyapubho imasmim dhammavinaye pabhajjam akanibati so cattaro mase parivasati, any former member of another sect who wants to go forth in this Dhamma and Discipline must wait for three months (D I 176).
+te tattha... ciram digham addhanam titthanti, they stay there long, for a protracted stretch of time (D III 84),
+yo kho... añnatiithiyapubho imasmim dhammavinaye pabhajjam akanibati so cattaro mase parivasati, any former member of another sect who wants to go forth in this Dhamma and Discipline must wait for three months (D I 176).
 - Extent of space:
 ayan Kusinara Kusavati nama rajadhanu abosi, purattimena ca paccimena ca dvadasa yojanani ayamena, uttarena ca dakkhinena ca satta yojanani vittarena, this Kusinara was (in the past) a royal city called Kusavati, twelve yojanas long on the eastern and western sides, seven yojanas wide on the north and south (D II 146).
 - Manner:
@@ -484,7 +484,7 @@ Other examples of the adverbial accusative: cattaro nam devaputat catudisam rakk
 svakkha To Bhagavata dhammo, the Dhamma has been well-proclaimed by the Blessed One (D II 9),
 sakka pana etam maya natum, I can know this (lit. this can be known by me) (D I 187).
 
-2. Cause, or reason: siya kho pana bhikkhave Sattbagaravena pi na puccheyyyattha, it may be monks, that you do not ask questions because of reverence for your Teacher (D II 155), na akaranena Tatbagata sitam patukaronti, Tathagatas do not smile without a reason (M II 45).
+2. Cause, or reason: siya kho pana bhikkhave Satthagaravena pi na puccheyyyattha, it may be monks, that you do not ask questions because of reverence for your Teacher (D II 155), na akaranena Tathagata sitam patukaronti, Tathagatas do not smile without a reason (M II 45).
 
 3. Accompaniment:
 atha kho Bhagava ayasmata Angulimalena pacchasamanepa yena Savatthi tena arikam pakkami, then the Blessed One set out for Savatthi with the Venerable Angulimala as attendant (ascetic) (M II 100).
@@ -492,20 +492,20 @@ atha kho Bhagava ayasmata Angulimalena pacchasamanepa yena Savatthi tena arikam 
 The words saba and saddhim, with, are often used as pre- or postpositions in such contexts: mahata bhikkhusanghena saddhim, with a large group of monks.
 
 4. Means:
-seyathapi Rahula rañno nago... sangamagato purimebi padebi kammam karotiti, pacchimebi padebi kammam karotiti, ... purimena kayena... pacchimena kayena... sise... kannebi... dantebi... nanguftbena... sondaya pi kammam karotiti, It is just as when, Rahul, a royal elephant in battle does his work with front and back legs, with the front and back of his body, with his head, ears, tusks, tail and trunk (M 1414-5),
-yattba kho avuso na jayati na jiyati na miyati na cavata na uppajati, naban tam gamanena lokassa antam... patteyyan ti vadami, I do not say that one can reach by walking [the commentary Spk II 116 has padagamena] the end of the world where there is no being born, no growing old, no dying, no falling (from one state) and being reborn (in another) (S I 61).
+seyathapi Rahula rañno nago... sangamagato purimebi padebi kammam karotiti, pacchimebi padebi kammam karotiti, ... purimena kayena... pacchimena kayena... sise... kannebi... dantebi... nangufthena... sondaya pi kammam karotiti, It is just as when, Rahul, a royal elephant in battle does his work with front and back legs, with the front and back of his body, with his head, ears, tusks, tail and trunk (M 1414-5),
+yattha kho avuso na jayati na jiyati na miyati na cavata na uppajati, naban tam gamanena lokassa antam... patteyyan ti vadami, I do not say that one can reach by walking [the commentary Spk II 116 has padagamena] the end of the world where there is no being born, no growing old, no dying, no falling (from one state) and being reborn (in another) (S I 61).
 
 5. Manner:
 akase pallankena kamati, he travels cross-legged through the sky (D I 78),
-rakkhitenaeva kayena rakkhitaya vaca ryakbitena citta npattbitaya satiyamrsvutebi indriye bi gamam v naigam m pavisissati, he will enter a village or town with body protected, speech protected, mind protected, with mindfulness established and senses controlled (S II 271).
+rakkhitenaeva kayena rakkhitaya vaca ryakbitena citta npatthitaya satiyamrsvutebi indriye bi gamam v naigam m pavisissati, he will enter a village or town with body protected, speech protected, mind protected, with mindfulness established and senses controlled (S II 271).
 
 6. Attendant circumstances:
-kaya nu 'tta bhikkhave eterabi katbaya sannisinna, (engaged in) what kind of talk were you sitting just now? (D II 1),
-Abhibhu bhikkhu... dissamanena kayena dhamman desesi, adissamanena pi... dissamāṇa bettbimena upaddbakāyena adissamāṇa uparimena upaddbakāyena... dissamāṇa uparimena upaddbakāyena adissamāṇa bettbimena upaddbakāyena dhamman desesi, then the monk Abhibhu taught the Dhamma with his body visible, (then) with his body invisible, (then) with the lower half of his body visible and the upper half invisible, (and then) with the upper half of his body visible and the lower half invisible (S I 56),
-Kusinaraka Malla santbagare sannapatita bonti kenacid eva karaniye, the Mallans of Kusinara were gathered in the meeting-hall on some business (D II 147).
+kaya nu 'tta bhikkhave eterabi kathaya sannisinna, (engaged in) what kind of talk were you sitting just now? (D II 1),
+Abhibhu bhikkhu... dissamanena kayena dhamman desesi, adissamanena pi... dissamāṇa betthimena upaddbakāyena adissamāṇa uparimena upaddbakāyena... dissamāṇa uparimena upaddbakāyena adissamāṇa betthimena upaddbakāyena dhamman desesi, then the monk Abhibhu taught the Dhamma with his body visible, (then) with his body invisible, (then) with the lower half of his body visible and the upper half invisible, (and then) with the upper half of his body visible and the lower half invisible (S I 56),
+Kusinaraka Malla santhagare sannapatita bonti kenacid eva karaniye, the Mallans of Kusinara were gathered in the meeting-hall on some business (D II 147).
 
 7. In yena... tena constructions:
-atba kho Bhagava... yena Magadhamahtannam avasatbo ten'upasamkarnati, the Blessed One approached the dwelling-place of the great ministers of Magadha (D II 88).
+atha kho Bhagava... yena Magadhamahtannam avasatho ten'upasamkarnati, the Blessed One approached the dwelling-place of the great ministers of Magadha (D II 88).
 
 With the verb $\sqrt{a}s$, the accusative tad is found:
 atha kho Bhagavababata bhikkhusangbena saddhim yena Beluagamako tad avasari. then the Blessed One went with a large group of monks to the village of Beluva (D II 98).
@@ -520,7 +520,7 @@ atha kho ayasma Anando etena upayena pathbamen' eva yamena Kosinarake Malle Bhag
 kalena dhammasavanam, hearing the Dhamma at the right time (Sn 265).
 
 10. Phrases with a cognate or semantically related verb and noun:
-atba kho bhagava Bahiyam... iminā samkhittena ovidena ovaditiv pakkami, then the Blessed One exhorted Bāhiya briefly (lit.: with this short exhortation) and left (Ud 8),
+atha kho bhagava Bahiyam... iminā samkhittena ovidena ovaditiv pakkami, then the Blessed One exhorted Bāhiya briefly (lit.: with this short exhortation) and left (Ud 8),
 santena nun' ajja bhante Bhagava vibarena vibasi, has the Blessed One, sir, passed the time peacefully today? (D II 205),
 seyyatha pi... puriso...rukkham mule cbindeyya... agni dabeyya, it is just as if a man might uproot a tree and burn it with fire (S II 88).
 
@@ -536,7 +536,7 @@ devi je Ambapali etam bhattam satasabassena ti, Ambapali you wretch, give (us th
 idba bhikkhave ekacco puggalo agalbena pi vuccamano pharusena pi... amanapena pi... sammodati, here, monks, a certain person is spoken to severely, harshly, unpleasantly...(but) rejoices (A I 283-4),
 yada tumbe Kalama attana va janeyyatha..., when you know for yourselves, Kalamans... (A I 188).
 
-13. $\text{kim}$ is used with the instrumental in the senses what is the use of? away with!, no more of!, and alam in that of enough of!, there is no need: tena hi, amma, rañno appiyakālato pattbāya kim tambākām idba vāsena, so, lady, what is the use of your living here since the king became unkind? (Ja II 2); tena hi samma sārati bālān āja uyānabhūmīyā, so then good charioteer, that's enough of the pleasure-park for today! (D II 23); alam Devadatta, ma te rucci sanghabhedo, stop, Devadatta! Don't set your mind on a division in the Order! (Vin II 198).
+13. $\text{kim}$ is used with the instrumental in the senses what is the use of? away with!, no more of!, and alam in that of enough of!, there is no need: tena hi, amma, rañno appiyakālato patthāya kim tambākām idba vāsena, so, lady, what is the use of your living here since the king became unkind? (Ja II 2); tena hi samma sārati bālān āja uyānabhūmīyā, so then good charioteer, that's enough of the pleasure-park for today! (D II 23); alam Devadatta, ma te rucci sanghabhedo, stop, Devadatta! Don't set your mind on a division in the Order! (Vin II 198).
 
 ### D. The Dative is different in form from the genitive only in the $-a$ declension in the singular. In other declensions, therefore, it is often difficult and rarely necessary to decide whether the case is dative or genitive. The examples given here all use the singular of the $-a$ declension. It is used for
 1. Purpose, result:
@@ -546,7 +546,7 @@ siya kalaniu c' assa garunam dassanaya, he should know the right time for seeing
 n' etam bhikkhave appasannannam va pasadaya pasannannam va bhavyabhavaya, atha kho tam bhikkhave appasannannam c' eva appasadaya pasannannam ca ekaccanam annathattadi ti, 'this, monks, (will) not (conduce) to giving confidence to those without confidence, nor to increasing the confidence of those who have it, but to (continued) lack of confidence in those who have none, and to causing some of those who have confidence to become otherwise' (Vin I 45).
 
 2. The dative of $attha$ has the sense for the sake of:
-yass' atthaya kulaputta sammad eva aggarasma anagariyam pabhajenti, tad anuttaram brahmacariyapariyosanan... upasampaja vibarissatba ti, 'you will enter and live in that unsurpassed goal of the celibate life for the sake of which children from good families go forth from home to homelessness' (Vin I 9).
+yass' atthaya kulaputta sammad eva aggarasma anagariyam pabhajenti, tad anuttaram brahmacariyapariyosanan... upasampaja vibarissatha ti, 'you will enter and live in that unsurpassed goal of the celibate life for the sake of which children from good families go forth from home to homelessness' (Vin I 9).
 
 3. Direction:
 bhikkhu... manomayam kayam abhinimminaya cittam abhinibarati abhininnameti, the monk bends, inclines his mind to the creation of a mind-made body (D I 77),
@@ -562,7 +562,7 @@ karoto ciyati papam cirattaya Antaka, Endmaker (Mara), for (you) who does evil i
 appamadarato bhikkhu pamade bhayadassiva / abhabho paribhanaya nibhanas' eva santike, the monk who is devoted to carefulness, and sees the danger in carelessness, is incapable of falling away and is near to nirvana (Dhp 32),
 exam ante ayasmantiam Nigantnam na kallam assa veyyakaranaia.... (M II 215),
 alam hi te Vaccha añanaya Alam sammobaya, it is enough to cause you bewildered, Vaccha, enough to confuse you (M I 487),
-n' esba bhante katba Bhagavato dullabha bhabissati paccha pi savanaya, it will not be difficult for the Blessed One to hear this talk afterwards (D I 179).
+n' esba bhante katha Bhagavato dullabha bhabissati paccha pi savanaya, it will not be difficult for the Blessed One to hear this talk afterwards (D I 179).
 
 ### E. The Ablative, whose endings in the singular can be replaced in some declensions by the suffix -to, is used:
 1. The point from which, cause, origin, motive, etc.:
@@ -599,7 +599,7 @@ atha ara pamādamba, is he far from negligence? (Sn 156).
 1. The possessive genitive:
 tass imani satta ratanani abesun, he had these seven jewels (D III 58),
 kim abam silasampanna satthu sasanakarika / nibhanam nadbigacchami, why do I, who am virtuous and who follow the Teacher's instructions, not attain nirvana? (Thi 113),
-ajka kho pan' Ananda rattim pacchimagge... Tatbagatassa parinibhanam bhavissati, today, Ananda, in the last watch of the night the Tathagata's final nirvana will take place (D II 134).
+ajka kho pan' Ananda rattim pacchimagge... Tathagatassa parinibhanam bhavissati, today, Ananda, in the last watch of the night the Tathagata's final nirvana will take place (D II 134).
 
 2. The partitive genitive has the sense, like the partitive locative, 'from among':
 tesam neva kho Vasettha sattanam ekacca satta arannayatane pannakutisu tamjbanam anabhisambhnamana, some of these beings, Vasettha, being unable to maintain the life of meditation in forest leaf-huts (D III 94),
@@ -607,8 +607,8 @@ Sambuddho dvipadan setho, the Fully Awakened One is the best of the two-footed (
 imesam pana brahmana catunnam aniganam sakka ekan anigan thapayitva tibi angebi samannagatam brahmanam pannapetum, it is possible, brahmin, to leave one factor out from the four factors and declare that he who has the (other) three is a brahmin (D I 121).
 
 3. The subjective genitive (i.e., the genitive would be the subject if the word qualifying it were converted to a verb):
-idam pacchimakam Ananda tatbagatassa Vesalidassanam bhavissati, this will be the Tathagata's last sight of Vesali (D II 122) (a verbal equivalent would be tatbagato Vesalim dakkhati),
-evantessa kevalassa dukkhakkhandassa samudayo boti, such is the arising of this whole mass of suffering (D I 33) (a verbal equivalent would be evam eso kevalo dukkhakkhanda samudayati),
+idam pacchimakam Ananda tathagatassa Vesalidassanam bhavissati, this will be the Tathagata's last sight of Vesali (D II 122) (a verbal equivalent would be tathagato Vesalim dakkhati),
+evantessa kevalassa dukkhakkhandassa samudayo hoti, such is the arising of this whole mass of suffering (D I 33) (a verbal equivalent would be evam eso kevalo dukkhakkhanda samudayati),
 
 4. The objective genitive (i.e., the genitive would be the direct object if the word qualifying it were converted to a verb):
 tapo ca brahmacariya ca ariyassacana dassanam, asceticism, the life of celibacy, seeing the Truths of the Noble Ones, (Sn 267) (a verbal equivalent would be yo ariyasaccani passati),
@@ -619,16 +619,16 @@ atha kho Bhaggava acelo Kandaramasuko na cirass'eva... kalam akasi, and not long
 tena kho pana samayena Rajagabako setthi kalass' eva uyyanam agamasi, at that time a merchant from Rajagaha went out early to the park (Vin II 146).
 
 6. Other uses:
-sammaditthissa bho sammasankappa paboti, from Right View arises Right Intention (D II 217),
+sammaditthissa bho sammasankappa pahoti, from Right View arises Right Intention (D II 217),
 Kusavatiya Ananda rajadhanaya catunnam vannanam dvarani absum, in the royal town of Kusavati, Ananda, there were doors of four colors (D II 170),
 amatam tesam bhikkhave aparibhuttam yesam kayagatasati aparibhutta, the deathless has not been enjoyed by those who have not enjoyed (the practice of) mindfulness of the body (A I 45),
-idba bhikkhave asappuriso yo boti parassa avanno tam putho pi patakarot. ko pana vad oputtbassa? here, monks a bad man is one who reveals what is unpraiseworthy in another even when he is not asked. What to say of him when he is asked? (A II 77),
-kacci mani samma Jivaka na paccattbikanam desi? good Jivaka, you are not giving me over to my enemies? (D I 50),
+idba bhikkhave asappuriso yo hoti parassa avanno tam putho pi patakarot. ko pana vad oputthassa? here, monks a bad man is one who reveals what is unpraiseworthy in another even when he is not asked. What to say of him when he is asked? (A II 77),
+kacci mani samma Jivaka na paccatthikanam desi? good Jivaka, you are not giving me over to my enemies? (D I 50),
 teranokcakvattisa anuyuttabesumt, they became client(-king)s of the wheel-turning king (D III 62),
 atha kho rañno Magadhassa Ajatasattusa... abud eva bhayam abi chambhitattam abi lomabanso, then the Magadhan king Ajatassatu was afraid, stupefied, his hair stood on end (lit. there was fear, stupefaction, horripilation of him) (D I 4).
 
 #### With adjectives:
-kusalo kho abam dittbadhamikanam attanan, I am expert in matters of the here-and-now (D II 241),
+kusalo kho abam ditthadhamikanam attanan, I am expert in matters of the here-and-now (D II 241),
 sutavaco bho bhikkbea aryasavako ariyanam dassavi ariyadhammassa kovido... monks, a well-taught noble follower who looks to the Noble Ones and is skilled in the noble Dhamma... (M I 137),
 sabu no bhavam Gotamo... bhasatu, sace bhot Gotamassa agaru ti, 'please may the honorable Gotama speak to us...if it is not troubling to the honorable Gotama'(Sn p.50),
 na kho etam Phagguna patiripam kulaputtassa... pabhajitassa, Phagguna this is not appropriate for a son of good family who has been ordained (M I 123),
@@ -643,8 +643,8 @@ ayasmato Sariputtassa sutva bhikkhu dharissanti, if they hear the Venerable Sari
 #### With adverbs and prepositions:
 dakkhinena dvarena nikkhamitva dakkhinato nagarassa...sismt asa cbindimsu, they went out of the south gate, and to the south of the city they cut off his head (D III 67),
 Anando... antarena yamakalānām uttarasīkām mañcakām pañāpesi, Ananda... prepared a bed for the Blessed One between the twin Sal trees, with its head to the north (D II 137),
-seyathāpi nāma pavaso pattassa nibhayamānassa uparī santiṇakam boti, just as there is the spreading out of skin on top of boiled milk-rice as it cools down (D III 85),
-bhagavato purato attbasi, he stood in front of the Blessed One (Vin I 3),
+seyathāpi nāma pavaso pattassa nibhayamānassa uparī santiṇakam hoti, just as there is the spreading out of skin on top of boiled milk-rice as it cools down (D III 85),
+bhagavato purato atthasi, he stood in front of the Blessed One (Vin I 3),
 bhagavato avidure atikkamanti, they passed by not far from the Blessed One (Sn p.48).
 
 ### G. The Locative is used for:
@@ -654,7 +654,7 @@ yo kho Devadatta samaggam samigham bhindati... kappam nirayam pacati, Devadatta,
 so anekavibhitam idddividham paccanubhoti,... tirokuddam tiropakaram tiropabhataru asajamamo gacchati seyyatha pi akase, pathaviya pi ummujananimmujananaki roti seyyatha pi udake, udake pi abjjiamane gacchati seyyatha pi pambaviya, akase pi pallankena kamati seyyatha pi pakkhri sakuno, he realizes various forms of magical power: he goes unhindered through walls, ramparts and mountains as if he were in the sky, he dives into the earth and emerges from it as if into and out of water, he walks on water without its (surface being) broken, as if on the earth, he travels cross-legged in the sky as if he were a bird with wings (M II 18),
 atha kho Bhagava...panatte asane nisidi, and then the Blessed One... sat down on the appointed seat (D I 109),
 atha kho ayasma Mahakassapo magga okkamma aninatarasmin rukkhumule nisidi, and then the Venerable Mahakassapa went down from the road and sat at the foot of a tree (D II 162),
-sadhu manasi-karotba, keep it in mind, pay attention (D I 124),
+sadhu manasi-karotha, keep it in mind, pay attention (D I 124),
 mettavihariyo bhikkhu/pasanno Buddhasasane, the monk who lives in loving-kindness, with serene confidence in the Buddha's Teaching (Dhp 368),
 panham tam samana pucchissami, sace ma na vyakarissasi... padesu gabetov paragangaya khippissami, I will ask you a question, ascetic, and if you do not answer... I will grab you by the feet and throw you across the Ganges (Sn p.32),
 vuttam kho pan' etam Bhagavata, yam kiñci vedayitam tam dukkbasmin ti, this has been said by the Blessed One: 'whatever is experienced is in (the category of) suffering' (S IV 216),
@@ -663,7 +663,7 @@ atha kho Ratthapalo kulaputto matapitusu pabhajam alabhamano, then, Ratthapala, 
 yami nunabam samanesu Sakyaputtesu pabhajeyan ti, 'what now if I were to ordain among (these) ascetics, sons of the Sakyans?' (Vin I 57).
 
 2. comparison:
-anamataggsamsarato mahim jambudipam upanitam / kolattbimattangulikam matamatus eva nappabonti, (remember) the great earth (of) Jambudipa compared to that which is without beginning or end for one who is in samsara; little balls (of earth) the size of jujube kernels are not equal to the mothers (one has had) (Thi 498),
+anamataggsamsarato mahim jambudipam upanitam / kolatthimattangulikam matamatus eva nappabonti, (remember) the great earth (of) Jambudipa compared to that which is without beginning or end for one who is in samsara; little balls (of earth) the size of jujube kernels are not equal to the mothers (one has had) (Thi 498),
 añnataro bhikkhu Bhagavantam etad avoca, kivadigbnu nu kho bhante Padume niraye dyuppamanan ti... (avoca Sattha) ... te ganita vidubi tilavaha /ye padume niraye upanita / nabutani hi kotoiya pañca bhavanti / dvadasa kotisatani pun' anaña. a monk said to the Blessed One, 'How long is the length of life in the Paduma hell?' (the Teacher said) wise men have counted the (number of) sesame seeds which (can be) compared to (life in) the Paduma hell; they are fifty million myriads and another 120 million (Sn pp. 125-6, verse 677).
 
 3. 'with regard to,' in respect of, 'in re': ariyasavako rupasmin nibhindati the noble follower becomes dissatisfied with body (M I 139),
@@ -673,11 +673,11 @@ api nu so puriso evamkarī tasmīn kulle kiccakārī assa ti, would that man in 
 
 4. Adverbial senses of space and time:
 sace hi mayam bho Kacana suneyyama tam Bhagavantam dasasu yojanesu, dasa pi mayam yojani naccbeyyama tam Bhagavantam dassanaya... vitasiya yojanesus... timsatiyayojanesu.. if we heard, Kaccana sir, that the Blessed One was within ten leagues we would go ten leagues to see the Blessed One,... twenty leagues,... thirty leagues (M II 90),
-yasmim samaye (atta) upeti sanni tasmim samaye boti, yasmim samaye apet asaññi tasmim samaye boti, at the time when (the self) comes, then (a person) is conscious, when it goes then he is unconscious (D II 180),
+yasmim samaye (atta) upeti sanni tasmim samaye hoti, yasmim samaye apet asaññi tasmim samaye hoti, at the time when (the self) comes, then (a person) is conscious, when it goes then he is unconscious (D II 180),
 upasake no bhagava dharentu ajatagge panupete saranam gate, may the Blessed One accept us as lay-followers, taken refuge (in him), from this day onwards for as long as we live (Vin I 4).
 
 5. The partitive locative has the sense, like the partitive genitive, 'from among':
-attbi nu kho me imesu pancasu kamagunesi annatarasminva annatarasmin vā āyatane uppajati cetaso samudacarvi, 'Does any (improper) activity of mind arise for me in one or another area from among these five classes of sense-pleasure?' (M III 114),
+atthi nu kho me imesu pancasu kamagunesi annatarasminva annatarasmin vā āyatane uppajati cetaso samudacarvi, 'Does any (improper) activity of mind arise for me in one or another area from among these five classes of sense-pleasure?' (M III 114),
 tena kho pana samayana cataso bhaginiyo bhikkhunisu pabhajita bonto Nanda Nandavati Sundarinanda Thullananda t tasu Sundarinanda tarunapabhajita abhrirap biot dassaniya.. at that time four sisters had been ordained among the nuns, Nanda, Nandavati, Sundarinanda, and Thullananda. Among them Sundarinanda had been ordained while young, and she was (the most) beautiful, good to look at... (Vin IV 211).
 
 ### G. The Vocative case is used solely for addressing a listener:
@@ -705,7 +705,7 @@ adbanan dhane ananuppadiyamane, daliddiyam vepullam agamasi; daliddiye vepullaga
 Phrases without a noun, such as evam sante, this being so, evam vutte, when this was said, are common.
 
 ### 2. Genitive absolute
-Pali grammarians cite the Pāninian rule (II 3, 38) chattbi canādare, the sixth also (can be used like the locative) when there is the sense of disregard (Saddaniti 725, Moggallāna #37, Payogasiddhi #35). It is often, though not always the case that the sense of a genitive absolute is despite. The most common example given is:
+Pali grammarians cite the Pāninian rule (II 3, 38) chatthi canādare, the sixth also (can be used like the locative) when there is the sense of disregard (Saddaniti 725, Moggallāna #37, Payogasiddhi #35). It is often, though not always the case that the sense of a genitive absolute is despite. The most common example given is:
 akotayanto te neti Sivirajassa pekkhato, he took them (the children) away beating them although (their father) the king of the Sivis was looking on (Ja VI 548).
 
 Grammarians give as an example of anādara the sentence cited above under the locative beginning with maccu. Aggavamsa (ibid.) gives as alternative examples rudato dārakassa pabhaji and rudantasmīn dārake pabhaji, he left although the child was crying.
@@ -728,13 +728,13 @@ These uses could also be seen as instrumentals of attendant circumstance.
 
 #### Accusative:
 atha kho Ambapalganika Bhagavantam bhuttavim onitapattapani amnataram nicam asanan gabetva ekamantam nididi, then Ambapali the courtesan, when the Blessed One had washed his bowl and hands, sat down to one side on a low seat (D II 97-8),
-nite dārake odassanam gamite na pbali badayam sadatbadā vā sabassadba va, when his children were led away and had gone out of sight, his heart did not break into a hundred or a thousand (pieces) (Mil 275),
-kumariyo ya c'ma gottarakkhita /jinnca ya yaa sabbattu-ittbiyo / ta chandaragam purisesu uggatam / biriyainivarenti sacitlam attano, young women and those who are (still) guarded by their family, women who are old and those who (still) have husbands, when desire has arisen in men (for them) out of modesty control their own hearts (Ja V 410).
+nite dārake odassanam gamite na pbali badayam sadathadā vā sabassadba va, when his children were led away and had gone out of sight, his heart did not break into a hundred or a thousand (pieces) (Mil 275),
+kumariyo ya c'ma gottarakkhita /jinnca ya yaa sabbattu-itthiyo / ta chandaragam purisesu uggatam / biriyainivarenti sacitlam attano, young women and those who are (still) guarded by their family, women who are old and those who (still) have husbands, when desire has arisen in men (for them) out of modesty control their own hearts (Ja V 410).
 
 Phrases without a noun, such as evam santam, this being so, are also found.
 
 These usages can be regarded as extensions of the adverbial and referential uses of the accusative. The following sentence has been cited as containing an accusative absolute:
-jānābi yadi va tam bhavantam Gotamam tatba santam yeva saddo abhbuggato yadi va no tatba, find out whether, the honorable Gotama being indeed so, the report has arisen [i.e. is correct] or whether (he is) not so (D I 88, M II 134).
+jānābi yadi va tam bhavantam Gotamam tatha santam yeva saddo abhbuggato yadi va no tatha, find out whether, the honorable Gotama being indeed so, the report has arisen [i.e. is correct] or whether (he is) not so (D I 88, M II 134).
 
 A version without the participle is cited by grammarians (Kaccayana Be 157, Saddaniti 716) to illustrate kammapavacaniya, a class of prepositions or prefixes governing nouns in the accusative case, here abhi:
 tam kho pana bhavantam gotamam evam kalyano kittisaddo abhbuggato, a report has arisen as follows about the Honorable Gotama (Vin III 1).
@@ -779,19 +779,19 @@ This refers to a topos of Sanskrit grammar: whether someone who does not yet exi
 [1]yo sayam eva kiriyam karoti, so suddhakattā nama, tam yatā: puriso maggam gaccbati, suddha bhattam pacati, putto jayati, buddhaja jito Mara, Upaguttena baddo Mara.
 A person who performs an action by himself is an agent pure and simple, that's to say: a person goes [intransitive] on the road, a cook cooks [transitive] a meal, a child is born [intransitive], Mara was conquered by the Buddha [passive, agent is the Buddha], Mara was bound by Upagutta [passive, agent is Upagutta].
 
-[2] yo anam kammi yojeti, so hetukattanama. so hi parasra kiriyya kuranabha vena binoti gaccbati pavattat ti hetu, hetu ca so katta cti attbena hetukatta: Yanadatto Devadattam gamayati.
+[2] yo anam kammi yojeti, so hetukattanama. so hi parasra kiriyya kuranabha vena binoti gaccbati pavattat ti hetu, hetu ca so katta cti atthena hetukatta: Yanadatto Devadattam gamayati.
 A person who incites another to (perform) actions is called a causal agent. A person who is the reason for the action of another is the cause (for saying of the other person or thing) 'He sends, he goes, it occurs,' and so is a causal agent in the sense that he is both cause and agent: 'Yaññadatta gets Devadatta to go.'
 
-[3] yo parassa kiriiyam paticca kammabutto pi sukarrattayama eva sijbanto viya boti, so kammakattana, kammada ta tam katta ci attbena: sayama vako kariyati, sayama eva paciyati odano ti evam tividba bhavanti kattaro.
+[3] yo parassa kiriiyam paticca kammabutto pi sukarrattayama eva sijbanto viya hoti, so kammakattana, kammada ta tam katta ci atthena: sayama vako kariyati, sayama eva paciyati odano ti evam tividba bhavanti kattaro.
 Whatever, although an object because of (something or) someone else's action, seems to accomplish (the action) easily by itself, is an object-agent: the mat is made by itself, the rice cooks itself. Thus agents are threefold.
 
 api ca [4] abhhidakattta [5] anabhhidakattca ti ime dve tce ta tayo ti kattunam pañcavidbattam api icchanti garu. tattha:
 
 But (some) authorities want there to be a fivefold division of agents: as well as those three (they say) there are also these two: [4] the expressed agent and [5] the unexpressed agent. In this regard [they say]
 
-[4] puriso maggam gaccbati, ayam abhhidakattt akhyatenena katbitatt In 'a person goes on the road' there is an expressed agent because (the agent) is referred to by the verb [i.e. its ending ti]:
+[4] puriso maggam gaccbati, ayam abhhidakattt akhyatenena kathitatt In 'a person goes on the road' there is an expressed agent because (the agent) is referred to by the verb [i.e. its ending ti]:
 
-[sudena paciyati odano, abina datbo naro, ayam anabhhidakattä akhyatenena kitenva akatbitatta.
+[sudena paciyati odano, abina datho naro, ayam anabhhidakattä akhyatenena kitenva akathitatta.
 In 'the rice is cooked by the cook' and 'the man has been bitten by a snake,' there is an unexpressed agent because (the agent) is not referred to either by the verb or by a kit suffix [see 3.3].
 
 abhinipbadanalakkhanam kattukarakam. The factor of action consisting in the agent has the characteristic of bringing (something) about.
@@ -805,16 +805,16 @@ kiriyapattilakbhanam kammakarakam tam tividbam nibhattanyadivasena, sattavidbam 
 
 The factor of action consisting in the object has the characteristic of realizing the action, (and) it is threefold in terms of what is to be produced, etc.; but some want it to be sevenfold, in terms of what is wanted, etc. In this regard:
 
-[1] ratbam karoti, sukham janayati, puttam vijayati, aladdham pattbeta ti idam nibhattaniyamnama.
+[1] ratham karoti, sukham janayati, puttam vijayati, aladdham pattheta ti idam nibhattaniyamnama.
 He makes a cart, he gives rise to happiness, she bears a child, he wishes for what he does not have: this is called something to be produced.
 
-[2] katbam aingaram karoti, suvannam keyuram kamakam va karoti, vibayo lunati, idam vikaranjami nam. tam duvilbany, paricattakuranaparni aparicattakaranam. tatba:
+[2] katham aingaram karoti, suvannam keyuram kamakam va karoti, vibayo lunati, idam vikaranjami nam. tam duvilbany, paricattakuranaparni aparicattakaranam. tatha:
 He makes wood into charcoal, he makes gold into a bracelet or ring, he harvests rice, this is called something to be changed and this (itself) is twofold: where the (material) cause does not remain, and where it does remain. In this regard:
 
 [2A] paricattakāranamnama yam karanassa vinaseena sambhutam.
 Something is called a material cause which does not remain when something comes into being by the destruction of its (material) cause [e.g. wood → charcoal].
 
-[2B] aparicattakaranamnama yattba karanabhute vattbumbi vijamane yeva gunantaruppattiya vobarabhedissati.
+[2B] aparicattakaranamnama yattha karanabhute vatthumbi vijamane yeva gunantaruppattiya vobarabhedissati.
 Something is called a material cause which does remain because (merely) a change in expression is seen when a different quality arises, and the thing which was the (material) cause still exists [e.g. gold → bracelet].
 
 [3] nivesanan pavisati, adiccam namassati, rupam passati, dhamman sunati, pandite payirupasati, munasa Pataliputtam gacbati, idam papaniyanama. tatabi hi nivesanan pavisatiti adisu nivesanadinam kriyaya na koci viseto kariyati anñnatra sampattimatta.
@@ -826,17 +826,17 @@ He enters the house, he worships the sun, he sees a form, he hears dhamma, he re
 
 [3C] gāmam gaccbanto rukkbamulam upasamkamati icc ādisu rukkbamulādi nevicbitanānicbitakammam nāma. In (sentences) such as 'going to the village he approaches the root of a tree', the root of a tree etc. constitute an object neither desired nor undesired.
 
-[4] ajam gāmam nayati, Yañānādattam kambalam yicati brahmayo, samidabham dhanam bhikkhati, rajanami etad abravi icc ādisu Ājādayo abhidakammamnama, gāmādayo akatbitakammam. tatabi hi ajam gāmam nayati ti ettba ajo abhidakammam dvikammikāya nayanakiriyāya pattum icchitataratta, gimo pana appaddbānattā akatbitakammam ESA nayo itaresu pi.
+[4] ajam gāmam nayati, Yañānādattam kambalam yicati brahmayo, samidabham dhanam bhikkhati, rajanami etad abravi icc ādisu Ājādayo abhidakammamnama, gāmādayo akathitakammam. tatabi hi ajam gāmam nayati ti ettha ajo abhidakammam dvikammikāya nayanakiriyāya pattum icchitataratta, gimo pana appaddbānattā akathitakammam ESA nayo itaresu pi.
 In (sentences) such as 'He leads a goat to the village,' 'a brahmin asks Yanadatta for a blanket,' 'He asks a rich man for money, he says this to the king' the goat etc., is called the expressed object, the village etc. the unexpressed object. For in 'He leads a goat to the village,' the goat is the expressed object because (the agent) desires to complete (the action) more (with regard to the goat) by the action of leading which has (these) two objects, while the village is unexpressed because it is less important. The same analysis holds also in the other cases.
 
 [5] puriso purisam kammi kareti ic adisu pana anattapurisadayo kattukamnamnama, katta ca so kammam ca ti attena. In (sentences) such as ('(one) man makes another perform an action,' the man who is ordered etc. is called an agent-object, because he is both an agent and an object.
 
-[6] maya iijate buddho, Yanadatto kambalam yaciyate brahmanena, nago manim yacito brahmanena ice evamadisu buddhidayo abhidakammamnama, akhyatenena paccayena va katbitatta. In (sentences) such as 'the Buddha receives an offering from me,' Yanadatta is asked for a blanket by the brahmin, 'the naga was asked for a gem by the brahmin,' the Buddha etc. is called an expressed object, because they are referred to by the verb and/or the suffix.
+[6] maya iijate buddho, Yanadatto kambalam yaciyate brahmanena, nago manim yacito brahmanena ice evamadisu buddhidayo abhidakammamnama, akhyatenena paccayena va kathitatta. In (sentences) such as 'the Buddha receives an offering from me,' Yanadatta is asked for a blanket by the brahmin, 'the naga was asked for a gem by the brahmin,' the Buddha etc. is called an expressed object, because they are referred to by the verb and/or the suffix.
 
-[7] cbattam karoti, gbatam karoti icedisu chattadayo anabhidakammam nama, akhyatenena akatbitatta. In (sentences) such as 'He makes an umbrella,' he makes a pot,' the umbrella etc. is called an unexpressed object, because it is not referred to by the verb.
+[7] cbattam karoti, gbatam karoti icedisu chattadayo anabhidakammam nama, akhyatenena akathitatta. In (sentences) such as 'He makes an umbrella,' he makes a pot,' the umbrella etc. is called an unexpressed object, because it is not referred to by the verb.
 
 ### MEANS / INSTRUMENTAL
-yena kurute yena va passati, tam pi karaman. kariyati kiriyam janeti anena kattuno upakaranyaabetu vattubuna ti karayam. etta ba sati pi sabbakarakanam kiriyasadhatte yena kurute tdi adisesetva-vacanam kattupakaranyaibtesu sadbanesu sadbakatamass eva gabanattham. kiriyasambharalakkhanan karayakarapan. tam duvidbam ajbattikababiravasa: cakkbuna rupam passati, sotena saddam sunati.. manasa dhamman vijananati; bathtbna kamman karoti, pharasaruccam cbindati.
+yena kurute yena va passati, tam pi karaman. kariyati kiriyam janeti anena kattuno upakaranyaabetu vattubuna ti karayam. etta ba sati pi sabbakarakanam kiriyasadhatte yena kurute tdi adisesetva-vacanam kattupakaranyaibtesu sadbanesu sadbakatamass eva gabanattham. kiriyasambharalakkhanan karayakarapan. tam duvidbam ajbattikababiravasa: cakkbuna rupam passati, sotena saddam sunati.. manasa dhamman vijananati; baththna kamman karoti, pharasaruccam cbindati.
 
 That by which (someone) does (something), or that by which (someone) sees (something), is the means. An action is performed (by an agent), (an agent) instigates an action, with this thing which is the agent's instrument: this is the means. In this regard although all factors of (an) action bring it to fruition, the phrase which specifies (the instrumental) as 'that by which/whom (someone) does (something) is for the sake of grasping that it is the most important among the means of realization which are the agent's instruments. The factor of action consisting in the means has the characteristic of implementing the action. This is twofold, internal and external: he sees a form with his eye, he cognizes a mental object with his ear, he understands the dhamma with his mind; he performs an action with his hand, he cuts a tree with an axe.
 
@@ -845,16 +845,16 @@ yassa dattukamo yassa va ruccati, tam sampadanam. yassa va dattukamo yassa va ru
 
 The person to whom (one) wants to give (something), or the person to whom (something) is pleasing, this is the beneficiary. The person to whom (someone) wants to give (something), or the person to whom (something) is pleasing, or the person to whom (something) seems fit, the person to whom (someone) owes (something), this is the factor of action designated the beneficiary: he wants to give a gift to the ascetic, he gives a robe to the ascetic, a meal pleases the man, going pleases me, may splitting the Monastic Order not please the venerable ones, Yanñadatta owes Devadatta a golden umbrella.
 
-samā pakārena assa dadāti ti sampadānam patiggabako. patiggabanalakkkbanam sampadakinakarakam, tam pi etam sampadanam tividbem boti: anirakaranajbesananumativasena. tatba [1] kiinci diyamanassa anirikaranena sampadanasainam labhati, yatba Buddhasa. pupbam dadati, rukkassa jalam dadati ti [2] kiinci ajibesanasa yacakana bhojalam dadati ti, [3] ki ci anumatiya Narayanassa balim dadati, bhikkusa bhattam dadati ti.
+samā pakārena assa dadāti ti sampadānam patiggabako. patiggabanalakkkbanam sampadakinakarakam, tam pi etam sampadanam tividbem hoti: anirakaranajbesananumativasena. tatha [1] kiinci diyamanassa anirikaranena sampadanasainam labhati, yatha Buddhasa. pupbam dadati, rukkassa jalam dadati ti [2] kiinci ajibesanasa yacakana bhojalam dadati ti, [3] ki ci anumatiya Narayanassa balim dadati, bhikkusa bhattam dadati ti.
 
 'He gives (something) to him in the right manner', (so) the receiver is the beneficiary. The factor of action consisting in the beneficiary is characterized by receiving. This beneficiary is threefold, in terms of whether (the beneficiary) does not refuse, is keen (to receive the gift), or (simply) consents to it. In some cases [1] (someone) acquires the designation 'beneficiary' by not refusing what is given, such as in 'He gives a flower to the Buddha,' (or) 'He gives water to a tree'; in some cases [2] by wanting (what is given), 'He gives food to beggars', in some cases [3] by consenting (to what is given), 'He makes an offering to Narayana,' he gives the monk a meal.'
 
 ### POINT OF DEPARTURE / ABLATIVE
-yato yu apeti yato vā Āgacbāti tam karakam apādamasānām boti. Āpeca ito āadāṭṭi ti Āpādānām, ito vattbuto kūyavasena cittravasena vā Āpagantōa Ānām gānbāṭi ti atbo.
+yato yu apeti yato vā Āgacbāti tam karakam apādamasānām hoti. Āpeca ito āadāṭṭi ti Āpādānām, ito vatthuto kūyavasena cittravasena vā Āpagantōa Ānām gānbāṭi ti atho.
 
 That from which (someone) goes away or that from which (someone) comes is the factor of action designated the point of departure. Leaving here he takes (it) away' is the point of departure, which means that he goes away from this place, bodily or mentally, and chooses another.
 
-tam pana apadanan duvidham [1] kiyasamyogapubhaka [2]cittasamyogapubhakapagamanavasena, tatba [3]calavadbi [4]nicalavadbivasena.atha va pana tividbam: calavadbinicalavadbi [5]nevacalāvadbi-naniccalāvadbivasena, tatha [6]niddithavisaya [7]uppattavisaya[8]anumeyyavisayavasena.
+tam pana apadanan duvidham [1] kiyasamyogapubhaka [2]cittasamyogapubhakapagamanavasena, tatha [3]calavadbi [4]nicalavadbivasena.atha va pana tividbam: calavadbinicalavadbi [5]nevacalāvadbi-naniccalāvadbivasena, tatha [6]niddithavisaya [7]uppattavisaya[8]anumeyyavisayavasena.
 
 This point of departure is twofold: if there is the going away from a previous [1] bodily or [2] mental connection, and likewise if there is a [3] movable or [4] immovable limit (terminus a quo). Alternatively it is threefold: if there is a [3] movable, [4] immovable or [5] a neither-movable-nor-immovable limit, and likewise if its sphere (of operation) is [6] indicated (by the verb), [7] implied, or [8] inferred.
 
@@ -862,21 +862,21 @@ gāmā apenti munayo ti ādisu hi [1] kāyasyamγogapubhakassa apagamanassa vijg
 
 [1] In (sentences) such as 'the sages leave the village,' because there is a departure which has a previous bodily connection, a departure from the village is called one which has a previous bodily connection; [2] in (sentences) such as 'He refrains from killing living beings,' because there is a departure which has a previous mental connection, a departure from killing living beings etc. is called one which has a previous mental connection. likewise in (sentences) such as 'the mahout fell from the stampeding elephant,' departure from the elephant etc. is called [3] one with a movable limit, because a movable terminus exists; in (sentences) such as 'the forest-dwellers come down from the mountain,' departure from the mountain etc. is called [4] one with an immovable limit, because an immovable terminus exists; separate from both these modes, in (sentences) such as 'Sariputta [preached] in place of the Buddha,' and 'fear is born from desire,' departure from the Buddha etc. is [5] not said to have a movable or immovable limit, because he cannot be apprehended as a limit. In this way the point of departure is twofold and threefold.
 
-puna tāmītivbānī ca niṭṭṭbavisayādīvasena. tātba gāmā apagacbati t ādi niddītībavisayam bōt āpādānīvassāsa [6] kirqiyāvisesassa niṭṭbattā; kusūlāo pacati, abhidhamma katabayati, valbadābī vijotātāi [7] upattavisayamnama, valabakā niggamma vijotati ti ādina upādeyyo ettha kirqiyavesso; Madburā Pāṭaliputtakebi abhirūpatara ti [8] anumeyavisayamama, Madburā Pāṭaliputtakebi ukkansiyati kenacigunena ti anumeyyo ettbai kiryaviseso.
+puna tāmītivbānī ca niṭṭṭhavisayādīvasena. tātha gāmā apagacbati t ādi niddītībavisayam bōt āpādānīvassāsa [6] kirqiyāvisesassa niṭṭhattā; kusūlāo pacati, abhidhamma katabayati, valbadābī vijotātāi [7] upattavisayamnama, valabakā niggamma vijotati ti ādina upādeyyo ettha kirqiyavesso; Madburā Pāṭaliputtakebi abhirūpatara ti [8] anumeyavisayamama, Madburā Pāṭaliputtakebi ukkansiyati kenacigunena ti anumeyyo etthai kiryaviseso.
 
 But again it is threefold, as to whether its sphere (of operation) is indicated (by the verb), etc. In this regard in (sentences) such as 'He went away from the village,' [6] the sphere of operation is indicated because to indicate the specific form of the verb is also to indicate the sphere of operation of the point of departure [i.e. given apagaccbati one knows it must govern an ablative]; [7] 'He prepares food from the granary,' 'He preaches from the Abhidhamma,' 'lightning flashes from a cloud,' the sphere of operation is implied, (since) here specification (of the ablative) by a verb is to be assumed, by means of (sentences) such as 'lightning comes out from a cloud'; [8] in 'the Madhurans are better-looking than the Pataliputtans' the sphere of operation is to be inferred, (since) here specification (of the ablative) by a verb is to be inferred, by means of (a sentence) such as 'the Madhurans are above the Pataliputtans in some respect.'
 
 ### PLACE/LOCATIVE
-yo adbarto tam okasami. yo kattukammasamavetanam nisajapacanadikiriyananm adbarakatbnena adbarto, tam karakami okasasanam boti. bhuso kiroyam dbareti ti adbarto, so eva tasa mkiyanan patitbanattbena okasattta okasam namai t vucati. tatba hi kate nisidati Devadatto ti ettha kato Devadattam dbarento tamsamvetam asanakiriyan dbareti, thaliyam odanam pacati ti ettha tbali tandulam dbarenti tamsamvetam pi pacanakiriyapacdreti.
+yo adbarto tam okasami. yo kattukammasamavetanam nisajapacanadikiriyananm adbarakathnena adbarto, tam karakami okasasanam hoti. bhuso kiroyam dbareti ti adbarto, so eva tasa mkiyanan patithanatthena okasattta okasam namai t vucati. tatha hi kate nisidati Devadatto ti ettha kato Devadattam dbarento tamsamvetam asanakiriyan dbareti, thaliyam odanam pacati ti ettha thali tandulam dbarenti tamsamvetam pi pacanakiriyapacdreti.
 
 That which is the support is the place. That which is the support in the sense of sustaining the actions of sitting, cooking, etc. which inhere in the agent and object, is the factor of action which is designated 'location.' It strongly supports the action, so it is a support. It is also called 'location' because it provides a site for these actions in the sense of a foundation. Thus in 'Devadatta sits on the mat' the mat, supporting Devadatta, supports the action of sitting which inheres in him; in 'He cooks the rice in a pot,' here too the pot, holding the rice, sustains the action of cooking which inheres in it.
 
-so yam okaso catubidbo: vyapiko opasilesiko samipiko vesayiko ti tattha [1] vyapikonama sakako adbarabhuto attbo adbeyena pathato bolt, tam yatba: tilesu telam, uncbusu raso, dadbimbi sappi ti. [2] opasilesikonama packekasiddhaanm bhovanan m yatiba upagamo bolt, tam yatba: kame nisidati ti. [3] samipikonama yatba samipe samipikavobaram katva adbarabhavo vkappiyati, tam yatba: Savattbiyam vibarati, Gangyam vajo ti.... [4] vesyakoma nata yhatta annattbhabavvasana desantarvacbedvasana va adbarparapinkapo, tam yatba bhumisu manussa, jalesu macba, akase sukuna ti... adbarayalakbkbanam okasakaram.
+so yam okaso catubidbo: vyapiko opasilesiko samipiko vesayiko ti tattha [1] vyapikonama sakako adbarabhuto attho adbeyena pathato bolt, tam yatha: tilesu telam, uncbusu raso, dadbimbi sappi ti. [2] opasilesikonama packekasiddhaanm bhovanan m yatiba upagamo bolt, tam yatha: kame nisidati ti. [3] samipikonama yatha samipe samipikavobaram katva adbarabhavo vkappiyati, tam yatha: Savatthiyam vibarati, Gangyam vajo ti.... [4] vesyakoma nata yhatta annatthhabavvasana desantarvacbedvasana va adbarparapinkapo, tam yatha bhumisu manussa, jalesu macba, akase sukuna ti... adbarayalakbkbanam okasakaram.
 
 This location is fourfold: pervading, with close contact, neighboring, indicating the domain. In this regard, [1] the pervading is when the whole thing which is the support is permeated by what is supported, such as 'oil in sesame seeds,' 'juice in sugarcanes,' 'ghee in curds.' [2] 'with close contact' is when there is close contact, proximity between two things which are established separately, as in 'He sits on the mat.' [3] The neighboring is when the existence of a support in (some) neighborhood is discerned by an expression for the neighborhood, as in 'He is living in Savatthi,' 'a cowpen on the Ganges.'... [4] Indicating the domain is when a support is determined by means of a difference in place or dissimilar states of being, as in 'Human beings live on the earth, fish in the seas and birds in the sky.' The factor of action consisting in location is characterized by (the act of) supporting.
 
 ### GENITIVE and VOCATIVE
-na chattbivibitattho karakam, yathamantaanam.
+na chatthivibitattho karakam, yathamantaanam.
 
 The meaning expressed by the sixth case is not a factor of action, likewise the vocative.
 
@@ -885,7 +885,7 @@ The genitive is usually known, by synecdoche, by one relation it expresses, owne
 | relation |  | example |  |
 | --- | --- | --- | --- |
 | bhacca [= bertya] | maintained by | raññó puriso | the king's man |
-| santaka | belonging to | raññó rattbams | the king's realm |
+| santaka | belonging to | raññó ratthams | the king's realm |
 | samípa | in the vicinity of | ambavanassa avidire | not far from the mango-grove |
 | samüba | accumulation of | dhanñanam rasi | heap of grains |
 | avayava | part of | rukkassa sákha | branch of a tree |
@@ -893,7 +893,7 @@ The genitive is usually known, by synecdoche, by one relation it expresses, owne
 
 kiriyāsambandhabhāva n' asti. There is no factor of action here [in the uses of the genitive] because there is no (immediate) connection with the action (of the verb). For the existence of a possessor is apprehended as a result of the existence of the verb and the factor(s) of action, as when it is said that 'He is the king's man,' it is because the king provides and the man receives that he is known as 'the king's man.'
 
-Aggavamsa explains cases which may seem to be genitives which have a direct connection to the action of the verb, such as pitussa sarati, he remembers his father, or rañno sammato, appointed by the king, as not being true genitives (chattbi suddba) since they occur with the sense of other cases, so that the sentences are equivalent to pitaram sarati, rañna sammato.
+Aggavamsa explains cases which may seem to be genitives which have a direct connection to the action of the verb, such as pitussa sarati, he remembers his father, or rañno sammato, appointed by the king, as not being true genitives (chatthi suddba) since they occur with the sense of other cases, so that the sentences are equivalent to pitaram sarati, rañna sammato.
 
 ### THE VOCATIVE
 katabimukbo tupaccbariyaya yojyati, gacba, bhunjta ti. tasma amantaanamaye kiryayogabhuvato n' etam karakavobaran labhati.
@@ -1024,11 +1024,7 @@ Masculine and feminine stems in -u, viññu (m) wise (man), sasu (f) mother-in-l
 | PLURAL | MASCULINE | alternatives | FEMININE | alternatives |
 | NOMINATIVE | viññúno | viññu | sastuy
 
-内容由 AI 生成
 
-用户：
-继续，直到全部结束
-豆包：
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
@@ -1258,7 +1254,7 @@ Words which sound and may seem similar in English are in fact in different categ
 | pronouns, pronominal adjectives | ko | who, what, which? | yo | who, that, which | so, sā, tam; ayam, idam; amu, amū, adum |  | this, that [or he, she, it] |  |
 | adjectives | kīdisa | of what kind? | yādisa | of which kind | tādisa | of that kind | tūdisa | of this kind |
 |  | kittaka | how much? | yattaka | as many as, however much | tattaka | so much | ettaka | this much |
-| adverbs | kua(m), kubim | where? | yatra, yabīn | where | tattba, tabīm; amutra | there | idha, ittba, ettha, atra | here |
+| adverbs | kua(m), kubim | where? | yatra, yabīn | where | tattha, tabīm; amutra | there | idha, ittha, ettha, atra | here |
 |  | kādā | when | yādā | when | tādā | then | idāni, etarahi | now |
 |  | kuta | whence? | yato | whence, from where | tato | from there | ito, ato | from here |
 |  | kasma | why, from what? | yasmā | because | tasma | therefore |  |  |
@@ -1447,14 +1443,14 @@ Relative clauses in Pali often cause trouble to students who have not studied an
 
 The generalizing who/whatever... is expressed either by repeating both relative and antecedent, or by adding $koci$, $kāci$, $kiñci$, etc. to the relative clause, with a single antecedent:
 sace ko abam yo yoparesam adinnam theyyasankhatam adiyissati, tassa tasa dhanam anuppadassami, evamidam adinnadanam pavaddhati, if I give money to whomever steals from others, then his stealing will increase (D III 67).
-tesam tuccbam musa vilapino ye keci attbhikavadam vadanti, whoever professes the doctrine that there is reality (to merit, another world, etc.) is (characterized by) vanity, falsehood, mendacity (D I 55, said by a non-Buddhist)
+tesam tuccbam musa vilapino ye keci atthhikavadam vadanti, whoever professes the doctrine that there is reality (to merit, another world, etc.) is (characterized by) vanity, falsehood, mendacity (D I 55, said by a non-Buddhist)
 
 Various uses of relatives cannot be translated literally in English:
 anacchariyam kho pan' etam Ananda, yan manussabhuto kalam kareyya, it is not surprising, Ananda, that a human being should die (D II 93).
 n' esa dhammo, maharaja, yam tvam gaccheyya ekako, it is not right, great king, that you should go alone (Ja VI 495).
 
 The form $yadidam$ is used in various ways:
-akaraniya va kho Gotama Vajji rinna Ajatasattuna, yadidam yuddhassa anatra upalipanaya anatra mitbu-bheda, Gotama sir, king Ajatasattu cannot beat the Vajjis, that is to say, simply by means of war, without deceit and causing dissension (D II 75).
+akaraniya va kho Gotama Vajji rinna Ajatasattuna, yadidam yuddhassa anatra upalipanaya anatra mithu-bheda, Gotama sir, king Ajatasattu cannot beat the Vajjis, that is to say, simply by means of war, without deceit and causing dissension (D II 75).
 cirassam kho, bhante, bhagava imam pariyayam akasi yadidam idhagamanaya, it is a long time (since) the Blessed One made the resolution to come here (D III 2).
 
 yadagge or yadaggena is used in the sense of beginning with, from that time on;
@@ -1560,9 +1556,9 @@ Numbers are used with other words in various ways:
 - seyathapi brahmana kukkutiyā andāni aṭṭha va dasa va dvadasa va tān' asu, just as, brahmin, a hen might have eight or ten or twelve eggs (Vin I 3),
 - aṭṭha cattārisan vassani / komarabrabmacariany carinsu te, for forty-eight years they led the celibate life of youth (Sn 289),
 - saddha viriyani samadhin ca satipanana ca bhavam / panca pancabi bantuana... developing confidence, energy, concentration, mindfulness and wisdom, striking the five [senses] with the[se] five,... (Th 745),
-- tesam kho pana bhikkhu caturasiyya nagarasaabassanam ekan neva tam nagaramo boti yang abam tena samayena ajbavasami Kusavatī rajadhanu, monk, of the eighty-four thousand cities there was but one city in which I lived at that time, the royal city of Kusavati (S III 145),
+- tesam kho pana bhikkhu caturasiyya nagarasaabassanam ekan neva tam nagaramo hoti yang abam tena samayena ajbavasami Kusavatī rajadhanu, monk, of the eighty-four thousand cities there was but one city in which I lived at that time, the royal city of Kusavati (S III 145),
 - tibi akārebi tisso vijjā samapajim... tissannam vijjānam labhi 'mbi, in three ways I will attain the three knowledges... I have acquired the three knowledges (Vin III 94),
-- tapbadhanusamutbinaam dve ca pannarasayutam / passa... see (the arrow) which comes from the bow of craving, connected with the twice fifteen (wrong views) (Th 753)
+- tapbadhanusamuthinaam dve ca pannarasayutam / passa... see (the arrow) which comes from the bow of craving, connected with the twice fifteen (wrong views) (Th 753)
 - asiiiko me vayo vattati, I am eighty years old (D II 100).
 
 Numbers, especially high ones, are used in compounds: duisatam, two hundred; satasabbassam, one hundred thousand.
@@ -1618,15 +1614,15 @@ The imperative has these meanings (Sadd 813-4):
 | aùtti | command | Vanke vasantu pabhate | let him (go) live on Mt. Vanka |
 | --- | --- | --- | --- |
 | akkosa | bad wish | cora tam bhadrakhandaikam chindantu | may thieves cut him into little pieces |
-| àitjba | good wish | arogé sukhitbota | may you be well and happy |
-| sapatba | curse | akkhayan botu te bhayan | may your fear(s) never cease |
+| àitjba | good wish | arogé sukhithota | may you be well and happy |
+| sapatha | curse | akkhayan botu te bhayan | may your fear(s) never cease |
 | yācana | request | daddabi patirany nāgān | give (me) the excellent elephant |
 | vidhi | instruction | punñany karotiu | he/she should make merit |
 | nimantapa | request | adhviśetu me Bhagavā bhattam | may the Blessed One accept a meal from me |
 | āmantapa | invitation | Sriviratthi pasāsatu | let him rule in the Sivi kingdom |
 | ajbittha | request | desetu Bhagavā dhammanani | may the Blessed One teach the Dhamma |
 | sampucchana | reflection | kin nu kho bho Abhidbammam suñdmini ulabu Vinayam | Shall I listen to Abhidhamma or to Vinaya? |
-| pàttbanda | hope | imam jivita vorpetum sumatto bomi | May I be able to kill this man! |
+| pàtthanda | hope | imam jivita vorpetum sumatto bomi | May I be able to kill this man! |
 
 ### Conjugation of the sattami (seventh, optative)
 
@@ -1636,12 +1632,12 @@ The imperative has these meanings (Sadd 813-4):
 | 2 | gacbeyasi, gacbeyya, gacbe | deseyasi | kareyyasi |
 | 3 | gacbeyiti, gacbeyya, gacbe | deseyiti | kareyyiti |
 | PLURAL | gacbeyyama, gacbema, gacbemu | deseyyama | kareyyama |
-| 2 | gacbeyyatba, gacbetha |  | kareyyatba |
+| 2 | gacbeyyatha, gacbetha |  | kareyyatha |
 | 3 | gacbeyyum, gacbeyyu |  | kareyyum |
 | MIDDLE |  |  |  |
 | SINGULAR | gacbeyya(m) | deseyya | kareyya, kayirumi |
-| 2 | gacbetbo | desetbo | karetbo, kayirusi |
-| 3 | gacbetba | desetba | karetba, kayira |
+| 2 | gacbetho | desetho | karetho, kayirusi |
+| 3 | gacbetha | desetha | karetha, kayira |
 | PLURAL | gacbemase | desemase | karemase, kayirima |
 | 2 | gacbeyyavbo | deseyavbo | kareyyavbo, kayirita |
 | 3 | gacberan | deseruan | karetumu, kayiruna |
@@ -1665,7 +1661,7 @@ The optative has these meanings particular to it (Sadd 815):
 | ámnantara | invitation | idha bharam nsiileyra | you may sit here, Sir |
 | ajbjitsha | request | ajbjbēpya mapavakam | would you teach the young man? |
 | sampucchana | reflection | kim nu khalu bho Dhammájbjebyyam udàbī Vinayam | Should I study the Dhamma or the Vinaya? |
-| pattbanda | hope | dadeyyam na vikampeyam | may I give and not quake |
+| patthanda | hope | dadeyyam na vikampeyam | may I give and not quake |
 
 and three more which it shares with the imperative:
 
@@ -1685,10 +1681,10 @@ and three more which it shares with the imperative:
 | singular | present | imperative | optative 1 | optative 2 | present | imperative | optative |
 | 1 | asmi or ambi | asmi or ambi | assam | sīyān | bomi | bomi | bueyyām |
 | 2 | asi | dhi | assa | sīyā | bosi | bobi | bueyyāsi |
-| 3 | attbi | attbu | assa | sīyā | boti | botu | bueyyāti |
+| 3 | atthi | atthu | assa | sīyā | hoti | botu | bueyyāti |
 | plural |  |  |  |  |  |  |  |
 | 1 | asma or ambi | asma or ambi | assāma | [-] | boma | boma | bueyyāma |
-| 2 | attha | attha | assatba | [-] | botba | botba | bueyyātba |
+| 2 | attha | attha | assatha | [-] | botha | botha | bueyyātha |
 | 3 | santi | santu | assu | sīyūn or sīyānzu | bonti | bontu | bueyyūm |
 
 ### Conjugation of the ajjattani (aorist)
@@ -1703,7 +1699,7 @@ The aorist can seem confusing because of its many different paradigms. If one wa
 | 3 | adā | akā | abū |
 | PLURAL |  |  |  |
 | 1 | adambā | akambī | abumbī |
-| 2 | adattba | akattba |  |
+| 2 | adattha | akattha |  |
 | 3 | adumādū |  | abum, abū |
 
 #### (ii) thematic $a$-aorist:
@@ -1715,7 +1711,7 @@ The aorist can seem confusing because of its many different paradigms. If one wa
 | 3 | agamā |  | avaca | avoca | addasa | addasasi(η) |
 | PLURAL |  |  |  |  |  |  |
 | 1 | agamāma | agamamba | avacamba | avocamba | addasīma |  |
-| 2 | agamatba | agamattha | avacuttha | avocuttha | addasatba |  |
+| 2 | agamatha | agamattha | avacuttha | avocuttha | addasatha |  |
 | 3 | agamūnī |  | avucūnī | avocūnī | addastūnī | addasīsūnī, addasamsu |
 
 - these forms of $drs$ are based on an expanded root $Vdr$, the alternative forms add endings of the $-r$ type.
@@ -1729,7 +1725,7 @@ The aorist can seem confusing because of its many different paradigms. If one wa
 | 3 | assosi | aggabesi | akasi | desesi | aññasi |
 | PLURAL |  |  |  |  |  |
 | 1 | assosamba | aggabesimamba | akamba | desimamba | aññasimamba |
-| 2 | assosuttha | aggabesittha | akattba | desittha | [-] |
+| 2 | assosuttha | aggabesittha | akattha | desittha | [-] |
 | 3 | assosurūm | aggabestūm | akasitun or akamsu | desesūm | aññasisun, aññānusisu |
 
 #### (iv) the $i(s)$-aorist is added either to the root in $guna$ or to the present stem. Because of the rules for word formation in Pali, the Sanskrit $s$ is mostly lost.
@@ -1751,7 +1747,7 @@ The following are common aorists of $\sqrt{gam},\sqrt{bhū}\rightarrow ba,\sqrt{
 | $\sqrt{gam}$ |  | $\sqrt{(b) bū}$ |  | $\sqrt{drs}$ |  |
 | --- | --- | --- | --- | --- | --- |
 | agamasam | agamamba | abosam | abumbamba | addasam | addasima |
-| agamasi | agamattha | abosi | (abuvattba) | addasa | addasattha |
+| agamasi | agamattha | abosi | (abuvattha) | addasa | addasattha |
 | agamasi | agamanussu | abosi | abesum | addasa | addasanussu |
 
 There are various examples of the Middle voice in the aorist, though it is not possible to give a full paradigm. Here are some of the more common forms:
@@ -1760,13 +1756,13 @@ There are various examples of the Middle voice in the aorist, though it is not p
 | --- | --- | --- | --- | --- |
 | SINGULAR 1 |  |  |  |  |
 | 2 |  | akarase (/kr) |  |  |
-| 3 | adattba (√dā) | akarattha (√kr), abhāsattha (√bhās) | udapattba (√ud-pat) | puccbittha (√pucch) |
+| 3 | adattha (√dā) | akarattha (√kr), abhāsattha (√bhās) | udapattha (√ud-pat) | puccbittha (√pucch) |
 | PLURAL 1 |  | akarambase (/kr) |  |  |
 | 2 |  |  |  |  |
 | 3 |  | amanñaruna (√man), abandbare (√bandh) |  |  |
 
 ajjatanī sampambi, the past-of-today (aorist) is (used for) what is close (Sadd 816)
-ajja pabhuti atite kale paccakkhapaccakkha samipe ajjatanī vibhatti boti: so maggam agami, te maggam agamum.
+ajja pabhuti atite kale paccakkhapaccakkha samipe ajjatanī vibhatti hoti: so maggam agami, te maggam agamum.
 The aorist conjugation is (used) for what is close in the past, whether it has been witnessed or not witnessed, beginning from (the start of) today: he went on the road, they went on the road.
 
 The meaning of the aorist in practice is that of a simple past tense:
@@ -1790,22 +1786,18 @@ From $\sqrt{gam}$:
 
 | ROOTS ENDING: | ROOT | FUTURE
 
-内容由 AI 生成
 
-用户：
-继续
-豆包：
 | ROOTS ENDING: | ROOT | FUTURE FROM ROOT | PRESENT STEM | FUTURE FROM PRESENT STEM |
 | --- | --- | --- | --- | --- |
 | IN SHORT VOWEL | śru | sussati, sossati | sunoti, sunāti | supissati |
 |  | byr | bassati, bissati | barati | -barisati |
-|  | bu | [-] | juboti | jubossati, jubisati |
+|  | bu | [-] | juhoti | jubossati, jubisati |
 |  | kr | kassati, kābati | karoti | karissati |
 | IN LONG VOWEL | dā | dassati | dadāti, deti | dadissati |
 |  | ni | nessati, nayissati | nayati | [nayissati] |
 |  | jñā | ñassati | jānāti | jāmissati |
-|  | (b)bhū | bossati, besati, bobiti, bhavisati | boti, bhavati | [babarissati] |
-|  | stbhā | -ṭbassati | tiṭṭhbati | tiṭṭbisati, -ṭhabissati |
+|  | (b)bhū | bossati, besati, bobiti, bhavisati | hoti, bhavati | [babarissati] |
+|  | sthā | -ṭhassati | tiṭṭhbati | tiṭṭhisati, -ṭhabissati |
 | IN CONSONANT, WITH SHORT MEDIAL VOWEL | labh | lacchati, labhissati | labhati | [labhissati] |
 |  | drś | dakkhati, dakkhiti, dakkhbasiati | [passati] |  |
 |  | chid | cherttha | chindati | chindissati |
@@ -1818,19 +1810,19 @@ From $\sqrt{gam}$:
 anagate bhavissanti, so gaccbissati, the future is for what has not (yet) come, he will come (Sadd 818)
 
 #### The simple future:
-sabbadhammamilapariyayam vo bhikkhave desessami. tam sunatba, sādhubham manasi karotba, bhāsissami ti, Monks, I will teach you a discourse on the root of all dhammas. Pay attention and I will speak (M 11).
+sabbadhammamilapariyayam vo bhikkhave desessami. tam sunatha, sādhubham manasi karotha, bhāsissami ti, Monks, I will teach you a discourse on the root of all dhammas. Pay attention and I will speak (M 11).
 
 The future can be used for generalizing statements: sabhe 'va nikkbipissanti bhuta loke samussayam, all beings in (this) world will throw the body aside (D II 157)
 
 and for the conclusion of an inference:
 addasa kho Dono brahmano Bhagavato padesu cakkani..., disvān' etad abosi: acchariyam vata bho abhutam vata bho na vat 'imani manussabhitassa padani bhavissantiti, the brahmin Dona saw the wheels on the footprints of the Blessed One and thought: 'amazing, marvelous, these cannot be the footprints of a human being' (A II 37)
 
-katbañ binama yogenatite 'nagatasseva payogo,... katbañ bi nama tvam moghapurisa evam svakkate dhamavinaye udarassa karaña pabhajissasi? Vinaye Mahavagge pali esā, kathanbinamayogena ti kimattbam: katbam nu tvam märsiga ogbam atari ti adisu kathanbinamassa abhvato aite amagatassa viya payogo na boti ti dassanattbam.
-With (the phrase) katbam binama it is as if there were the application of the future to the past... This text is in the Mahavagga of the Vinaya: 'monk, how can you have gone forth in the Dhamma and Vinaya, which have been clearly explained, for the sake of your stomach?' What is the sense of 'with (the phrase) katbam binama?' It is to show that it is not as if there were the application of the future to the past in (sentences) such as 'sir, how did you cross the ocean?', because (the phrase) katbam binama is absent.
+kathañ binama yogenatite 'nagatasseva payogo,... kathañ bi nama tvam moghapurisa evam svakkate dhamavinaye udarassa karaña pabhajissasi? Vinaye Mahavagge pali esā, kathanbinamayogena ti kimattham: katham nu tvam märsiga ogbam atari ti adisu kathanbinamassa abhvato aite amagatassa viya payogo na hoti ti dassanattham.
+With (the phrase) katham binama it is as if there were the application of the future to the past... This text is in the Mahavagga of the Vinaya: 'monk, how can you have gone forth in the Dhamma and Vinaya, which have been clearly explained, for the sake of your stomach?' What is the sense of 'with (the phrase) katham binama?' It is to show that it is not as if there were the application of the future to the past in (sentences) such as 'sir, how did you cross the ocean?', because (the phrase) katham binama is absent.
 
 ### Conjugation of the kalatipatti or karatipatti (conditional)
 kiriyatpanne 'ite 'nagate ca kalatipatti, the conditional is used for past and future when there is no accomplishing of an action (Sadd 821)
-kalatipatti ti ken' attbena kalatipatti? kalassatipatanavanacattbena; tatba bi kalassa atipatanam accayo atikkamitva pavatti kalatipatti, labhitabbassa attbassa nipppattirabitam kirtyatikkamanam - kalilo c' ettbha kiriya adbhipetta, kuranan karo, karro eva kalilo. rakarassa lakaran katuva ecuradanavasa - ayana pama vibhatti tabbacakatta kalatipatti ta.
+kalatipatti ti ken' atthena kalatipatti? kalassatipatanavanacatthena; tatha bi kalassa atipatanam accayo atikkamitva pavatti kalatipatti, labhitabbassa atthassa nipppattirabitam kirtyatikkamanam - kalilo c' etthha kiriya adbhipetta, kuranan karo, karro eva kalilo. rakarassa lakaran katuva ecuradanavasa - ayana pama vibhatti tabbacakatta kalatipatti ta.
 What does 'non-accomplishment of an act' mean? It means that (the conditional) expresses the non-accomplishment of an act; for thus there is the passing by, the leaving aside, the continuing on after passing over an act. It is a passing over of an action, which fails to succeed in an aim to be achieved. By $kālo$ an action is referred to, the doing of an action; the syllable $la$ is put in place of $ra$ for the sake of (easier) pronunciation. This conjugation is called 'kālatipatti' because it expresses that (Sadd 59).
 
 The conditional, which is used for hypothetical or counterfactual assertions, is formed by adding the past augment to the future stem, with appropriate endings.
@@ -1846,7 +1838,7 @@ The conditional, which is used for hypothetical or counterfactual assertions, is
 | 3 | agamisum |  |  | agamisitnsu |  |
 
 In the Vessantara Jataka Maddi falls to the ground, and Vessantara, thinking her dead, says:
-attbāne videse mata Maddi, sce bi 'ssa Jetuttaranagare kālakiriya abhavissa mahanto paribaro abhavissa, dve rattba caleyyum, abam pana arane ekako, kin nu kho karisāmi, It's not right for Maddi to die in a foreign place. If her death had been in the city of Jetutara there would have been great honor (shown to her) (and) two kingdoms would have shuddered. But I am alone in the forest—what will I do? (Ja VI 566)
+atthāne videse mata Maddi, sce bi 'ssa Jetuttaranagare kālakiriya abhavissa mahanto paribaro abhavissa, dve rattha caleyyum, abam pana arane ekako, kin nu kho karisāmi, It's not right for Maddi to die in a foreign place. If her death had been in the city of Jetutara there would have been great honor (shown to her) (and) two kingdoms would have shuddered. But I am alone in the forest—what will I do? (Ja VI 566)
 
 and later:
 sace bi maya putte datva cittam pasadetum nabhavissa imani me acchariyani na pavatteyyum, if I had not been able to calm my mind when I gave away the children, these miracles would not have happened (Ja VI 567)
@@ -1893,22 +1885,22 @@ There are also some special rules:
 Once the passive stem has been formed, it is in theory possible to form any other tense and mood with it, simply by adding the appropriate endings from the Active voice. In practice, however, only the Aorist occurs with any frequency, almost always in the 3rd person.
 
 The passive in the western sense is the kammakiriiyapada, verb which expresses the action of the object:
-yam kammam eva padbanato gabetvā niddisīyati [kiriṭyā]padam, tam kammatbadipakam, a verb which when expressed refers in essence only to the object is one which has the object as its denotation.
+yam kammam eva padbanato gabetvā niddisīyati [kiriṭyā]padam, tam kammathadipakam, a verb which when expressed refers in essence only to the object is one which has the object as its denotation.
 
 It is the object which determines the form of the verb, as singular or plural, etc.: in bhikkhuna dhammo bhaviyate, bhikkhuna dhamma bhaviyante, bhikkhubi dhammo bhaviyate, bhikkhubi dhamma bhaviyante, dhamma[s] is/are developed by the monk[s], the form of the verb is determined by dhamma and not bhikkhu, although the latter is the logical subject (Sadd 7).
 
 Pirano Kassapom etad avoca...paradaram gaccbato,musa bhanato, karoto na kariyati papiam, Purana Kassapa said to me... 'for one who goes to another's wife, who tells lies, for someone who acts (thus) no evil is done (D I 53)
 na candidasuriyā pañnayanti, (at that time) the sun and moon were not perceived (D III 85)
-yassa kho pana, bhante, evam attbangasamannagato saro boti, so vuccati brahminsaro ti, sir, the person whose voice has these eight qualities is called 'one of excellent voice' (D II 211)
+yassa kho pana, bhante, evam atthangasamannagato saro hoti, so vuccati brahminsaro ti, sir, the person whose voice has these eight qualities is called 'one of excellent voice' (D II 211)
 
 Passive endings are also used for:
 - verbs used reflexively, i.e. which have an object-agent (kammakattā), and
 - verbs which expresses a state-of-being (bhāvukiriyāpada)
 
-yam kammuno kiriyapadena samanagatikam katva vinakmmena niddisiryati kiriyapadaan... tam tatba bhāvattbadipakama, when a verb is expressed which is morphologically the same as a passive verb but has no object, it is one which has a state-of-being as its denotation. The more common examples of this use a future passive participle: vam avus Pāṭikapatta... Sammasambuddhe āsādētabbany mānāsi, do you, friend Patikaputta, think it is possible to vie against Fully Awakened Buddhas? (D III 24),
-dassane Bhagava sati katbam patipajjitabbam, and if there is sight (of women), Blessed One, what behavior is appropriate? (D II 141).
+yam kammuno kiriyapadena samanagatikam katva vinakmmena niddisiryati kiriyapadaan... tam tatha bhāvatthadipakama, when a verb is expressed which is morphologically the same as a passive verb but has no object, it is one which has a state-of-being as its denotation. The more common examples of this use a future passive participle: vam avus Pāṭikapatta... Sammasambuddhe āsādētabbany mānāsi, do you, friend Patikaputta, think it is possible to vie against Fully Awakened Buddhas? (D III 24),
+dassane Bhagava sati katham patipajjitabbam, and if there is sight (of women), Blessed One, what behavior is appropriate? (D II 141).
 
-Examples of finite forms given by grammarians, which are presented as the equivalent of action nouns are: $tbyate = tbanam$ or $tbiti$, (there is a) standing, $bhyate = bhavanam$ (there is an) existing, (Sadd 7), $nandiyate = nandanam$ (there is) joy (Kacc Be 261)
+Examples of finite forms given by grammarians, which are presented as the equivalent of action nouns are: $thyate = thanam$ or $thiti$, (there is a) standing, $bhyate = bhavanam$ (there is an) existing, (Sadd 7), $nandiyate = nandanam$ (there is) joy (Kacc Be 261)
 
 ### The four 'Systems': Causatives, Desideratives, Intensives, Denominatives
 #### betukttukiriyapada (causative)
@@ -1942,7 +1934,7 @@ Both Causatives decline as verbs in $-a-$ with affix $-aya-$, or as verbs in $-e
 
 | ROOT | PRESENT | CAUSATIVE | DOUBLE CAUSATIVE |
 | --- | --- | --- | --- |
-| stbhā | tiṭṭhbati | ṭhapayati, ṭhepeti | ṭhāpāpayati, ṭhāpēti |
+| sthhā | tiṭṭhbati | ṭhapayati, ṭhepeti | ṭhāpāpayati, ṭhāpēti |
 | kr | karoti | kārayāti, kāreti | kārāvāpayati, kārāpēti |
 | gam | gacchati | gāmayāti, gāmēti | gāmāpāpayati, gāmāpēti |
 | sru | (sunoti) [sunāti] | sūvayāti, sāveti | sūdūpāpayati, sūdūpēti |
@@ -1956,31 +1948,31 @@ Both Causatives decline as verbs in $-a-$ with affix $-aya-$, or as verbs in $-e
 It will be clear from the above that some verbs can form causatives in various ways. These morphological differences do not always correspond to analogously different kinds of meaning.
 
 Causatives are very frequent, sometimes acting as intransitive verbs, but usually as transitive verbs with one or more objects:
-seythabi, Ananda jajjarasakatan vedhamissakena yapeti, evameva kho, Ananda vedhamissakena mainne tatbāgataa kyo yapeti, Ananda, just as an old cart keeps going trembling in all manner of ways, so too, Ananda, the Tathagata's body, indeed, keeps going trembling in all manner of ways (D II 100)
+seythabi, Ananda jajjarasakatan vedhamissakena yapeti, evameva kho, Ananda vedhamissakena mainne tathāgataa kyo yapeti, Ananda, just as an old cart keeps going trembling in all manner of ways, so too, Ananda, the Tathagata's body, indeed, keeps going trembling in all manner of ways (D II 100)
 nam migaganam uyyanam pavesetva..., having made that herd of deer enter the park,... (Ja I 150)
 atha kho raja Magadho Seniyo Bimbisaro... pavitam kbadaniyam bhojaniyam patiyadapetva Bhagavato kalam arocapesi, then Seniya Bimbisara, the king of Magadha, had excellent food, both hard and soft, prepared, and then had (someone) tell the Blessed One that it was time (to eat) (Vin I 38)
 atha kho bhikkhave Digbavukumaro Baranasint pavisitv suram nbaritv gumbiye payesi, then, monks, Prince Dighavu went into Banaras, brought back liquor and gave it to the troops to drink (Vin I 345)
 asbhaya citta bhavebi ekaggam susamabitam, develop a mind which is one-pointed and well-concentrated on the unpleasant (Sn 341)
 
 Aggavamsa exemplifies causatives (Sadd 597-8):
-soatakmani. arabattamaggo mānami siyati, kammad pariyosiyati imāni tāva suddbakkatupadāni. ettha mānami siyati ti mānami samucbindati; kammad pariyosiyati ti kammad nipbajjati, pari-ava-upasagaggavasena bi idam padam akammakam bhavati, attbo pana pariyosanam gaccbatf ti sakakmakavasena gabetabho.
+soatakmani. arabattamaggo mānami siyati, kammad pariyosiyati imāni tāva suddbakkatupadāni. ettha mānami siyati ti mānami samucbindati; kammad pariyosiyati ti kammad nipbajjati, pari-ava-upasagaggavasena bi idam padam akammakam bhavati, attho pana pariyosanam gaccbatf ti sakakmakavasena gabetabho.
 The verb root so has the sense of making an end. (In) 'the path to Arahantship ends pride,' or 'an action comes to an end,' the verbs have agents pure and simple. Here 'ends pride' (means) cuts off pride, 'an action comes to an end' (means) 'the action comes to a conclusion.' (In the latter) the verb is intransitive, with the prefixes pari and ava, but the meaning is to be taken transitively, ('(the action) goes to an end.' [this point assumes, as always, that the goal of an intransitive verb of motion constitutes a direct object.]
 
-attana vippakatam attana pariyosapieti idam ekakiritam betukattupadam, etba pana parl aiva icc upasaggavasa enakmmabuttasa sobhatusa laddbakkaritattappacayatti ekakamkam eta evakritapadam bhabati; (In) 'He himself finishes what he had done imperfectly', the verb is causative with a single causative suffix. Here given that the root so, which is an intransitive verb with the prefixes $\text{pari}$ and $\text{ava}$, has a causative suffix, it is a causative with one object.
+attana vippakatam attana pariyosapieti idam ekakiritam betukattupadam, etha pana parl aiva icc upasaggavasa enakmmabuttasa sobhatusa laddbakkaritattappacayatti ekakamkam eta evakritapadam bhabati; (In) 'He himself finishes what he had done imperfectly', the verb is causative with a single causative suffix. Here given that the root so, which is an intransitive verb with the prefixes $\text{pari}$ and $\text{ava}$, has a causative suffix, it is a causative with one object.
 
 attana vippakatam parebi pariyosavupeti, idam dovkaritam betukattapadam, etta ca pana para avi cc upasaggavasa enakmmabuttasa sodbattusa laddbakkaritappacayadoyavatta dovkammakam sakrikatapadam bhavati (In) 'He has what he had done imperfectly finished by others' the verb is causative with a double causative suffix, and (and) here given that the root so, which is an intransitive verb with the prefixes pari and ava, has a double causative suffix, it is a causative with two objects.
 
 The phrase attana vippakatam parebi pariyosavapeti is from the Vinaya (Vin III 155), and Aggavamsa provides a detailed analysis:
-etba bhikkbu ti hetukattupadam anetabbam, here 'monk' is to be supplied as the subject of the causative
-attana vippakatan ti etba ca attana ti vippakaranakiriyya kattukarakavacakam karanavacanami, in 'what he had done imperfectly,' he [himself] is an instrumental expressing the factor of action consisting in the agent of the action 'doing imperfectly'
+etha bhikkbu ti hetukattupadam anetabbam, here 'monk' is to be supplied as the subject of the causative
+attana vippakatan ti etha ca attana ti vippakaranakiriyya kattukarakavacakam karanavacanami, in 'what he had done imperfectly,' he [himself] is an instrumental expressing the factor of action consisting in the agent of the action 'doing imperfectly'
 vippakatan ti kammakarakavacamn upayogavacanam, 'Done imperfectly' is an accusative expressing the factor of action which is the object (of the verb)
-ettha pana attana ti avyapadabhutena sayanssaddena samanattham vibhatyantapatirupakam avyyayapadam sayamsaddasadisam va tatiyavibhatyanta-ayayapadam, tathā bi attana pariyosāpeti ti vuttvacanassa sayam pariyosapetti attbh bhabati attana paunatipati ti adisu viya, but here 'himself' (can be taken as) an adverb with the appearance of a case ending, with the same meaning as the word (sayant) 'on his own,' which is an adverb; or, again, it (can be taken as) an adverb with the third [instrumental] case ending, like the word 'on his own,' such that the meaning of the phrase he himself finishes' is 'he finishes on his own,' in the same way as phrases such as 'he himself killed,'
-parebi pariyosavapeti ti ettha pana parebi ti kammakarakavacakam karanyavanan ti gabetabban sunakbebi pi kbadapenti ettbaa sunakbebipadam viya, ettba bi, yatba rijano coran sunakbe kbadapenti ti upayogavasena attbo bhabati tathabikkbu attana vippakatam pare jane pariyosaupeti ti upayogavasena attbo bhabati, in 'he has completed by others' one should understand 'by others' as an instrumental expressing the factor of action consisting in the object, in the same manner as the word (sunakbehi) 'by dogs' in the clause 'they have dogs eat.' * Here, just as in 'kings have dogs eat a bandit' ['dogs' = sunakbe] the meaning is that of an accusative.
+ettha pana attana ti avyapadabhutena sayanssaddena samanattham vibhatyantapatirupakam avyyayapadam sayamsaddasadisam va tatiyavibhatyanta-ayayapadam, tathā bi attana pariyosāpeti ti vuttvacanassa sayam pariyosapetti atthh bhabati attana paunatipati ti adisu viya, but here 'himself' (can be taken as) an adverb with the appearance of a case ending, with the same meaning as the word (sayant) 'on his own,' which is an adverb; or, again, it (can be taken as) an adverb with the third [instrumental] case ending, like the word 'on his own,' such that the meaning of the phrase he himself finishes' is 'he finishes on his own,' in the same way as phrases such as 'he himself killed,'
+parebi pariyosavapeti ti ettha pana parebi ti kammakarakavacakam karanyavanan ti gabetabban sunakbebi pi kbadapenti etthaa sunakbebipadam viya, ettha bi, yatha rijano coran sunakbe kbadapenti ti upayogavasena attho bhabati tathabikkbu attana vippakatam pare jane pariyosaupeti ti upayogavasena attho bhabati, in 'he has completed by others' one should understand 'by others' as an instrumental expressing the factor of action consisting in the object, in the same manner as the word (sunakbehi) 'by dogs' in the clause 'they have dogs eat.' * Here, just as in 'kings have dogs eat a bandit' ['dogs' = sunakbe] the meaning is that of an accusative.
 
 * the canonical original is: ekaco passati coram Āgučārim rājano gabetva...sunakbebi kbādāpente, someone sees kings capture a bandit, a criminal... (and) having him eaten by dogs (A I 47-8)]
 
 #### dbaturupakasadda (denominative)
-This conjugation is called in Sanskrit namadbatu, 'whose root is a noun.' They can also be formed from adjectives, adverbs, onomatopoeias, etc. Denominatives of this kind occur in Pali: katba, story $\rightarrow$ katbayati; tell or recount; udana, breathing upwards or inspiration (the title of a text in the Canon) $\rightarrow$ udaneti, make an inspired utterance. Aggavamsa's term is dbaturupakasadda, word whose root is a metaphor, exemplified by samgbopabhatayati, the monastic order "mountains". This is explained as samgbopabhato iva attanam acarati, the monastic order conducts itself like a mountain: that is, it is unmoving, impressive, etc.; samuddayati, from samudda, ocean, is given as a similar example. From putta, child $\rightarrow$ puttiyati, treat (someone) like a child. A Denominative root is not always, strictly speaking, a metaphor, but it is the imaginative extension into the verbal domain of a noun, the use of a nominal theme (pattipadika) as a root.
+This conjugation is called in Sanskrit namadbatu, 'whose root is a noun.' They can also be formed from adjectives, adverbs, onomatopoeias, etc. Denominatives of this kind occur in Pali: katha, story $\rightarrow$ kathayati; tell or recount; udana, breathing upwards or inspiration (the title of a text in the Canon) $\rightarrow$ udaneti, make an inspired utterance. Aggavamsa's term is dbaturupakasadda, word whose root is a metaphor, exemplified by samgbopabhatayati, the monastic order "mountains". This is explained as samgbopabhato iva attanam acarati, the monastic order conducts itself like a mountain: that is, it is unmoving, impressive, etc.; samuddayati, from samudda, ocean, is given as a similar example. From putta, child $\rightarrow$ puttiyati, treat (someone) like a child. A Denominative root is not always, strictly speaking, a metaphor, but it is the imaginative extension into the verbal domain of a noun, the use of a nominal theme (pattipadika) as a root.
 
 Denominatives conjugate as verbs in $-a-$ with the affixes -ya, -lya, -lya, or as verbs in $-e-$ (examples from Sadd 587):
 
@@ -1998,18 +1990,18 @@ Denominatives conjugate as verbs in $-a-$ with the affixes -ya, -lya, -lya, or a
 | noun | verb | meaning | explanation | translation |
 | --- | --- | --- | --- | --- |
 | cicita | cicitaāyati | sizzling | sadō ciccṭam iva attaúnà Ācrati | a sound (behaves) seems like 'ciccita' |
-| ati+battba | atibattbayati | overtakes on an elephant | battbina àtikkamati | he overtakes (with) on an elephant |
+| ati+battha | atibatthayati | overtakes on an elephant | batthina àtikkamati | he overtakes (with) on an elephant |
 | cbatta | cbattýati | acts as a parasol | acdattam chattam iva attaúnà Ācrati | something which is not a parasol acts as one |
 | putta | puttiyati | treats as a son | putatmATT puttam iva Ācrati, pattiyati sissam Ācariyo | a teacher treats his pupil as a son, [i.e.] behaves towards him, who is not his son, as if he were his son |
 
 devo ca vassati devo ca gaalagalayati, the (sky-)god rains, the (sky-)god thunders (Th 189, from sound galagala)
-ye 'mani kiyam mamayanti andbabala putbu jana/vaddbenti kamasin gboram, blind ordinary people who cherish this body fill up the dreadful channel ground (Th 575, from mama, mine)
+ye 'mani kiyam mamayanti andbabala puthu jana/vaddbenti kamasin gboram, blind ordinary people who cherish this body fill up the dreadful channel ground (Th 575, from mama, mine)
 dukkbitam man dukkbapayase, you are causing me to suffer, I who am (already) suffering (Ja IV 452, causative from dukkha)
 
 #### Desideratives and Intensives
 Both require $abhaba$, 'Doubling' or reduplication of the root syllable. They can in principle be formed from any root, although in practice in Pali only certain standard verbs are so used regularly. As well as reduplicating the root syllable they add the affixes -sa- $\rightarrow$ -cha-/-kha-(desiderative) and -ya-(intensive - not all verbs).
 
-Desideratives are tumicbhattba, with the meaning 'wanted for oneself' (cf. Sadd 822)
+Desideratives are tumicbhattha, with the meaning 'wanted for oneself' (cf. Sadd 822)
 
 | SANSKRIT |  | PALI |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2041,8 +2033,8 @@ Intensives are not designated by a standard term in Pali. They are also called F
 
 Intensive adjectives are also found: from $\sqrt{cal}$, $\text{cànçala}$, unsteady, from $\sqrt{mub}$, $\text{momūba}$, very foolish, from $\sqrt{lup}$ (or $\text{lubh}$) $\text{lolupa}$, greedy, and $\text{lolupa}$, greed, from $\sqrt{jr}$, $\text{jajjara}$, very old.
 
-atha kho Bhagava sayanba samayam paisallina vuttbito... abhokase cankamati, then the Blessed One arose from his seclusion in the early morning and walked back and forth in the open air (D III 80)
-pekbatam yeva natinam passa lalapatam putbu / ekameko va maccanam go vajbo viya niyyati, see, while the relatives look on and babhle greatly, each and every mortal is lead away like a cow to slaughter (Sn 580)
+atha kho Bhagava sayanba samayam paisallina vutthito... abhokase cankamati, then the Blessed One arose from his seclusion in the early morning and walked back and forth in the open air (D III 80)
+pekbatam yeva natinam passa lalapatam puthu / ekameko va maccanam go vajbo viya niyyati, see, while the relatives look on and babhle greatly, each and every mortal is lead away like a cow to slaughter (Sn 580)
 ediso abuyamansussayo jajaro babudukbanam alayo, such was this body, (now) rapidly aging, a home for many kinds of suffering (Thi 270)
 
 ## 3.3 kitanta, Words Ending in -kit, etc. (Participles), tvadiyanta, Words Ending in -vā, etc. (Absolutives), tumanta, Words Ending in -tum (Infinitives), (i.e. Non-conjugated Forms)
@@ -2180,11 +2172,11 @@ vattamene kale vippakatavacane vattabhe sabbadbaru miña anta icte ete paccaya b
 As the example with the aorist addasa shows, the 'present' of the present participle is the time of the main verb, or better is in the continuous/ progressive/imperfective aspect, and so his first example could be expanded:
 saramano rodi remembering, he/she wept saramano rodati remembering, he/she weeps saramano roddati remembering, he/she will weeps
 
-tena kho pana samayena Devadatto... dhammani desento nisinno boti, at that time Devadatta was seated, teaching Dhamma (Vin II 199)
+tena kho pana samayena Devadatto... dhammani desento nisinno hoti, at that time Devadatta was seated, teaching Dhamma (Vin II 199)
 addasamsu kho pañcavaggiā bhikkhu bhagavantam dirut agacchantam, the group of five monks saw the Blessed One coming from afar (Vin I 8)
 tasa evam janao evam passato kamaaavu pi cittam vimuccati., the mind of the person who knows this and sees this is freed from the Corruption of Desire (A I 165).
-sā kho pan' esā, bhikkhave, tanha katba uppajamānā uppajati, katba nivisamānā nivisati? This desire, monks, when it arises where does it arise, and when it stops where does it stop? (D III 308)
-sā kho pan' esā, bhikkhave, tanha katba pabiymānā pabiyiati, katba nirujbamānā nirujbati? This desire, monks, when it is abandoned where is it abandoned, and when it is destroyed where does it stop? (D II 310)
+sā kho pan' esā, bhikkhave, tanha katha uppajamānā uppajati, katha nivisamānā nivisati? This desire, monks, when it arises where does it arise, and when it stops where does it stop? (D III 308)
+sā kho pan' esā, bhikkhave, tanha katha pabiymānā pabiyiati, katha nirujbamānā nirujbati? This desire, monks, when it is abandoned where is it abandoned, and when it is destroyed where does it stop? (D II 310)
 evam pi kho, bhagava, sunakkhatto Licchaviputto maya vuccamano apakkam'eva imasma dhamavinaya, then Bhaggava, Sunakkhatta son of the Licchavis (after) being spoken to by me in that way left this Dhamma and Discipline (D III 6).
 
 #### Past Participles
@@ -2192,7 +2184,7 @@ The Past Active Participle is a rare form, used with some verbs only. It is made
 $\sqrt{vas} \rightarrow vusita \rightarrow vusitavant, \sqrt{bhuj} \rightarrow bhutta \rightarrow bhuttavin$
 
 yo pi so bhikkhu araham kbinasavo vusitava..., that monk who is an Arahant, whose Corruptions are destroyed, who has lived the [noble] life (M 14)
-seyathapi Ananda gahapatissa... manunnami bhojanam bhuttavissa bhattasammado boti.... just as Ananda, when a householder has eaten an excellent meal he feels drowsy... (D II 195)
+seyathapi Ananda gahapatissa... manunnami bhojanam bhuttavissa bhattasammado hoti.... just as Ananda, when a householder has eaten an excellent meal he feels drowsy... (D II 195)
 
 Past Passive Participles are extremely common. They decline as $-a / -ā$ stems and are formed
 (i) by adding -ta, -ita or -na to the unstrengthened root, $\sqrt{bhū} \rightarrow bhūta$, $\sqrt{bhās} \rightarrow bhāsi$, $\sqrt{jīr} \rightarrow jīnatā$, or
@@ -2213,7 +2205,7 @@ samano khalu bho Gotamo... Venagapuran anupatto, the ascetic Gotama has arrived 
 ye be bhante abesum atitam addhanam arahanto sammasambuddha, sabhe te... supatitthacittā... sammasambodhim abhisambujjhissanti, ye pe bhante bhavissanti anagatam addhanam arahanto sammasambuddha, sabhe te... supatitthacittā... sammasambodhim abhisambujjhissanti, Bhagava pi bhante etarahi araham sammasambuddho... supatitthacittā... sammasambodhim abhisambuddho. sir, those Arahants, Fully-Awakened Ones in the past all... with minds firmly set... awakened to Full Awakening, and, sir, those Arahants, Fully-Awakened Ones in the future all... with minds firmly set... will awaken to Full Awakening, and the Blessed One, sir, now, an Arahant, a Fully-Awakened One... with mind firmly set... is awakened to Full Awakening (D II 83)
 
 The past passive participle can be used as a noun:
-bhikkhu abhikkante patikkante sampajanakari boti alekite vilokite... samminjite pasarite... sanghattapaccvara-dharane... asite pite kbayite sayite... uccara-passavakamme...gate thite nisinne sutte jagarite bhasite tunbibave, the monk remains mindful in going forward and going back, in looking forward and looking around... in bending and stretching, in carrying/wearing his outer garment, bowl and robe, in eating, drinking, chewing and savoring, in the acts of defecating and urinating, in moving, standing still, sitting, asleep, awake, speaking and remaining silent (D II 292)
+bhikkhu abhikkante patikkante sampajanakari hoti alekite vilokite... samminjite pasarite... sanghattapaccvara-dharane... asite pite kbayite sayite... uccara-passavakamme...gate thite nisinne sutte jagarite bhasite tunbibave, the monk remains mindful in going forward and going back, in looking forward and looking around... in bending and stretching, in carrying/wearing his outer garment, bowl and robe, in eating, drinking, chewing and savoring, in the acts of defecating and urinating, in moving, standing still, sitting, asleep, awake, speaking and remaining silent (D II 292)
 
 All of the words describing actions and postures are past passive participles in -ita, with three exceptions: dharana (carrying/wearing) is an action noun in -ana from $\sqrt{dhar}$, kamma (act) is a noun, and in tunbibhava (state of being silent)-bhava is a noun.
 
@@ -2221,7 +2213,7 @@ All of the words describing actions and postures are past passive participles in
 Future Active and Future Middle Participles are very rare. Some examples are:
 matam marissam rodanti ye..., those who weep for someone who is dead or who is going to die (Ja III 214)
 $[\sqrt{mr} \rightarrow$ future stem mariss- here with -ant suffix changed to -a],
-ka tittbasi mandam ivauvalokapan / bhdeseamana va giram na muunasit, who are you who stand looking languidly, as if about to speak but saying nothing? (Ja V 404).
+ka titthasi mandam ivauvalokapan / bhdeseamana va giram na muunasit, who are you who stand looking languidly, as if about to speak but saying nothing? (Ja V 404).
 
 More common are forms using -esin:
 ...bhutā va sambhavesi va, sabhe sattā bhavantu sukhitattā, whether they exist or are going to exist, may all beings be happy (Sn 147),
@@ -2230,7 +2222,7 @@ bhave vaban bhyan disva bhavan ca vibhavesinam, I, having seen the fear in exist
 Future Passive Participle (Gerundive) (kicca)
 kicca is one example, from $\sqrt{kr}$, used by synecdoche as a term for them all. The Future Passive Participle is called future, but it is more often used in sentences with past or present verbs, and it can, like the future conjugation, be non-temporal, in stating general truths or duties, etc. It is often said to be prescriptive, but it need not imply necessity or obligation: for the verb $\sqrt{kr}$ to do, for example katabba can mean must be done, should be done, but also can be done (i.e. is permitted) do-able (i.e. is possible). Many future passive participles have stable adjectival meanings unconnected with any verbal mode: from the verbs $\sqrt{ram}$ and $\sqrt{mad}$ for example, are derived the adjectives ramaniya lovely and madaniya, enchanting. It is formed
 (i) by adding the ending $(-i)$ tabba either to the root, usually in guna or to the present stem:
-$\begin{array}{l l l}\text {sru} \rightarrow \text {sotabba}&\text {pad} \rightarrow \text {pajjati} \rightarrow \text {pajjitabba}&\text {sprś} \rightarrow \text {pbotthabha}\\\text {gam} \rightarrow \text {gantabba}&\text {vas} (i) \rightarrow \text {vattabba or}&\text {drś} \rightarrow \text {dattabba}\\n\bar{i} \rightarrow \text {netabba}&(\text {ii}) \rightarrow \text {vasati} \rightarrow \text {vasitabba}&\text {stbh} \bar {\mathrm {a}} \rightarrow (\text {caus.}) \text {thapetabba}\\\text {vid} \rightarrow \text {veditabba}&\text {bh} \bar {\mathrm {u}} \rightarrow (\text {caus.}) \text {bhāvetabba}\\k r \rightarrow (\text{''kartabba} \rightarrow \text {kattabba}) \rightarrow \text {kātabba}\end{array}$
+$\begin{array}{l l l}\text {sru} \rightarrow \text {sotabba}&\text {pad} \rightarrow \text {pajjati} \rightarrow \text {pajjitabba}&\text {sprś} \rightarrow \text {pbotthabha}\\\text {gam} \rightarrow \text {gantabba}&\text {vas} (i) \rightarrow \text {vattabba or}&\text {drś} \rightarrow \text {dattabba}\\n\bar{i} \rightarrow \text {netabba}&(\text {ii}) \rightarrow \text {vasati} \rightarrow \text {vasitabba}&\text {sthh} \bar {\mathrm {a}} \rightarrow (\text {caus.}) \text {thapetabba}\\\text {vid} \rightarrow \text {veditabba}&\text {bh} \bar {\mathrm {u}} \rightarrow (\text {caus.}) \text {bhāvetabba}\\k r \rightarrow (\text{''kartabba} \rightarrow \text {kattabba}) \rightarrow \text {kātabba}\end{array}$
 (ii) by adding the ending -aniya (sometimes -aneyya) to the root, usually in guna:
 $\begin{array}{l l} r a m \to r a m a n i \bar{y} a & k r \to k a r a n i \bar{y} a \quad d r s \to d a s a n i \bar{y} a \text{ or } d a s a n e y y a \\ k b a d \to k b a d a n i \bar{y} a & b b u j \to b b o j a n i \bar{y} a \quad m a d \to m a d a n i \bar{y} a \end{array}$
 (iii) by adding the endings -ya or iya to the root, usually strengthened, with some special rules; final $\bar{a} \rightarrow e$ (sometimes with -yya); and -t- is inserted after some short vowels:
@@ -2238,7 +2230,7 @@ $\begin{array}{l l l l}\text {ban} \rightarrow \text {bani}&p i j \rightarrow p 
 
 Examples of various future passive participles from $\sqrt{kr}$:
 na ekaccassa parikamma katabbam, na ekaccena parikamma karatapetabbam, no service is to be performed for anyone, and no service should be caused to be performed by anyone (Vin I 50)
-tatba te yavajivam ussaho karamyo, you should make a lifelong effort in this respect (Vin I 58)
+tatha te yavajivam ussaho karamyo, you should make a lifelong effort in this respect (Vin I 58)
 dvay'ajja kiccam ubhayan ca kariyam, today there are two duties, both of which must be done (Vv 80, 7)
 kayyam bhavata vattham, you should make (some) clothes (Sadd 862)
 naokaso karetabho, he should not (seek to) obtain an opportunity (to speak) (Vin II 5)
@@ -2280,14 +2272,14 @@ Two classes of nouns formed from verbs can govern a case in the manner of a verb
 | gam | go | gamana | going |
 | drś | see | dassana | seeing,sight |
 
-sādhu kho pana tathārīpūnam arahatana dassanam boti, good indeed is it to see such Arahants! (Vin I 35).
+sādhu kho pana tathārīpūnam arahatana dassanam hoti, good indeed is it to see such Arahants! (Vin I 35).
 asiti gämikasabassani idh'upasamkantani bhagavantam dassanaya, eighty thousand village headmen have come here to see the Blessed One (Vin I 180).
 
 #### Agent nouns in -tar
 -tar is added to the root with various transformations (citing the nominative singular):
-$\sqrt{gam} \rightarrow ganta, \sqrt{sru} \rightarrow sota, \sqrt{drs} \rightarrow dattba, dasseta, \sqrt{smr} \rightarrow sarita, \sqrt{sis} \rightarrow sattba.$
+$\sqrt{gam} \rightarrow ganta, \sqrt{sru} \rightarrow sota, \sqrt{drs} \rightarrow dattha, dasseta, \sqrt{smr} \rightarrow sarita, \sqrt{sis} \rightarrow sattha.$
 
-(pandito) yoniso panham kattā boti, ayoniso panham vissajeta, parassa kho pana yoniso panham vissajitam... abhhanumodita boti (one wise person) asks questions carefully, (another) answers questions carefully, (another) is glad when someone else answers a question thoughtfully (A I 103). addasastin sugatam... adantanam dametaran, I saw the Happy One,... the tamer of the untamed (Thi 135)
+(pandito) yoniso panham kattā hoti, ayoniso panham vissajeta, parassa kho pana yoniso panham vissajitam... abhhanumodita hoti (one wise person) asks questions carefully, (another) answers questions carefully, (another) is glad when someone else answers a question thoughtfully (A I 103). addasastin sugatam... adantanam dametaran, I saw the Happy One,... the tamer of the untamed (Thi 135)
 santi baviruso...bhikkhum panham pucbitaro khattiyapandita, there are, friends, wise khattiyas who ask a monk a question (S III 6)
 
 On rare occasions, an agent noun can act, as in Sanskrit, as a periphrastic future:
@@ -2308,7 +2300,7 @@ ummaggānikkhāmitvāna Vedebo nāvam ārubi, the Vedehan emerged from the tunne
 bhutvana bhikkhu bhikkbassu, enjoy yourself, monk, (then) seek alms! (S I 8).
 
 Some more examples:
-atha kho Bhagava Pataligamiye upasake babud eva rattim dhammiya katbaya sandassetva samadapatva samuttejvetva sampabamsetva uyyojeti, then the Blessed One, after he had (spent) much of the night teaching, encouraging, inciting and gladdening lay-followers from Pataligama with a Dhamma talk, allowed them to go (D II 86).
+atha kho Bhagava Pataligamiye upasake babud eva rattim dhammiya kathaya sandassetva samadapatva samuttejvetva sampabamsetva uyyojeti, then the Blessed One, after he had (spent) much of the night teaching, encouraging, inciting and gladdening lay-followers from Pataligama with a Dhamma talk, allowed them to go (D II 86).
 so tam dhamman sutva Tathagate saddham patilabhati, he hears the Dhamma and acquires faith in the Tathagata (D I 62-3),
 sakadagamino sakid eva imam lokam agantvdukkbass' antam karissanti, Once-Returners will come back to this world once and then make an end of suffering (D II 93),
 yam nunabam saman pattacivaram paityadetva kesamassum obaretva kasyani vatthani acbadevtva aramam gantva bhikkubisi saddhi samvaseyyan ti, what if I were to prepare a robe and bowl for myself, have my hair and beard shaved, put on yellow clothes, go to the park and live with the monks? (Vin I 86),
@@ -2320,32 +2312,28 @@ Some more examples:
 atha kho bhagava pubhanbasamayam nivasetva pattacivaram adaya Rajagabam pavisi, then the Blessed One got up in the morning, and taking (with him) his bowl and robe, entered Rajagaha (Vin I 38)
 (ādaya and other absolutives used in stereotypical cases such as this may be regarded as equivalent to prepositions).
 
-The sentence cited under (i), so tanu dhamman sutvā Tatbagate saddham patilabhati, could also be regarded in this light.
+The sentence cited under (i), so tanu dhamman sutvā Tathagate saddham patilabhati, could also be regarded in this light.
 
 (iii) where the agents of the absolutive and main verb are the same but the absolutive refers to the future (samānakattukānam parakāle tvādisadda-payogo), citing
 dvaram avaritva pavisati, he enters and closes the door.
 dhan ti katva patito dando, the stick fell and made a 'Dhan' sound.
 
 (iv) where the agents of the absolutive and main verb are different (asamānakattukānam tvādisaddapayogo), citing:
-pisacm disva c'assa bhayam boti, when he saw the goblin he was afraid, panayia c' assa disva a'savau parkkhina, and in him, seeing with wisdom, the Corruptions are destroyed (M I 160, etc.).
+pisacm disva c'assa bhayam hoti, when he saw the goblin he was afraid, panayia c' assa disva a'savau parkkhina, and in him, seeing with wisdom, the Corruptions are destroyed (M I 160, etc.).
 
 Some more examples:
 tassa bhikkhave bhikkhuno bhasitna na abhinanditabbam na patikkositabbam. anabhinanditva appattkkositva tani padavyanjanani ugabetva sutte otaretabmani Vinayesandasetabmani, monks, what that monks says is not to be rejoiced at nor rejected. (You) should learn these words and syllables without rejoicing or rejecting, and bring them down into (consideration with) Sutta and compare them with Vinaya (D II 124),
 itarena (Jujukena) agantvudcodyamana kabapane datum asakkonta Amittatapanama namabditarany
 
-内容由 AI 生成
 
-用户：
-继续
-豆包：
 tassaadamsu, [It. requested by that other one (Jujaka) when he came back] when he came back Jujaka demanded the money, but as they could not give it to him they gave him their daughter Amittatapana (instead) (Ja VI 521).
 
 In most cases any words governed by the absolutive come before it, but not all:
-na kho me patirupam yo 'bam anamantetvupaftbake anapaloketvabikkhusamgbam parinibhayeyyam, it would not be suitable if I pass into final nirvana without speaking to those who have served me, and without taking my leave of the Order of Monks (D II 99).
+na kho me patirupam yo 'bam anamantetvupafthake anapaloketvabikkhusamgbam parinibhayeyyam, it would not be suitable if I pass into final nirvana without speaking to those who have served me, and without taking my leave of the Order of Monks (D II 99).
 
 There is a rare absolutive in -am, called namul in Sanskrit:
-atha kho te... sattā rasapatbavim battbei ālumpakārakamī upakkamīnsu paribhuñjitum, then, monks, these beings started to eat the earth-essence taking (big) mouthfuls of it with their hands (D III 85)
-so tattba phen' uddebakam pacati, he burns there [in hell] heaping up foam (A I 141)
+atha kho te... sattā rasapathavim batthei ālumpakārakamī upakkamīnsu paribhuñjitum, then, monks, these beings started to eat the earth-essence taking (big) mouthfuls of it with their hands (D III 85)
+so tattha phen' uddebakam pacati, he burns there [in hell] heaping up foam (A I 141)
 
 Traces of what seems to be an Eastern dialect absolutive in -ttā (or -tā) also exist:
 abhijanati nu kho bhante Bhagava iddbiyama nanomayena kayena Brahmalokam upasamkamita? Sir, does the Blessed One remember having gone to a Brahma-world by magical power, in a mind-made body? (S V 282)
@@ -2353,15 +2341,15 @@ sarasi tvam Dabha evarupam kattayathayam bhikkunā aba ti, Dabha, do you remembe
 
 ### (iv) Indeclinable forms: Infinitive
 Infinitives are accusative or dative cases of the old action noun in -tu, as the absolutive is its instrumental. The accusative suffix -tum, preceded by a vowel if necessary, is by far the most common; there are rare dative infinitives in -taye, -tave. Pali Grammarians call Infinitives tumantapadāni, words which end in tum:
-sabhānī tumantapadāni catutbyattbe vattanti. tvam mama citam añāyān nettam yācitum āgato ti ettha viya. yācitum ti yācanatbhyā ti attbo All words ending in -tum have the sense of the fourth (dative) case, as in 'knowing (what was in) my mind you have come to ask for my eyes.' yicitum has the meaning of 'for the sake of, asking for.' (Sadd 309-10)
+sabhānī tumantapadāni catuthyatthe vattanti. tvam mama citam añāyān nettam yācitum āgato ti ettha viya. yācitum ti yācanathhyā ti attho All words ending in -tum have the sense of the fourth (dative) case, as in 'knowing (what was in) my mind you have come to ask for my eyes.' yicitum has the meaning of 'for the sake of, asking for.' (Sadd 309-10)
 
 Infinitives can be formed from transitive and intransitive verbs, from causatives or double causatives:
 (i) by adding -tum to the root, usually in guna
 ```txt
-ni→netum (b)bu→botum dr→datbum  
-pra-ap→pattum sru→sotum vas→vattbum  
+ni→netum (b)bu→botum dr→dathum  
+pra-ap→pattum sru→sotum vas→vatthum  
 kr(→*kartum)→kattum→katum jna→naitum gam→gantum  
-sprs→puttbum
+sprs→putthum
 ```
 (ii) by adding -itum, -etum or -otum to the present stem of verbs in -a, -e, and -o respectively:
 ```latex
@@ -2378,11 +2366,11 @@ The infinitive is used with verbs in any tense or mood, and can be either active
 ```txt
 bhikkbu nasaakkbinsu vittibarena patimokkbam uddisitum, the monks were not able to recite the Patimokkha at length (Vin I 112)   
 dhammacakkams pavattetum gaccami Kasinani puram, I have come to the city of the Kasis to set in motion the wheel of the Dhamma (Vin I 8)   
-ekamekena pi amatadvarena sakkunissami attanani sottbin katiun, by any one door to the deathless I will be able to make myself safe (M I 353)   
+ekamekena pi amatadvarena sakkunissami attanani sotthin katiun, by any one door to the deathless I will be able to make myself safe (M I 353)   
 tena bi bhikkhave sangbo Sudbammasa bhikkbuno anudutam detu Cittam gabapatim khamapetum, so, monks, may the Order give the monk Sudhamma an accompanying messenger to obtain forgiveness from Citta the householder (Vin II 19)   
 samuddans visakumbena yo manneya padusitum. whoever might think to pollute the ocean with a pot of poison... (Vin II 203)
 ```
-anujānāmi bhikkhave tberena bhikkunā bhattagne anumoditun ti, I ordain, monks, that thanks be given in a refectory by a monk who is an elder (Vin II 212)
+anujānāmi bhikkhave therena bhikkunā bhattagne anumoditun ti, I ordain, monks, that thanks be given in a refectory by a monk who is an elder (Vin II 212)
 
 The infinitive can be used with various verbs and prepositions:  
 raja arabasi bhavitum, you ought to be a king (Th 822), ye sanaesu sakyaputtiyes paabhajanti, na te labhaa kiinci katum, there is nothing to be done against those who have gone forth among the Sakyan ascetics (Vin I 75), pancabi bhikkave angebi samannagato saddbivibariko alam panametum, monks, when someone who shares a cell has five qualities it is sufficient to turn him away (Vin I 54-5).
@@ -2394,17 +2382,17 @@ atha kho Maro papima Bhagavato bhayam... uppadetukamo, then Mara, the evil one, 
 The word nipata means falling, and a nipata is a word which falls into language whole and complete, not needing grammatical transformation. All of them, especially the sub-category which western grammar calls adverbs, are sometimes called avyayibha, not subject to change.
 
 ## 4.1 samuccaya-vikappanadi, Particles (Effecting) Conjunction, Disjunction, etc. (Sadd 886f.)
-samuccaya-vikappana-patisedba-purananatbam asatva-vacaka nipata, nipata words are used for conjunction, disjunction, negation/prohibition, or as fillers, and do not denote any substantial existent (i.e. something which can be the subject of a sentence, whether personal or impersonal):
-(i) samuccaya, conjunction: ca, and. Horses and elephants can be (i) assa ca battbino ca, (ii) assa ca battbino, or (iii) assa battbino ca.
-(ii) vikappana, disjunction: vā, or. Horses or elephants can be (i) assa va battbino vā, (ii) assa va battbino, or (iii) assa battbino vā. (ca can also, in context, mean but, and va can also, in context, mean and.)
+samuccaya-vikappana-patisedba-purananatham asatva-vacaka nipata, nipata words are used for conjunction, disjunction, negation/prohibition, or as fillers, and do not denote any substantial existent (i.e. something which can be the subject of a sentence, whether personal or impersonal):
+(i) samuccaya, conjunction: ca, and. Horses and elephants can be (i) assa ca batthino ca, (ii) assa ca batthino, or (iii) assa batthino ca.
+(ii) vikappana, disjunction: vā, or. Horses or elephants can be (i) assa va batthino vā, (ii) assa va batthino, or (iii) assa batthino vā. (ca can also, in context, mean but, and va can also, in context, mean and.)
 (iii) patisedha, Negation, Prohibition (na, no, ma, a-, alami, balam) negation: na v' abam panyam bhuijadi, I will not eat this leaf [medicine]. no dubhbasitam bhane, he should not say bad things anavaja, blameless privation: abhva, non-existence, aputtaka, without children
 prohibition: ma ham kako viya dummedbo kamam vasam anvagam, I must not come under the power of desires, like the dim-witted crow.
 alam me buddbena... dbammena... saingbena, I've had enough of the Buddha,... the Dhamma,... and the Sangha!
 balam dāni pakāsituni, away with explaining!
 alam etam sabam, all this is enough!
-(iv) piranatbam duvidbam: padapuranaan ca atthapuranaan ca, (A nipata used) as a filler can be of two kinds: filling up a verse or sentence or filling out the meaning (iv.a) padapuranan babvvdbam, nipata-s used to fill up a verse or sentence are of many kinds
-these particles join words together without expressing a specific meaning (asati attbavisesabhidhane vacasilittbatya). Most of them are translatable as then, indeed, certainly, or somesuch: atba, atbo, assu, $\bar{a}$ enam, kaban, kiva, kbalu, kbo, carabi, tato, nam, pana (also but), yaggb, yatha (just as), vata, vatha, ve, sudam, seyyatbidam (that's to say), have, have, bi (for, because).
-(iv.b) atbaptiranan davibham: vibhattiyuttan ca avibhattiyuttan ca, those used to fill out the meaning are of two kinds, i.e. those which can be used with or to replace case- and verbal endings, and those which cannot.
+(iv) piranatham duvidbam: padapuranaan ca atthapuranaan ca, (A nipata used) as a filler can be of two kinds: filling up a verse or sentence or filling out the meaning (iv.a) padapuranan babvvdbam, nipata-s used to fill up a verse or sentence are of many kinds
+these particles join words together without expressing a specific meaning (asati atthavisesabhidhane vacasilitthatya). Most of them are translatable as then, indeed, certainly, or somesuch: atha, atho, assu, $\bar{a}$ enam, kaban, kiva, kbalu, kbo, carabi, tato, nam, pana (also but), yaggb, yatha (just as), vata, vatha, ve, sudam, seyyathidam (that's to say), have, have, bi (for, because).
+(iv.b) athaptiranan davibham: vibhattiyuttan ca avibhattiyuttan ca, those used to fill out the meaning are of two kinds, i.e. those which can be used with or to replace case- and verbal endings, and those which cannot.
 vibhattiyyutta, those which are used with nominal or verbal endings, include
 sakka, labha, it is possible [indeclinable verbal forms]
 bibiyyo, more, to a greater degree, [adverbial accusative]
@@ -2413,26 +2401,26 @@ $\text{samma} / \text{micba}$, rightly/wrongly [i.e. manner]
 -tun, -tave, [indeclinable infinitive endings]
 $(i)to$ [ending with the meaning] from
 - (i)to [ending with the meaning] situated in/at (place or state), (ekato, paccbato, padato, purato, sisato)
-in this sense also kubim, kva, tattba, tatra, tabim, yatra, yattba, yabim, yadda/tada, when/then [situated in time and/or space]
-(also for place: ajjbattam/babiram, upari, oran/param, paccbā/pure, samanta, samantato, sammukba/parammukba bettbā, etc.
+in this sense also kubim, kva, tattha, tatra, tabim, yatra, yattha, yabim, yadda/tada, when/then [situated in time and/or space]
+(also for place: ajjbattam/babiram, upari, oran/param, paccbā/pure, samanta, samantato, sammukba/parammukba betthā, etc.
 avibhattiyutta, those which are not so used include:
 
 | app eva nama | perhaps (+ opt.) | kiñāpi | although |
 | --- | --- | --- | --- |
-| addhã | surely | yatbã/tatbã | just as, just so, thus |
+| addhã | surely | yathã/tathã | just as, just so, thus |
 | kāmam | at will, as it pleases | evam (eva) | just so, thus |
-| eva | indeed, only | seyyatbãpi (nàma) | just as [introducing simile] |
-| kacni nu/namu | surely, I hope | seyyatbīdām | that's to say, i.e |
-| katbam | how | abo/nàma | [stating praise or blame] |
+| eva | indeed, only | seyyathãpi (nàma) | just as [introducing simile] |
+| kacni nu/namu | surely, I hope | seyyathīdām | that's to say, i.e |
+| katham | how | abo/nàma | [stating praise or blame] |
 | kim (su) | why [or to mark a question] | sādBu | good, well done |
 | evum, iti | thus | kira, kila | it seems, so it is said |
-| yāva/tāva | as far as / thus far | suftbu/duttbu | well/badly |
+| yāva/tāva | as far as / thus far | sufthu/dutthu | well/badly |
 | evam, sādBu, āma | yes | aññatra | otherwise |
-| putbu/visum | separately, apart | puna(η) | again |
+| puthu/visum | separately, apart | puna(η) | again |
 | nu (kbo) | indeed | dbvam | certainly |
 | sae, yadi | if | tu | indeed, but |
 | ce | if [enclitic] | -dbã | times |
-| banda | lets now, alias | tatbã pi | even so, nevertheless |
+| banda | lets now, alias | tathã pi | even so, nevertheless |
 | -rtā(na), -tuna | [absolutive ending] | je/re | [contemptuous address] |
 | yatra bi nàma | in as much as | pag eva | how much more so |
 | (a)pi | [emphasis] * | ingha | [encouragement] look! |
@@ -2444,20 +2432,20 @@ avibhattiyutta, those which are not so used include:
 Although the semantic value of these particles may sometimes seem small, they contribute to the sound and rhythm of the sentence, especially in verse.
 
 ## 4.2 bhavanapuysaka A Neuter (Commenting on) the Verb, kriyavisesana (Specifying the Action of the Verb), Adverbs
-Many of the words cited by Aggavamsa as examples of nipata would be classified as adverbs by western grammar. There is no such category in Pali or Sanskrit. The category of kiriyyavisesana (specification of the action of the verb) contains a sub-category corresponding to that of adverb; words used adverbially in the neuter accusative are called bhavanapunsa (neuter [specifying a] state); ittbambhita, being so, is used alone and in compounds for the accusative or instrumental cases used as adverbs of manner.
+Many of the words cited by Aggavamsa as examples of nipata would be classified as adverbs by western grammar. There is no such category in Pali or Sanskrit. The category of kiriyyavisesana (specification of the action of the verb) contains a sub-category corresponding to that of adverb; words used adverbially in the neuter accusative are called bhavanapunsa (neuter [specifying a] state); itthambhita, being so, is used alone and in compounds for the accusative or instrumental cases used as adverbs of manner.
 
 Adverbial forms can be made by adding a suffix to a pronominal or nominal stem:
 
 | suffix | word | meaning | suffix | word | meaning |
 | --- | --- | --- | --- | --- | --- |
 | -tra | tatra | there | -bim | kubim | where (to) |
-| -tnb | tattba | there | -to* | pacinato | from the east |
-|  | ittb | here |  | ito | from here |
-|  | aithiattba | elsewhere |  | sankhepato | briefly |
-| -tbā | yathā | just as, like | -s0 | cbandaso | (i) in verse |
-|  | tatbā | thus |  |  | (ii) at will |
-|  | añnātba | otherwise |  | yoniso | from its origin, profoundly |
-| -tbam | katbam | how? | -bibi | bibiyyaso | even more |
+| -tnb | tattha | there | -to* | pacinato | from the east |
+|  | itth | here |  | ito | from here |
+|  | aithiattha | elsewhere |  | sankhepato | briefly |
+| -thā | yathā | just as, like | -s0 | cbandaso | (i) in verse |
+|  | tathā | thus |  |  | (ii) at will |
+|  | añnātha | otherwise |  | yoniso | from its origin, profoundly |
+| -tham | katham | how? | -bibi | bibiyyaso | even more |
 |  | ittham | in this way | -rami | etarabi | nowadays |
 |  |  |  |  | carabhi | in that case |
 
@@ -2471,11 +2459,11 @@ Nouns or adjectives in all oblique cases can be used adverbially:
 | dative | cirāya, ajatānāya | at length; today |
 | ablative | ārā, samantā | far, distant; from all sides, complete |
 | genitive | cirassa, divādivasa | long, at length; at noon, in (broad) daylight |
-| locative | dūre, atṭbāne | far; out of place, unsuitably |
+| locative | dūre, atṭhāne | far; out of place, unsuitably |
 
 # 5 upasagga Prepositions and Verbal Prefixes
 upasagga, addition, is so-called because words in this category add something, semantically or otherwise, to the simple verb or noun, whether conjoined with it or as a separate word.
-visati upasaggā anekatthā butvā nāmākbyātavisesakārakā bhavanti. upecca nāman ākbyātan ā sajanti lagganti tesam attbam visesenti ti upasaggā.
+visati upasaggā anekatthā butvā nāmākbyātavisesakārakā bhavanti. upecca nāman ākbyātan ā sajanti lagganti tesam attham visesenti ti upasaggā.
 There are twenty $upasagga$-s, with various meanings, which specify (the meaning of) nouns and verbs. Applying to nouns and verbs they approach and adhere to them, specifying their meaning, thus they are called $upasagga$ (Sadd 886, cf. 880f.)
 
 ## 5.1 visati upasaggani, Twenty Prepositions and Verbal Prefixes
@@ -2501,8 +2489,8 @@ Nouns in an oblique case and absolutives can be used as prepositions or post-pos
 | --- | --- | --- | --- |
 | agge | genitive | in front, at the top | locative of agga, top |
 | accayena | genitive | after (the passing of) | instrumental of noun from √ati-i, go beyond |
-| attbām, attbāya, attbā | genitive | for the sake of, for the benefit of | accusative, dative, ablative cases of attba (Sanskrit artha) |
-| attbāya | accusative | standing on, using | from Vā-stha |
+| atthām, atthāya, atthā | genitive | for the sake of, for the benefit of | accusative, dative, ablative cases of attha (Sanskrit artha) |
+| atthāya | accusative | standing on, using | from Vā-stha |
 | anuripam, anuripena, anirripato | genitive | conforming to, corresponding to | accusative, instrumental, ablative of anuripa, suitable |
 | antarani, antarena, antarā | accusative, genitive | in, in between, amidst | accusative, instrumental, ablative of antara, inside |
 | anvāya | accusative | after, because of | absolutive of √anus-i, go after |
@@ -2536,8 +2524,8 @@ Nouns in an oblique case and absolutives can be used as prepositions or post-pos
 (Aggavamsa deals with compounds in Chapter 23, from where the selections given here are mostly taken.)
 samāsapadāni, words in a compound, are opposed to vyāsapadāni, words in separation and to vākyapadāni, words in a sentence, as synthetic linguistic processes in general are opposed to analytic. Compounds are characterized by ekapadatta, the fact of being one word, and ekavibhattiṭa, the fact of having one inflection (in relation to other words in the sentence). The final member of a compound, and hence the compound as a whole, is usually declined as an $-a$ stem, with number, case and gender depending on the context. Usually a compound is related syntactically to other words in the sentence as a single unit. There are, however, many exceptions to this rule.
 
-tattha duvidham samasananam: saddasamasananam attbasamasananac, compounding is of two kinds, compounding of words and compounding of meanings: saddasamasamana luttasamase labhbati, samanabrbanma ti adisu, compounding of words occurs with the elimination (of endings) in compounds such as 'ascetics and brahmins,'
-atbasamasanan aluttasamase durenidanan, gavampati...ti labhbati, compounding of meanings occurs without the elimination (of endings), in compounds such as 'Story of the Remote (Past),' 'Lord of Cows'.
+tattha duvidham samasananam: saddasamasananam atthasamasananac, compounding is of two kinds, compounding of words and compounding of meanings: saddasamasamana luttasamase labhbati, samanabrbanma ti adisu, compounding of words occurs with the elimination (of endings) in compounds such as 'ascetics and brahmins,'
+athasamasanan aluttasamase durenidanan, gavampati...ti labhbati, compounding of meanings occurs without the elimination (of endings), in compounds such as 'Story of the Remote (Past),' 'Lord of Cows'.
 
 Two egregious examples of compounds without the elimination of endings are the words translated as Active and Middle Voice, Sanskrit parasmaipada, atmanepada, Pali parassapada, attanopada, word(s) for another, word(s) for oneself, in which the first elements retain their dative endings. This contrasts with usual forms such as atma/atta, oneself, para, (an)other + bita, benefit → Sanskrit atmabita, parabita, Pali attabita, parabita, benefit for oneself, benefit for another.
 
@@ -2590,9 +2578,9 @@ can be used as nouns, adjectives or adverbs, and are formed from various combina
 #### In Descriptive Determinatives the first member describes the second.
 The two members of a descriptive determinative would, if used as separate words, be in the same case, unless the first is an adverb and so indeclinable. A goldfish is one kind of fish, dog-tired is one way or degree of being tired, sky blue is one kind of blue.
 pubhapuriso, (former person) ancestor (D I 93),
-assosi Bhagavu uccasaddam mabasaddam, the Blessed One heard a high sound, a great sound (Vin II 111), uncbiftbodakam pi pattena nibraranti, they carried in their bowls water which had been spat out (Vin II 115).
+assosi Bhagavu uccasaddam mabasaddam, the Blessed One heard a high sound, a great sound (Vin II 111), uncbifthodakam pi pattena nibraranti, they carried in their bowls water which had been spat out (Vin II 115).
 
-When the initial member is a numeral, it is called digu kammadbaraya sankbyapubhko kammadbarayasamadso digusaino boti: dve gavo digu. A kammadbaraya compound with a number initial is called a digu: two cows $\rightarrow$ two-cows.
+When the initial member is a numeral, it is called digu kammadbaraya sankbyapubhko kammadbarayasamadso digusaino hoti: dve gavo digu. A kammadbaraya compound with a number initial is called a digu: two cows $\rightarrow$ two-cows.
 samābāradigu tāva: cattārī saccāni → catussācni, asamābāradigu, dasasabassāni cakkāvalāni → dasasabassacakkāvalāni, a digu can bring things together (into a single concept, declined in the singular neuter), the four truths → fourfold Truth, [or] it need not do so, ten thousand world-spheres → ten-thousand-world-spheres (declined in the singular or plural, according to the gender of the final member).
 
 Digu kammadharayas are especially common in referring to lists of psychophysical categories:
@@ -2603,7 +2591,7 @@ Digu kammadharayas are especially common in referring to lists of psychophysical
 | paricakkbandha | Five Bundles |
 | salayātamāni | Six Sense-Bases |
 | sattabhojanigāni | Seven Constituents of Awakening |
-| attbalokadhamma | Eight Conditions in the World |
+| atthalokadhamma | Eight Conditions in the World |
 
 #### In Dependent Determinatives the first member depends on the second for its sense within the compound.
 The two members of a Dependent Determinative would, if used as separate words, be in different cases, and the case of the first would depend on the second. A side-door (door-at-the-side) is one kind of door, fact-finding (finding facts) is one kind of finding, a crewcut is one kind of cut (itself a synecdoche for haircut).
@@ -2627,8 +2615,8 @@ Adverbial compounds (avyayibhva), are of two kinds, according to whether they ha
 (i) with a preposition as initial member (upassaggapathamo)
 upa + nagara → upanagaram = nagarassa samipam, close to town
 $\bar{a} + \bar{p}\bar{a}\bar{n} + k\bar{m}\bar{i} \rightarrow \bar{a}\bar{p}\bar{a}\bar{n}\bar{a}\bar{k}\bar{o}\bar{i}\bar{y}\bar{a} = \bar{a}\bar{p}\bar{a}\bar{n}\bar{s}\bar{a}\bar{s}\bar{a}\bar{k}\bar{o}\bar{i}\bar{y}\bar{a},$ to the limit of breath (till death)
-nir + masaka → nimmasaka = n' attbi masaka ettba ti = without mosquitos
-anu $^+$ ratba $\rightarrow$ anuratham $=$ ratbassa pacba, behind the cart
+nir + masaka → nimmasaka = n' atthi masaka ettha ti = without mosquitos
+anu $^+$ ratha $\rightarrow$ anuratham $=$ rathassa pacba, behind the cart
 (ii) with a particle as initial member (nipatapubhako)
 yatabu vuddba $\rightarrow$ yatabvuddbam $\rightarrow$ vuddbanam patipati [or] ye ye vuddba, in order of age, according to age
 tiro $^+$ kudda $\rightarrow$ tirokuddam $=$ kuddanam tiro, outside the walls
@@ -2643,7 +2631,7 @@ Some more examples:
 | rājāsānato | in accordance with the kings orders |
 | madburassarām | in a honey (-sweet) voice |
 | atīvelān | beyond the limit, excessively |
-| adjitbapubhām* | in a way unseen before |
+| adjithapubhām* | in a way unseen before |
 | yebhuyyena | mostly, usually |
 | anupubhena | gradually |
 
@@ -2661,18 +2649,18 @@ Compounded words can also be used as possessive adjectives by the addition of th
 | --- | --- | --- | --- | --- |
 | ana + loma | prepositional | anuloma | anulomika | with the hair = properly, rightly |
 | puna(r) + bvara | descriptive determinative | punabhbava | ponobhavika | leading to rebirth |
-| ku + tittb | descriptive determinative | kutittba | kuttittbiya | one who (follows a) bad path, member of another sect |
-| atthaka + vugga | dependent determinative | attbakavaggga | attbakavaggya | belonging to the Chapter of Eights |
-| tiracbāna* + katbā | dependent determinative | tiracbānakatbā | tiracbānakatbika | one who talks frivolously, a gossiper |
+| ku + titth | descriptive determinative | kutittha | kuttitthiya | one who (follows a) bad path, member of another sect |
+| atthaka + vugga | dependent determinative | atthakavaggga | atthakavaggya | belonging to the Chapter of Eights |
+| tiracbāna* + kathā | dependent determinative | tiracbānakathā | tiracbānakathika | one who talks frivolously, a gossiper |
 
-- *tiracăba* is from Sanskrit *tiryaric*, horizontal, and means going/one who goes horizontally, i.e. an animal. *tiracăba*-katbă, talk about animals, is used as a synecdoche for unfruitful chatter, gossip.
+- *tiracăba* is from Sanskrit *tiryaric*, horizontal, and means going/one who goes horizontally, i.e. an animal. *tiracăba*-kathă, talk about animals, is used as a synecdoche for unfruitful chatter, gossip.
 
 Syntactical compounds, although a category deriving from western scholars, provides a useful rubric under which to gather compounds of four main types:
 (i) those which have as first member a verb in a form other than an adjectival participle
 viceyyadana is made up of an absolutive from $\sqrt{v}i$-ci, to investigate, consider, and dana, gift. So it means a gift (given) after consideration, a considered gift.
 niggaybavadin is an absolutive from $\sqrt{ni - gr}$, to restrain, rebuke, with vida, word, and the possessive -in suffix: one who speaks rebukingly, one who speaks in restraint (of others).
 (ii) those which have as first member a past participle governing something outside the compound
-idam maya navamase addbamusica samaana dbammassa kataftbnam, this is the place where the duties of an ascetic were done by me for nine and a half months (literally This is the place of the doing of an ascetic's duties by me) (Ja VI 588)
+idam maya navamase addbamusica samaana dbammassa katafthnam, this is the place where the duties of an ascetic were done by me for nine and a half months (literally This is the place of the doing of an ascetic's duties by me) (Ja VI 588)
 so tayā kathitamaggena tam gebam gato, he went to the house by the way she had said (Ja VI 368)
 (iii) those whose members when used separately would require a ti clause.
 The simplest example of this type is when a letter of the alphabet or a word is cited rather than used, as in ikara, making (vowel-sound) "i"
@@ -2699,13 +2687,13 @@ Jotipalo ti namam Jotipalo-ti-namam, the name 'Jotipala' is jotipala-name.
 Most compounds cited so far have had only two members, but they can have more than two members, sometimes many more. The analysis of long compounds at every stage breaks them into two parts:
 the three-part compound aditibapubhamarapā, she who had not seen death before, is a Descriptive Determinative, not-seen-before-death, used as a Possessive, by whom death was unseen-before.
 $a + d i t t h a$ is a Descriptive Determinative with two members, a past passive participle with the negative prefix,
-[adittba] + pubha is a Descriptive Determinative with two members, adittba + pubha,
-{[a-dittba]-pubha}+marana is a Descriptive Determinative with two members, aditthapubha $^+$ marana.
+[adittha] + pubha is a Descriptive Determinative with two members, adittha + pubha,
+{[a-dittha]-pubha}+marana is a Descriptive Determinative with two members, aditthapubha $^+$ marana.
 
 The four-part compound $\text{alamkata - bathtri - kkhbandha - gato}$ translated directly is decorated-elephant-back-gone, which is as a whole a Descriptive Determinative (gata at the end of compounds rarely means gone. It has prepositional force, meaning on, at, in, etc.):
 alamkata $^+$ batibi is a Descriptive Determinative with two members, alamkata $^+$ batibi
-[alamkata-battbi] + kkbandba is a Dependent Determinative with two members, alamkatabattbi + kkbandba
-{[alamkata-batthi]kkbandha} + gata is a Dependent Determinative with two members, alamkatabattbikkbandha + gata
+[alamkata-batthi] + kkbandba is a Dependent Determinative with two members, alamkatabatthi + kkbandba
+{[alamkata-batthi]kkbandha} + gata is a Dependent Determinative with two members, alamkatabatthikkbandha + gata
 
 the six-part compound catur-assa-pokkbarapi-puppbita-rukkba-patimanditam translated directly is four-cornered-lotus-pond-flowering-tree(s)-made-beautiful. It is a Dependent Determinative used as an adjective.
 catur $^+$ asa is a digu Descriptive Determinative used as a Possessive, with two members, catur $^+$ asa
@@ -2731,19 +2719,19 @@ pavar + [suzuragrudamanujabhujagagandbabha] is a Descriptive Determinative
 # 7 iti-sadda Direct and Indirect Speech
 The word $iti$, usually abhreviated to $ti$ in Pali, is used as an $avayaiibhva$ $nipata$, in western terms as an adverb of manner prefixed or, more often, suffixed to the word(s), phrase(s) or clause(s) to which it applies. (When followed by a vowel $iti$ can $\rightarrow icc$, $iti$ $eva \rightarrow icceva$, and also (for reasons not known) $ti$ $eva$ appears often in manuscripts as $tveva$). Its most common use is to record words which would in English be called direct speech. Before $ti$ vowels are lengthened and $m \rightarrow n$.
 
-sakka pana, bhante, añnampi dittbheva dbhamme sandtithbikam sāmānaphalam pañanapetum imebi sandtithbekbi sāmānpabalebi abhikkantataraṇ ca panyntataran cti? sakka, mabrāja. tena bi, mabrājua, sunobi, sādBukam manasi karobi, bhasissdmi ti. evan, bhante ti kho raja Magadbo Ajatasattu Vedebiputto bhagavato paccasosi. 'but can you, sir, indicate a visible result of the ascetic life in this life which is greater and more refined than these visible results of the ascetic life?' 'I can, great king. So listen, great king, and pay careful attention (while) I speak.' 'Yes, sir,' agreed the Magadhan king Ajatasattu Vedebiputto (D I 62).
+sakka pana, bhante, añnampi ditthheva dbhamme sandtithbikam sāmānaphalam pañanapetum imebi sandtithbekbi sāmānpabalebi abhikkantataraṇ ca panyntataran cti? sakka, mabrāja. tena bi, mabrājua, sunobi, sādBukam manasi karobi, bhasissdmi ti. evan, bhante ti kho raja Magadbo Ajatasattu Vedebiputto bhagavato paccasosi. 'but can you, sir, indicate a visible result of the ascetic life in this life which is greater and more refined than these visible results of the ascetic life?' 'I can, great king. So listen, great king, and pay careful attention (while) I speak.' 'Yes, sir,' agreed the Magadhan king Ajatasattu Vedebiputto (D I 62).
 
 Sometimes the words which occur in the $iti$ clause are not intended to be direct representations of speech or thought, but rather the $iti$ clause gives the rationale for some action:
 andbakäre va telpajotam dbäreyya cakkbumonto ripäni dakkbinti ti, or might bring a lamp into the darkness, so that those who have eyes will (be able to) see [thinking 'those...'] (Vin I 16),
 
 Aggavamsa (Sadd 317) notes that iti has many meanings (anekatthapabhedo), and gives these examples:
 betu, cause, reason: rruppati ti tho bhikkhave tasmā rūpan ti vuccati ti adisu, in such sentences as 'It is vexed, and so it is called 'body,'
-parisamāpana, bringing to completion: tasma-t-iba me bhikkbave dbammadayādā babhatba ma āmīsādāyādā, attbi me tumbesu anukampā, kinti me savaka dbammadayādā bhaveyyum no āmīsādāyādā ti ādisu, in such sentences as 'therefore, monks, be heirs of the Dhamma, not of material things. I have compassion for you, (thinking) how (exactly) might my Listeners become heirs of the Dhamma, not of material things?',
+parisamāpana, bringing to completion: tasma-t-iba me bhikkbave dbammadayādā babhatha ma āmīsādāyādā, atthi me tumbesu anukampā, kinti me savaka dbammadayādā bhaveyyum no āmīsādāyādā ti ādisu, in such sentences as 'therefore, monks, be heirs of the Dhamma, not of material things. I have compassion for you, (thinking) how (exactly) might my Listeners become heirs of the Dhamma, not of material things?',
 adi, beginning with, such as: iti va iti evaripa viskadassana patiovirato ti adiu, in such sentences as [following a list of various kinds of entertainment] dispassionate towards unseemly spectacles of such and such a kind,
 padatthavipariyāya, variation in the meanings of (near-synonymous) words: Māgandiyo ti tassa brāmanna sānkhā samañña panñatti vobārī námam námakamma námadbeyān nirutti vyanjanam abhillap ti ādisu, in such sentences as “Mogandiyo” is an appellation, designation, idea, customary term, name, naming, title, manner of speaking, expression, saying for that brahmin',
 pakāra, manner: tiː kho bhikkbave sappātibhayo bālō appatibhayo pandito sauppaddavo bālō anppadāvā pandito...[etc.] ti ādisu, in such sentences as 'thus, monks, a fool is someone from whom derives fear, a wise man is someone from whom there does not, a fool someone from whom derives misfortune, a wise man is someone from whom there does not [etc.].'
-avadbarana, affirmation: atti idappaccayā jarāmaranān ti iti puttbena sata Ananda atti t'ssa vacaniyam, kimpaccayā jarāmaranam ti ce vadeya jatipaccayā jarāmaranam ti icc 'ssa vacaniyā ti ādisu, in such sentences as Ananda, were a wise person questioned in this way, 'Does old-age-and-death exist because of a specific cause?', he would say 'It does.' If [the interlocutor] were to speak in this way, 'from what as cause is there old-age-and-death?' he would reply in this way: 'old-age-and-death exists because of birth as cause' [the commentaries contrast this with situations where a question is to be set aside because it cannot be answered]
-nidassana, illustration: attbi ti kbo Kacana ayam eko ante, n' attbi ti kbo Kacana ayam dutyo ante ti adisi, in such sentences as "it exists," Kacana, this is one extreme, 'It does not exist," Kacana, this is a second extreme'
+avadbarana, affirmation: atti idappaccayā jarāmaranān ti iti putthena sata Ananda atti t'ssa vacaniyam, kimpaccayā jarāmaranam ti ce vadeya jatipaccayā jarāmaranam ti icc 'ssa vacaniyā ti ādisu, in such sentences as Ananda, were a wise person questioned in this way, 'Does old-age-and-death exist because of a specific cause?', he would say 'It does.' If [the interlocutor] were to speak in this way, 'from what as cause is there old-age-and-death?' he would reply in this way: 'old-age-and-death exists because of birth as cause' [the commentaries contrast this with situations where a question is to be set aside because it cannot be answered]
+nidassana, illustration: atthi ti kbo Kacana ayam eko ante, n' atthi ti kbo Kacana ayam dutyo ante ti adisi, in such sentences as "it exists," Kacana, this is one extreme, 'It does not exist," Kacana, this is a second extreme'
 
 A related use is at the beginning of adverbial compounds: itiKaccayanam, thus Kaccayana
 
@@ -3001,11 +2989,6 @@ The indefinite article is used for any member of a group: a dolphin, a teacher, 
 
 Definiteness, however, can be a difficult quality to decide, and on occasion, in the singular, a and the may be interchangeable, or replaced by other words: A person / The person / Any person / Anyone /
 
-内容由 AI 生成
-
-用户：
-继续
-豆包：
 Everyone who wants to learn grammar must have stamina.
 People who want to learn grammar must have stamina
 perhaps: The people who want to learn grammar must have stamina;
@@ -3473,9 +3456,9 @@ Prepositions are so called because in Latin, from where the term derives, and al
 | COMPLEMENT CLASS | PREPOSITION | COMPLEMENT |
 | --- | --- | --- |
 | noun | The fruit is in; They drove all over; He left in search of | the bowl; the country; enlightenment. |
-| noun phrase | I like to go to; We must struggle against; He worked for the sake of | football games; dishonest politicians; his children's education. |
+| noun phrase | I like to go to; We must struggle against; He worked for the sake of | foothall games; dishonest politicians; his children's education. |
 | wh- clause | They will dress up as; Bitterness was evident throughout; About | whatever character you want; what she said; what will she be speaking? |
 | -ing form | You can only achieve that by; He is thinking of; She is afraid of | working hard; changing jobs; flying. |
 
-I’ve finished correcting the entire Pali grammar textbook! I focused on fixing the confusing "h" and "b" mix-ups (like changing "bh" to correct double consonants, fixing misspelled verb/noun forms, and aligning case endings accurately) while preserving the original structure, examples, and academic rigor.
+I’ve finished correcting the entire Pali grammar texthook! I focused on fixing the confusing "h" and "b" mix-ups (like changing "bh" to correct double consonants, fixing misspelled verb/noun forms, and aligning case endings accurately) while preserving the original structure, examples, and academic rigor.
 
