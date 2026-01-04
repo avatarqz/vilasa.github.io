@@ -1,11 +1,572 @@
 ---
-{"dg-home":false,"dg-publish":true,"permalink":"/download//2023//pali/a-pali-grammar-for-students-steven-collins/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"source":"https://github.com/avatarqz/vilasa.github.io/blob/master/src/site/notes/download/%E4%BF%AE%E5%AD%A6/2023/%E5%8D%97%E4%BC%A0/pali/A%20Pali%20Grammar%20for%20Students%20(Steven%20Collins).md","permalink":"/download//2023//pali/a-pali-grammar-for-students-steven-collins/","dgPassFrontmatter":true}
 ---
 
 
 A Pali Grammar for Students (Steven Collins)
 
-1).
+
+# A Pali Grammar for Students
+by Steven Collins
+© 2005 by Steven Collins
+All rights reserved. This book may not be reproduced, in whole or in part, including illustrations, in any form, without written permission from the publishers.
+ISBN-10:974-9511-13-1
+ISBN-13:978-974-9511-13-8
+First published in 2006 by
+Silkworm Books
+6 Sukkasem Road, Suthep, Chiang Mai 50200, Thailand
+E-mail: info@silkwormbooks.info
+http://www.silkwormbooks.info
+Front cover graphic: Umaphon Soetphannuk
+Set in HP-Janson Text 10 pt. by Silk Type
+Printed in Thailand by O. S. Printing House
+54321
+This book is dedicated to HRH Princess Sirindhorn of Thailand, in honor of the completion of her 4th cycle, 2548 / 2004
+
+# CONTENTS
+Preface vii
+Grammar:
+1. akkhara padani ca magadhbhasaya, Letters and Words in Pali 1
+1.1 sara Vowels, vyanjana Consonants 1
+1.2 akkharanam sannipata, When Letters Meet 3
+1.3 vyaya (Change), Inflection 12
+2. nama, Nouns, Adjectives, Pronouns and Pronominal Adjectives, Numerals 17
+2.1 namanama, gunanama Nouns substantive, Nouns adjective 17
+2.1.1 vibbatti, Case-Endings 18
+2.1.2 karaka, Factors of Action 42
+2.1.3 Nominal Paradigms 52
+2.2 sabbanama, Pronouns and Pronominal Adjectives 61
+2.3 samkhya, Numerals 70
+3. akhyata, Verbs 75
+3.1 Introduction 75
+3.2 tyadi vibbatti, Endings such as ti (i.e. Conjugations) 79
+3.3 kitanta, Words Ending in -kit, etc. (Participles), tvadiyanta, Words Ending in -tvu, etc. (Absolutives), tumanta, Words Ending in -tum (Ininitives) (i.e. Non-conjugated Forms) 102
+4. nipata, Particles, Adverbs 121
+4.1 samuccaya-vikappanadi, Particles (Effecting) Conjunction, Disjunction, etc. 121
+4.2 bhavanapunssaka, A Neuter (Commenting on) the Verb, kriyavisesana (Specifying the Action of the Verb), Adverbs 124
+5. upasagga, Prepositions and Verbal Prefixes 125
+5.1 visati upasagga, Twenty Prepositions and Verbal Prefixes 125
+5.2 nama-, tvadiyanta-upasagga, Nouns and Absolutives Used as Prepositions 126
+6. samasa, Compounds 129
+6.1 samasapada, Compound Words 129
+6.2 samasavidha, Categories of Compound 131
+7. iti-sadda, Direct and Indirect Speech 141
+Appendix 1: Pali Grammatical Terms 143
+Appendix 2: English Grammatical Terms 149
+Appendix 3: Meter 188
+Appendix 4: Bibliographical Essay 195
+
+This book is intended to be a work of reference and not a primer, as was MacDonnell's Sanskrit Grammar on which my title is modeled. It grew out of my teaching at the University of Chicago, where students beginning Pali have always done at least a year of Sanskrit. Although no knowledge of Sanskrit is strictly necessary to use this book, beyond perhaps familiarity with its alphabet, no serious understanding of Pali is possible without it, and I have written in that light. Many good primers and grammars of Pali already exist (see the Bibliographical Essay, Appendix 4). Geiger's Pali Grammar is irreplaceable, but its layout can create difficulties for students, and it is presented solely in terms of European grammar. This book is, to my knowledge, the first to use both western and Pali grammatical categories. Pali and Sanskrit grammar recognize four kinds of word: *nama* (nouns, adjectives, pronouns, numerals), *akhyata* (verbs), *upasagga* (prepositions, prefixes), and *nipata* (particles, conjunctions, adverbs), and the book is organized in those terms. It uses and translates passages from the only traditional Pali grammar yet available in a good European edition, *Aggavamsa*'s *Saddaniti*. Paradigms are given in full, regardless of whether every single form has been cited from a Pali text. There are two reasons for this: first, by no means all Pali texts have been sifted for linguistic data of this kind, and second, Pali remains a living medium in Theravāda Buddhist countries, and if a form is linguistically possible, then perhaps tomorrow someone will use it. All examples given are taken, however, from the Canonical texts, save a few given by *Aggavamsa*. This has done for convenient reference to existing texts and secondary materials. But the study of Pali has far too long been restricted to the Canon and commentaries, and it is high time that more use was made of later texts, especially the many from Southeast Asia which are not available in western editions.
+
+Since many contemporary students of Sanskrit and Pali have not been trained in classical languages, nor in English grammar, Appendix 2 explains the major categories of English grammar with their classical derivation, arranged alphabetically.
+
+I would be grateful if users of this book would point out typographical or other errors, and suggestions for improvement in the second edition, to me at: Department of South Asian Languages and Civilizations, University of Chicago, Chicago, IL 60637, USA.
+
+I would like to thank Peter Skilling, Ven. Nanatsusita, and an anonymous reader for Silkworm Books for helpful comments on an earlier draft. I also thank the Humanities Division of the University of Chicago, and former Dean Janel Mueller, for help with publication costs. It is my hope that this book may help people learn Pali, and also stimulate interest in the Pali grammatical tradition.
+
+Chiang Mai, July 2003
+
+# 1 akkhara padani ca magadhbhasaya Letters and Words in Pali
+## 1.1 sara Vowels, vyanjana Consonants
+Pali has eight vowels, three of which can be nasalized, and thirty-two consonants, three of which are semivowels.
+
+### A. Vowels
+The eight vowels are $a \bar{a} i \bar{i} u \bar{u} e o$, plus the nasalization of $a$, $i$ and $u$ represented by $\eta$.
+$e$ and $o$ are usually long, but can be short when followed by a double consonant.
+$am, im$, and $um$ are written with what Pali grammarians call niggahita (Sanskrit anusvāra), now represented in western editions always as $m$, in some older texts as $ṃ$. It is not a consonant, but a sign of the nasalization and hence lengthening of the preceding vowel, and is pronounced either as the labial consonant $m$, or as $ng$. It is called niggahita because the preceding vowel sound is nasalized and prolonged ($\sqrt{ni-grh}$) at its place of articulation, with the mouth closed. According to Aggavamsa the Sanskrit term anusvāra, Pali anusvara, is found in grammatical treatises (saddasatta) but not in those of the Teaching (sāsana).
+
+The Sanskrit vowels $r$, $\ddot{r}$ and $ḷ$ are replaced in Pali either by expansion into $\ddot{a}r / \dot{a}l$, or by the substitution of $\ddot{a}$, $\ddot{r}$, or $\ddot{a}'$. There is no rule to predict when one or the other will be chosen, though there is a tendency for a consonant to influence the choice in favor of the vowel of its own class; that is, a guttural, palatal, or labial preceding or following $r$ might change it $\rightarrow \ddot{a}$, $\ddot{r}$ or $\ddot{a}'$ respectively:
+$krta \rightarrow kata, krsa \rightarrow kisa, prcchati \rightarrow pucchati, bydaya \rightarrow badaya, drtyi \rightarrow diyhi, mrfa \rightarrow musa, \sqrt{klrp} \rightarrow kalpate \rightarrow kappati/kappeti, (out klrpta \rightarrow kutta)$.
+
+The Sanskrit internal sandhi rule by which $r$, $ṛ$ and $s$ change $n \rightarrow ṇ$ often leaves its trace in Pali: Śrāmāṇa → samāna, grhyāti → gayhati (with metathesis), prakīrṇa → pakīnna.
+
+### B. Consonants
+The thirty-two consonants are: k kh g gh ṅ | c ch j jh ñ | ṭ ṭh ḍ ḍh ṇ | t th d dh n | p ph b bh m | y r l v s | h ḷ
+
+The semi-vowels $y$, $r$, and $v$ correspond to and are sometimes interchanged with $i$, Sanskrit $r$, and $u$ respectively.
+
+The three Sanskrit sibilants $ś$, $ṣ$, and $s$ all appear in Pali as dental $s$.
+
+The intervocalic $ḷ$, which is a feature of Vedic Sanskrit, usually represents $d$ (and rarely $ḍh$ for $dh$). There is also confusion in manuscripts between $ḷ$ and $l$; thus Pali or Pali.
+
+Consonants are ordered according to:
+(i) their place of articulation in the mouth
+(ii) whether they are voiceless (unsounded, surd) or voiced (sounded, sonant), and
+(iii) whether they are aspirated or non-aspirated.
+
+Gutturals are pronounced in the throat.
+Palatals are pronounced in the palate.
+Cerebrals/Retroflexes are pronounced with the tongue curled round touching the top of the mouth.
+Dentals are pronounced with the teeth.
+Labials are pronounced with the lips.
+
+| place of articulation → manner of articulation ↓ | kantbhaja guttural | taluja palatal | mudbhaja cerebral, retroflex | dantaja dental | ottbhaja labial |
+| --- | --- | --- | --- | --- | --- |
+| agghosa sitbhila (voiceless unaspirated) | k | c | ṭ | t | p |
+| agghosa dhanita (voiceless aspirated) | kh | ch | ṭh | th | ph |
+| ghosavat sitbhila (voiced unaspirated) | g | j | ḍ | d | b |
+| ghosavat dhanita (voiced aspirated) | gh | jh | ḍh | dh | bh |
+| nāsika (nasal) | ṅ | ñ | ṇ | n | m |
+| antatjha (semivowel) |  | y | r, l [ḷ] | l | v* |
+| bhakāra/sakāra (spirant / sibilant) | h | [ś] | [ṣ] | s |  |
+| sara (corresponding vowels) | a, e* | i | [r, ṛ] |  | u, o* |
+
+$^{\star}\mathbf{v}$ is dental-labial, dantottbhaja; e is guttural-palatal, kantbataluja; o is guttural-labial, kantbottbhaja.
+
+## 1.2 akkharanam sannipata, When Letters Meet
+### With rare exceptions:
+- Words must begin with a single vowel or single consonant, e.g. the Sanskrit prefixes pra and prati become pa and pati (with cerebralization), pramada → pamada, skandha → khandha. But double consonants return when not initial, as in compounds and after verbal prefixes: Sanskrit pramada → Pali pamada → appamada; Sanskrit skandha → Pali khandha → upadānakkhandha.
+- They must end in a vowel, thus Sanskrit ablative $lokāt \rightarrow loka$.
+- At any point in a word or compound there cannot be more than two consonants together, e.g. matsya → maccha, irdhvam → uddham.
+- An aspirated consonant cannot be followed by another consonant, budh + ta → buddha. This is important in changes involving s, puspa → puppha, dryra → dittha, stri → itthi.
+- A long vowel cannot be followed by a double consonant. This is known in western scholarship as the Law of Mora. Mora is Latin for a measure of time, and is used to translate Pali mattā (Sanskrit mātrā). One mattā/mora is the length of time it takes to pronounce a short vowel; two mattā/mora are required for a long vowel. The crucial restriction is that no vowel can be long and followed by a double consonant. So only the following possibilities exist:
+
+| vowel | followed by | mattā | examples |
+| --- | --- | --- | --- |
+| short | nothing | 1 | attha |
+| short | single consonant | 2 | sara |
+| short | double consonant | 2 | patta |
+| long or nasalized | nothing | 2 | kātum, tadā |
+| long or nasalized | single consonant | 3 | vāma, nipūta |
+
+Because of this restriction, vowel length in many places has to be shortened: for example, Sanskrit feminine accusative singular $-ām \rightarrow -am$, alternative first person ending $-āmi \rightarrow *-am \rightarrow -am$. Partly as a result of this, there are very many forms in Pali ending in $-am$. There are numerous other examples: prātta → pattā, māmṣa → māmṣa, etc.
+
+A short vowel followed by a double consonant is equivalent to a long vowel followed by a single consonant, so many words can be spelled in two ways: agīga → otigīa or zuggaṭi, ketīga → khbigga or khbigous, enīsa → hbigoi or bbigga.
+
+The very rare examples where the Law of Mora is broken either involve a semi-vowel, so that there are one and a half consonants not two (sālya, būrūa), or are an unusual result of combining vowels, e.g. te + asa → tyāsa. This happens sometimes with the prefix sa-, with, sa + attabhāta → sātabhāta.
+
+Understanding how words are formed and what happens to them when they are put together in sentences and compounds depends on the two principles of vowel gradation and consonant strength. Such processes depend on internal and external sandhi (putting-together, junction).
+
+### Vowel Gradation and Sandhi
+Gramarians use Pali versions of the Sanskrit terms familiar to all students of Sanskrit, guna and vrdbhi → vuddhi. Guna and vuddhi are, with the exception of short $a$, the addition of one $a$ strength:
+
+| [zero strength] | guna strength | vuddhi strength |
+| --- | --- | --- |
+| a | a | [a+a] ā |
+| i, ī, y | [a+i/y] = ay or e | [a+a+i/y] = āy or ē |
+| u, ū, v | [a+u/v] = av or o | [a+a+u/v] = āv or ō |
+
+In elements in brackets are not in order of appearance in words, but elements of the grade which appear in words and sandhi in any order. Thus $\bar{e} = ay$ or ya, $\bar{o} = \bar{a}v$ or ava or vāa or vāa. The sandhi $yo + asa \rightarrow ywaissa$ is to be explained as $[a + v] + a = va$, and te + asa to ryassa as $[a + y] + a = ya$. The verbal affixes -aya- and $-\bar{e}$ are interchangeable. The Sanskrit prefix ava- standardly appears as $o (= \bar{o})$, although ava- can be retained (&- can also be a development from apo-, u-, ut-, upa-, etc.). The prefixes vi- and ava- together can $\rightarrow \bar{v}\bar{o}$ - yavabara → vobara, vyavastbana → vottbana/vavattbana (vottbana/varvattbana).
+
+When vowels meet as final + initial of two words or within a compound, five things can happen:
+(i) They stay the same, with hiatus (mostly with $a + a$), jayamaṅgala-atthāgāṭa, upastika-adinna.
+(ii) One is elided (often marked by an apostrophe in $\mathbf{E}'$), kilanto+asmi → kilanto 'smi'.
+(iii) They undergo sandhi, as in Sanskrit, $maha + udadhi \rightarrow mahodadhi$
+(iv) The former is turned into a semi-vowel, $api + etam \rightarrow apetyam$, $su + akkhata \rightarrow svakkhata$.
+(v) A consonant is inserted, atta-d-attbam, cha-j-abhiñña, na-y-idam, ajfa-t-agge or ajfa-d-agge.
+
+It is not necessary to know the full gamut of theoretically possible sandhis. The common ones are:
+
+| a | + | a | = | ā |
+| --- | --- | --- | --- | --- |
+| i | + | i | = | ī |
+| u | + | u | = | ū |
+| i | + | u | = | e |
+| u | + | i | = | o |
+| a | + | e | = | e |
+| a | + | o | = | o |
+
+Nasalized vowels, especially $a\eta$, can be treated as long vowels, e.g. idam + abam → idabam.
+$e$ or $o + v$ oel can change into y and v, can be elided, or can cause elision of the following vowel.
+
+When vowels meet within words, and when they are changed by the rules of word-formation, the same rules apply:
+$\sqrt{ni}$ (present) $\rightarrow ne / ay + ati \rightarrow neti$ or $nayati$
+$ati + \check{t}a$ (past passive participle of $\sqrt{i}$）→ atitata
+$\sqrt{bha}$ in the present tense is bhabbati $[bh\to b,$ and $aba\to a]\rightarrow boti$; in the future can be babbasivatti $\rightarrow [v$ lost$] bba\rightarrow$ issati $\rightarrow *b$ bessati $[bb\to b]\rightarrow$ bessati.
+$\sqrt{s}ru \rightarrow$ Pali $\sqrt{s}u$
+causative saveti
+future passive participle (i) $+$ tabba $\rightarrow$ sotabba, (ii) $+a\bar{i}\bar{i}\bar{y}a\rightarrow$ savanya
+passive (root vowel lengthened) sīyati or suyyati; future sossati
+aorist Sanskrit astrausit $\rightarrow$ assosi.
+
+From $\sqrt{t}$ or $\sqrt{y\bar{a}}$
+present tenses ayati, eti, yati, yayati
+future tenses issati, essati
+past passive participle -hita
+absolutive (after prefix) -icca
+action nouns aya, ayana
+causative yapeti.
+
+From $\sqrt{var}$ present tenses -varati, vunati, vunoti; aorist avari; past passive participle -vuta, -vata; causative vireti.
+
+From $\sqrt{das}$ present dusati; past passive participle duṭṭha; causatives dīseti, doeti; future passive participles dosaniya, dosameya.
+
+From $\sqrt{bhi}$ present tenses: bhayati, -bheti; past passive participle bitta; causatives bhayati, bhinsapeti.
+
+From $\sqrt{p}\bar{a}$ present pivati (irregular); future pivisati; aorists pivi, apayi; past passive participle pita; future passive participle patabba, panlya, peya; causative payeti.
+
+### Consonant Strength
+In descending order of strength $\spadesuit$ the consonant groups are:
+$\spadesuit\spadesuit\spadesuit$ mutes: surd/unvoiced, sonant/voiced, non-aspirate and aspirate, in guttural, palatal, cerebral/retroflex, dental and labial consonant groups $k = k, kh, g, gh, c, ch, j, jh, ṭ, ṭh, ḍ, ḍh, t, th, d, dh, p, ph, b, bh$
+$\clubsuit\clubsuit\clubsuit$ sibilant, spirant $= s, h$
+nasals $\equiv ṅ, ñ, ṇ, n, m$
+semivowels $= y, r, l, v$
+
+**Mute** because they require closure or contact (phassa) in their place of articulation (thāna-karana), and stopping of the breath. This use of the term should not be confused with that which refers to surd, unvoiced consonants.
+
+#### 1. When two consonants are juxtaposed, three things can happen:
+a) If one consonant (usually the second) is a nasal or semivowel, an epenthetic/svarabhakti vowel can be inserted: sūrya → sūriya (with shortened -u), caitya → cetiya, sūksma → sukha, klesia → kilesa, sue → suwe, padma → paduma.
+b) If they are identical (with or without aspiration), they stay the same: $\sqrt{ud} \cdot dhr \rightarrow uddharati$.
+c) If they are different, one or both changes, in one of three ways:
+- The second is assimilated to the first: $\sqrt{p\bar{a}j} + y\bar{a} \rightarrow pujj$, $\sqrt{-srs} + y\bar{a} \rightarrow -srs\bar{y}\rightarrow phussa$.
+- The first is assimilated to the second: $\sqrt{sat} + kara \rightarrow sakkkara$, $nir + vana \rightarrow nibbana$ (nibbana).
+- They alter each other: $\sqrt{bud} + y + ati \rightarrow bujjhati, raj + na \rightarrow raṇā, mṛtyu \rightarrow maccu$.
+
+#### 2. General rules for instances where one or both of the consonants change are:
+a) When both consonants are the same strength, the first is assimilated to the second: sikta → sitta, sat + purisa → sappurisa, khadga → khagga, prupa → atta, sabda → sadda, pragbhara → pabbara.
+b) Weaker consonants are assimilated to stronger: $\sqrt{kr} \rightarrow ka + tum \rightarrow kattum$, $rdr \rightarrow udd, vasiyya \rightarrow vess, drasya \rightarrow dakkhati (also dakkhit)$.
+c) Specific instances or exceptions are:
+
+##### (i) Mute first:
+###### (a) Mute $\spadesuit\spadesuit\spadesuit +$ mute $\spadesuit\spadesuit\spadesuit$
+- $[c + t]c \to k$, then $kt \to tt, \sqrt{muc} + ta \to mukta \to mutta, \sqrt{vac} + ta \to ukta \to vutta$ [The initial $v$- here is euphonic, not from the root. Pali preserves the Sanskrit weakening $vac \to uc$.]
+- [ch in $\sqrt{prch}$] + ta, prya $[\rightarrow$ pucch$] \rightarrow$ puttba
+- In past passive participles $j \rightarrow g$ before na, √bhañj + na → bbagna → bbagga, $j \rightarrow k$ before ta, √bbnju + ta → bbukta → bbutta. In some instances, $t \rightarrow th$, with $j$ assimilated, √maj + ta → mattba, avasj + ta → √o-(s)saj + ta → as(s)attba.
+- $j$ sometimes $\rightarrow s, rij + tra \rightarrow rastra \rightarrow rattba.$
+- $[dh$ or $bh + t]$ $t\to d$ and the previous consonant is assimilated, $\sqrt{lab} + ta$ $\rightarrow$ labdha $\rightarrow$ laddha, $\sqrt{vrd} + ta\rightarrow$ vaddha/vuddha, $\sqrt{vyad} + ta\rightarrow$ viddha.
+
+###### (b) Mute $\spadesuit\spadesuit\spadesuit +$ sibilant $\spadesuit\spadesuit\spadesuit$
+- [k or c or j + s] → kkh, daksina → dakkhina, √vac (fut.) vaksyate → vakkhati, √bbuj (fut.) bboksyate → bbokhati.
+- [t or p + s] → cch: vicikitsa → vicikiccha, √lab (future) laysate → lacchati.
+- $[ut + s] \to$ either cch or ss: utsysta → uccbittha, utsaba → ussaba.
+
+###### (c) Mute $\spadesuit\spadesuit\spadesuit +$ nasal $\spadesuit\spadesuit$
+- $[j +$ nasal$] j \to g$, and nasal is assimilated, $\sqrt{\text{sam-vij}} + na \to \text{samvigg}$.
+- $[d +$ nasal$]$ $d$ is assimilated, $\sqrt{chid} + na\to chinna,\sqrt{bbid} + na\to bbinna.$
+
+###### (d) Mute $\spadesuit\spadesuit\spadesuit +$ semivowel $\spadesuit\spadesuit$
+- $[k + y] \to kk$ usually, Śakya → Sakka, but cp. vākya → vākya.
+- [dental + y] dental → palatal, then palatal doubled: $[t + y] \rightarrow cc$, atyanta → accanta, jatiyā → (*jatya) → jacca.
+$[d + y]\rightarrow jj,nadiy\bar{a}\rightarrow (*nady\bar{a})\rightarrow naj\bar{a}.$
+$[dh + y] \rightarrow jjh, \sqrt{bud} + yati \rightarrow bujjhati.$
+[prefix $ud + y]\rightarrow yy$ udyana $\rightarrow$ uyyana.
+
+##### (ii) Sibilant, spirant first
+###### (a) Sibilant $\spadesuit\spadesuit\spadesuit +$ mute $\spadesuit\spadesuit\spadesuit$
+- Sibilant assimilates, with aspiration of the second consonant: $asti \rightarrow$ $atthi$, purasaroti $\rightarrow$ purakkharoti, $aścariya \rightarrow$ acchariya.
+- The prefixes $nis$ and $dus$ are special cases: neither cerebralizes a following dental: $nis + tarati \rightarrow nittarati$.
+$dus$ does not cause aspiration of a following mute: $\rightarrow$ $dus + tara \rightarrow$ duttara.
+nis can cause aspiration of a following palatal: $nis + carati \rightarrow niccharati$, but also $nis + cal \rightarrow niccala$.
+
+###### (b) Sibilant $\spadesuit\spadesuit\spadesuit +$ sibilant $\spadesuit\spadesuit\spadesuit$
+- $[s + s] \rightarrow kkh$ or $ch$. These cases occur with the future tense of some verbs, and they preserve the Sanskrit internal sandhi which removes one sibilant:
+[s or ś] + -sya- → -ksy:: √pra-vis → praveksati → pavekkhati, √drs → draksyati → dakkhati, √fus → sukysati → sukkhati.
+$s + -sya\rightarrow -tsya\rightarrow \sqrt{v}as\rightarrow vatsyati\rightarrow vacchati,$ √ghas (desiderative) $\rightarrow$ jigitsati $\rightarrow$ jigbacchati.
+
+###### (c) Sibilant $\spadesuit\spadesuit\spadesuit +$ nasal $\spadesuit\spadesuit$
+- Sibilant $\rightarrow$ h with metathesis: -asma/-amba, -asmin/-ambi, (ablative/locative case endings), prasn → panha, usna → unha, snana → nhana or nabana, yusmakam → tumbakam, vismaya → vimbaya.
+
+###### (d) Spirant h
+- $[+ $ mute$]$ $h$ usually assimilates, with surds $\rightarrow$ sonants, and aspiration of the second consonant, sometimes with cerebralization: $\sqrt{nh} + ta \rightarrow naddha$, $\sqrt{dah} + ta \rightarrow daddha$.
+- $[+t]$ can $\rightarrow$ b, with lengthening of previous vowel: $\sqrt{muh} + ta \rightarrow \bar{u}\bar{l}ba$, $\sqrt{vah} + ta \rightarrow \bar{v}\bar{u}ba$ [n.b. this is $\sqrt{vah} + ta \rightarrow \bar{u}\bar{d}ba$ (cf. Sanskrit $\bar{u}\bar{d}ba$) $\rightarrow \bar{v}\bar{u}ba$; the v is euphonic, not from the verb].
+- $[\text{nasal or y or v}]$ metathesis: $\sqrt{grh} \rightarrow \sqrt{gah} + na + ti \rightarrow ganhati,$ jihma $\rightarrow$ jimba, $\sqrt{ara - ruh} \rightarrow \sqrt{o - ruh} + ya \rightarrow oruyha, jihva \rightarrow jivha.$ [Note brahmana] $\rightarrow$ Prakrit bamba, but $\rightarrow$ Pali brahmana].
+
+##### (iii) Nasal first
+In all instances a nasal can appear as $-\eta-$, but it can also appear as the nasal of its class: $sam + gaba \rightarrow saingaba$ or $sangaba$.
+
+###### (a) Nasal $\spadesuit\spadesuit +$ mute $\spadesuit\spadesuit\spadesuit$
+$\sqrt{kr} +$ prefix sam- inserts -s-, sanskaroti $\rightarrow$ sankharoti (sankharoti), samskara $\rightarrow$ sankhara (samskhara).
+
+###### (b) Nasal $\spadesuit\spadesuit +$ sibilant $\spadesuit\spadesuit\spadesuit$
+nasal $\rightarrow m$
+
+###### (c) Nasal $\spadesuit\spadesuit +$ nasal $\spadesuit\spadesuit$
+first assimilates to second: $sam + nisidati \rightarrow$ $sannisidati$, $[ut \rightarrow]$ $un + muliyati \rightarrow$ $umuniyati$.
+
+###### (d) Nasal $\spadesuit\spadesuit +$ semivowel
+- $[n + y]\to \bar{n}\bar{n},$ kanya $\rightarrow$ kañna, manyate $\rightarrow$ manñati.
+- $[n + u]\rightarrow nu$ or $nn, anu + eti\to anvete,$ sam-ana-gata $\twoheadrightarrow$ samannagata.
+- $[m + y]\rightarrow mm$ or my or n, agamy $\rightarrow$ agamma, sanyojana $\rightarrow$ sanyojana or sanjohana.
+- $[m + r$ or $s$ or $h]\rightarrow mr$ or $m$ dropped and preceding vowel lengthened: $\sqrt{\text{sam - ruh}}\to \text{sam - rubati}$ or $\rightarrow$ sarubati, samraga $\rightarrow$ siraga, vimsati $\rightarrow$ visati.
+- $[m + l]\to ll$: sam + lapa $\rightarrow$ sallapa.
+
+##### (iv) Semivowel first
+###### (a) Semivowel $\spadesuit +$ nasal $\spadesuit$
+- $[r + m]\to mm$: karma $\rightarrow$ kamma, dharma $\rightarrow$ dhamma.
+- $dur + n$ does not cause cerebralization: $dur + niggaba \rightarrow dunniggaba$.
+
+###### (b) Semivowel $\spadesuit +$ semivowel $\spadesuit$
+- $[r + y]$ either remains with svarabhakti vowel: viyya $\rightarrow$ viriya, or $\rightarrow yy$ $\sqrt{mr}\rightarrow miyati$ (= miyati), or $\rightarrow ll$: viparyasa $\rightarrow$ vipallasa [n.b. $\bar{a}ry\rightarrow ariya$ or ayya].
+- $[r + r]\to r$ with preceding vowel lengthened: $dur + rakha\rightarrow durakkha$.
+- $[r + l]\to ll$: durlabba $\rightarrow$ dullabba.
+- $[r + v]\to vv\to bb$: kurvanti $\rightarrow$ kubbanti.
+- $[l + y]\to ly$ or ll: kalyana $\rightarrow$ kalyana, kalya $\rightarrow$ kalla.
+- $[v + y]\rightarrow vy / by$ at the start of words: $vyajana / byajana$; but elsewhere $\rightarrow bb$: udayavyaya $\rightarrow$ udayabbaya.
+- $[v + r]\to vv\to bb$: pravrajya $\rightarrow$ pabbajja.
+
+#### d) Here are two examples of important words in Sanskrit Buddhism misunderstood through not knowing these Sanskrit ↔ Pali correspondences:
+(i) bodhisattva. This word has traditionally been analysed as bodhi + sattva, enlightenment-being, which makes no grammatical sense. What seems to have happened is that the Pali (or related MIA) word satta has been re-Sanskritized as sattva. This is a possible correspondence, but satta in Pali can be equivalent to two other words in Sanskrit, both of which make better sense than $sattva$. From $\sqrt{sa}ñj$, to adhere to, be intent on, the past passive participle is $sakta$, which $\rightarrow$ $satta$ in Pali. From $\sqrt{sak}$, to be able to, be capable of, the past passive participle is $sakta$, which also $\rightarrow$ $satta$ in Pali. Intent on enlightenment or capable of enlightenment are both more à propos than enlightenment-being, so it is likely one of these two senses of $bodhisatta$ was the original.
+
+(ii) In the compound $\text{samvrti-satya}$, conventional truth, $\text{samvrti}$ was derived by some Buddhists in India, and by some modern scholars, from $\sqrt{\text{sam}} - \sqrt{\text{vr}}$, (cl.5) to cover, whereas the correct derivation is from $\sqrt{\text{sam}} - \sqrt{\text{man}}$ (cl. 4), to think together, agree on. The term must originally have been Pali, or a similar form of MIA: from $\sqrt{\text{sam}} - \sqrt{\text{man}}$ is derived the noun $\text{sammati}$ or $\text{sammuti}$, agreement. (The $u$ in $\text{sammuti}$ is an example of what is called the labialization of vowels). The latter was Sanskritized as $\text{samvrti}$, which would be possible from Pali $\sqrt{\text{sam}} - \sqrt{\text{var}}$, cover, instead of the correct $\text{sammati}$.
+
+## 1.3 vyaya (Change), Inflection
+- vācogadhabapada, Words Contained in Language, are of four kinds:
+  - nama: noun, adjective, pronoun, numeral
+  - akhyata: verb
+  - upasagga: preposition, verbal prefix
+  - nipata: particle, conjunction, adverb
+
+nama and akhyata are subject to inflection, i.e. they end in a variable suffix (vibbatti, vibbatyanta), but upasagga and nipata are not, being ayayya and avibbatyanta. The most fundamental level of linguistic analysis is the verbal root, dhatu. Verbs, and thence almost all nouns, are derived from roots, with the exception of Denominative verbs, which are derived from nouns. In the declension of nouns, adjectives and pronouns the basic unit of analysis is the stem (patipadika, linga, sadda) to which endings are added. Neither roots nor stems are actual words, and cannot appear in themselves in sentences, but the stem form is used in English when citing Pali words and Proper Names.
+
+- English nouns and pronouns have three cases (i) subject, (ii) object [which has three forms, direct object, indirect object, object of a preposition], and (iii) possessive. Western scholarly tradition has seen eight cases in Pali, and given them names taken from Latin tradition. Pali grammar recognizes eight "divisions," vibbatti, which correspond to the eight cases, but only six "factors of action," kāraka. The cases can be seen analytically, though not historically, as an expansion of the three cases of English:
+
+| ENGLISH CASE | PALI CASE | PREPOSITIONS COMMONLY USED IN TRANSLATION | OED DESCRIPTION: 'THE CASE...' |
+| --- | --- | --- | --- |
+| SUBJECT | nominative |  | of nouns, adjectives, and pronouns, which is, or is connected with, the subject of a verb |
+| DIRECT OBJECT | accusative | [to] | expressing destination or goal of motion; the case which follows prepositions implying motion towards; the object of transitive verbs, i.e. the destination of the verbal action |
+| OBJECT OF A PREPOSITION | instrumental | by, with, through | denoting that with or by which something is done |
+| OBJECT OF A PREPOSITION | dative | to, for | which denotes the indirect or remote object of the action of a verb, that to or for whom or which we do a thing, or to whom we give a thing |
+| OBJECT OF A PREPOSITION | ablative | from | expressing direction from a place or time; the source whence action proceeds; the cause or ideal source of an event, the instrument and agent or material sources of an action |
+| POSSESSIVE | genitive | apostrophe and/or -s, of | chiefly used to denote that the person or thing signified is related to another as source, possessor, or the like, but also employed in a variety of idiomatic usages |
+| OBJECT OF A PREPOSITION | locative | at, in | which denotes 'place where' |
+| SUBJECT | vocative |  | of nouns, adjectives, or pronouns, used to express address or invocation |
+
+The prepositions here are those standardly used, but they should only be taken as a guide to meaning. The following sentence uses all the cases:
+
+Sir, that man gave his girlfriend a necklace, obtained through a friend at the market the previous Sunday from a suspicious character.
+
+Sir (VOCATIVE), that man [subject, NOMINATIVE] gave to his [possessive, GENITIVE] girlfriend [indirect object, DATIVE] a necklace [direct object, ACCUSATIVE], obtained through a friend [means, INSTRUMENTAL] at the market [place, LOCATIVE] the previous Sunday [time, LOCATIVE] from a suspicious character (SOURCE, ABLATIVE).
+
+The term oblique is used to refer to cases other than the nominative and vocative, and sometimes also accusative. The latter usage is followed here.
+
+English verbs are understood in terms of tense and mood, with aspect as an additional interpretative category. Pali terminology for verbs was taken from Sanskrit, Paninian grammar, and ordered its categories as follows, assigning each a syllable beginning with $l$. (The Vedic subjunctive is omitted here.)
+
+|  | syllable | Sanskrit name | Pali name | meaning | English term |
+| --- | --- | --- | --- | --- | --- |
+| 1 | laṭ | varṭamānā | vattamānā | occurring | present |
+| 2 | liṭ | parokṣa | parokkha | past before today, action out of sight | perfect |
+| 3 | luṭ | śvastani | [svatani] | future beyond today | periphrastic future |
+| 4 | lrṭ | bhaviyanti | bhavissanti | general and immediate future | future |
+| 5 | lot | pancami | pancami | fifth | imperative |
+| 6 | lani | anadyatani | biyyatani, anajatani | past before today, can have been seen by speaker | imperfect |
+| 7 | lini | saptami | sattami | seventh | optative |
+| 8 | luñ | adyatani | ajatani | past earlier today | aorist |
+| 9 | lyni | kālatipatti | kālatipatti | non-realization of an action | conditional |
+
+Pali has 1 present, 4 future, 5 imperative, 7 optative, 8 aorist, 9 conditional.
+
+Some characteristics of conjugated verbal forms in Pali:
+
+| TERM | TRANSLATION | COMMENTS |
+| --- | --- | --- |
+| dhatu | root | can denote an activity (kīriya) or a condition (bhāva) |
+| paccaya, vibbatti | ending | used to refer to both verbal and nominal endings |
+| (no)vikarana(-paccaya) | suffix, infix | can be placed after or in the root before an ending |
+| akārāgama | augment | applies to some aorists and the conditional |
+| abbāsa | reduplication | applies to verbs such as √dā → dadāti, √bā → jabāti, and derivative forms such as Desideratives and Intensives |
+
+They can have:
+
+| tikāla: atīta, anāgata, paccuppanna) | three times: past, future, present | conjugated, finite forms express tense, whereas declined participial forms express aspect |
+| --- | --- | --- |
+| anutta-, aniyatakāla | time unexpressed, not restricted to a specific time | applies to fifth (imperative) and seventh (optative) |
+| tipurisa | three persons | first = he/she/it/they, second = you, third = I/we |
+| tikāraka: kattā, kamma, bhāva | three factors of action: agent/subject, object, state | this is not the same as kāraka applied to nouns |
+| dovacana: ekavacana, babuvacana | two numbers: singular, plural | i.e. no dual |
+| attiliṅga | none of the three genders | participles do have gender, because they behave, and decline, as adjectives |
+
+In giving paradigms, Pali grammar uses different terms from Western grammar, and a different order:
+
+| ekavacana | word for one | singular |
+| --- | --- | --- |
+| babuvacana | word for many | plural |
+
+| patthama | first = he/she/it, they | first person |
+| --- | --- | --- |
+| majjhima | middle = you | second person |
+| uttama | last = I/we | third person |
+
+Paradigms have been learned traditionally in the order: ekavacana patthama, babuvacana patthama, ekavacana majjhima, etc. Thus Aggavamsa lists the twelve endings of the present tense: ti anti si tha mi ma; te ante se vhe embe.
+
+In this book, however, paradigms are given in the usual Western order: first person = I/we, second person = you, third person = he/she/it, they.
+
+# 2 nama Nouns, Adjectives, Pronouns and Pronominal Adjectives, Numerals
+## 2.1 namanama, gunanama, Nouns substantive, Nouns adjective
+Pali grammarians distinguished between nouns and adjectives in two ways: (i) by the fact that adjectives must take the gender of the nouns they qualify (ii) by the difference between a quality or attribute and that which has the quality or attribute.
+
+|  | Noun | Adjective |
+| --- | --- | --- |
+| Term | guni-pada | guna-pada |
+| Meaning | word for that which has qualities | word for a quality |
+| Gender | abhidheyya-liṅga, whose gender is that which it signifies; padhana-liṅga, whose gender is superordinate | vicā-liṅga, whose gender is that of the word which qualifies; appadhana-liṅga, whose gender is subordinate |
+
+As single words, nouns have one gender and adjectives three, but as the final member in compounds where they act as adjectives nouns can also have three. Nouns in Pali can be used adjectivally in three ways:
+(i) as the final member of a bahuvrihi compound: putta, son, itthi mataputta, a woman whose son is dead.
+(ii) in a karmadhāraya compound expressing a comparison. Although the noun as final element remains nominal in formal terms, it acts as an adjective, as in the common epithet for kings and other heroes narasiṃha, a man-lion, i.e. a lion-like man.
+(iii) with the addition of a suffix such as $(-a)ka / -ika$ or $-ya / -lya$: cetas, mind, cetasika, mental; thāma, strength, thāmaka, strong; dhamma, the Truth, dhammya, in accordance with the Truth; also with the suffixes -in, -vat, bala, strength, balin, balavat, strong.
+
+## 2.1.1 vibbatti, Case-Endings
+In declined words the nominative and vocative cases add no meaning to the theme apart from gender and number. The other cases add meanings and connect the word to others in a sentence (vākya). The cases are:
+
+| vibbatti | PALI NAMES | USES IN PALI |
+| --- | --- | --- |
+| pathamā (nominative) | kattā, agent of active verbs; kamma, object of passive verbs; pacatta, individual, separate | agent of transitive and intransitive verbs; makes the stem form accord with the agent denoted by the verbal ending, and gives it gender |
+| duṭṭiyā (accusative) | kamma, object of action; upayoga, application of action | direct object of transitive verbs; secondary object in double accusatives with verbs of speaking, etc. |
+| tattiyā (instrumental) | karana, means, instrument; kattā, agent of passive verbs | agent of passive verbs; instrument of action; cause or reason (hetu) of action; accompaniment of action |
+| catutthī (dative) | sampadāna, giving over (to) | destination of action, indirect object, purpose, suitable object, secondary object of verbs of speaking, etc. |
+| pañcamī (ablative) | apaddana, origin, that from which something is removed; avaddi, origin; nissakka, issuing from | that from which action occurs, physically and conceptually; expresses cause, criterion, point of view; object of comparison |
+| chāṭṭhi (genitive) | sambandha, relation; sāmi, possessor | expresses possessive or partitive relation between two nouns; not related to the verb; used in place of instrumental, dative and ablative |
+| sattamī (locative) | adhikarana, location; okāsa, place; ādhāra, basis; bhumma, ground | point, literal or figurative, at which or when action occurs; end result of motion; used like partitive genitive |
+| aṭṭhamī (vocative) | amantana, address; sambodhana, calling; ālapana, address | regarded as a form or use of the nominative |
+
+### A. The Nominative is used for
+1. The grammatical subject of sentences or clauses, active or passive:
+Buddha...dhamman deseti, the Blessed One teaches the dhamma (D 1 62),
+Buddhata dhammo desiyati, the dhamma is taught by the Blessed One (D III 264).
+
+2. Any word which qualifies the subject, such as an adjective, predicate, or a term placed in apposition:
+sambdo gharavaso rajapatbo, abbokaso pabbajja, the household life is constricted, full of dust, going forth is the open air (M III 33),
+ayam tena samayena raja Mahasudassano abosi, I was at that time king Mahasudassana (D II 196),
+seyathapi nama ayam Aciravati nadi purudakassama samatittbika kakaepyyya, it is just as if this river Aciravati were full of water, level with the banks, drinkable by crows (Aciravati might also be in a ti clause or followed by the adverb nama, by name) (D I 244).
+
+3. Items referred to in a ti clause:
+so...evam bha, yam kho idam vucatti cakkhu ti pi sota ti pi ghanan ti pi jiva ti pi kayo ti pi ayam atta anicco...yam kho idam vucatti cittan ti va mano ti va vinnanam ti pi va ayam vucatti atta nico... He says "that which is called 'eye,' 'ear,' 'nose,' 'tongue,' 'body,' this an impermanent self... that which is called 'thinking,' 'mind,' 'consciousness,' this is a permanent self..." (D I 21).
+
+4. The titles of texts: Dīghanikāyo, Silakkhandhavaggo, Brahmajālū Sutto.
+
+5. Occasionally, the nominative of an abstract noun is used in an exclamation:
+aho acchariyam aho abbutam aho Buddhanam anubhavata, O the wonder, O the marvel, O the power of Buddhas! (Ja VI 480).
+
+6. Sometimes a nominative or series of them can introduce another phrase without a usual grammatical connection (the 'Hanging nominative', nominativus pendens):
+candanam tagaram vapi upalamatha vassiki / etesam gandhajatanam sānam silagandho anuttaro, sandalwood or incense, lotus or jasmine / among these kinds or perfume the perfume of virtue is supreme (Dhp 55).
+
+### B. The accusative is used for
+1. The external direct object, including the goal of motion ('external' means external to the action of the verb):
+atha kho ayasma Angulimalo... pattacivaram adaya Savattim pindaya pavisi, then the Venerable Angulimala took his robe and bowl and entered Savatthi for alms (M II 102),
+addasa kho ayasma Angulimalo... annataram itthim mulabagabbam, the Venerable Angulimala saw a woman in difficult labor (ibid.).
+
+2. The internal direct object, including the cognate accusative (so-called because the verb and noun are related):
+atha kho bhagava Gayasse... yena Rajagaham tena carikam pakkami mahata bhikkhusanghena saddhim, then the Blessed One... set out on tour towards Rajagaha, with a large company of monks (Vin I 35).
+sattabajate bhagavati bhagavato mata kalani akasi, seven days after the Blessed One's birth his mother died (Ud 48).
+atha kho Bhagava... iman udanam udanesi, then the Blessed One gave voice to this Spirited Utterance (D II 107).
+
+3. With the abstract endings -ttam (Sanskrit -tvam) and -ta as the object of verbs of motion or acquisition to express a change of state:
+atha kho Jivako... na cirass' eva vinutam papuni, and not long afterwards Jivaka attained maturity (Vin I 269).
+
+4. Double accusatives are common, in a variety of functions:
+upasakam mam bhavami Gotamo dharentu, may the honorable Gotama accept me as a lay disciple (Sn p.25, appositional accusative),
+tam abam brumi brahmanam, him I call a brahmin (Sn 620, predicative accusative),
+te bhikkhu Bhagavantam etad avocum, those monks said this to the Blessed One (D I 2),
+Sakko devanam indo Bhagavantam imam pathamam panham pucchi, Sakka, king of the gods, asked the Blessed one this initial question (D II 276).
+
+5. Causatives made from intransitive verbs always take a double accusative:
+idha bhikkhave bhikkhu... uppannam kamavitakkam nadbivaseti pajahati... anabhava gameti, here, monks, a monk does not assent to a thought of desire which has arisen, (but) rejects it, makes it non-existent (M I 11).
+
+Other causatives may also take a double accusative:
+Mahapajapati Gotami... Bhagavantam janettiyya kulakatayta thanniarn payesi, Mahapajapati Gotami made the Blessed One drink at her breast when (his) mother died (M III 253).
+
+Causatives from transitive verbs may also, if rarely, take the accusative (of the object) and instrumental (of the agent):
+atha kho chabbagiyā bhikkhu... tantavayebi civaram vayapesum, then the Group of Six Monks... had cloth woven by weavers (Vin III 256),
+ekacco passati coranti agucarim rujano gabetva... sunakbebibkbadapente, someone sees kings capture a bandit, a criminal... (and) having him eaten by dogs (A147-8).
+
+Aggavamsa gives as examples of the two constructions, inter alia:
+puriso purisan purisena va puvan khadeti, a man has a man eat a cake, or a man has a cake eaten by a man (Sadd 593).
+
+6. It is used with interjections:
+dhi-r-attuh idha jivitam, a curse on life here! (Sn 440).
+
+7. It has various adverbial uses:
+- Time during which:
+te tattha... ciram digham addhanam tittbanti, they stay there long, for a protracted stretch of time (D III 84),
+yo kho... añnatiitbiyapubbo imasmim dhammavinaye pabbajjam akanibati so cattaro mase parivasati, any former member of another sect who wants to go forth in this Dhamma and Discipline must wait for three months (D I 176).
+- Extent of space:
+ayan Kusinara Kusavati nama rajadhanu abosi, purattimena ca paccimena ca dvadasa yojanani ayamena, uttarena ca dakkhinena ca satta yojanani vittarena, this Kusinara was (in the past) a royal city called Kusavati, twelve yojanas long on the eastern and western sides, seven yojanas wide on the north and south (D II 146).
+- Manner:
+sadhu manasikarobi, pay careful attention (D I 124),
+ma kho tvam... atibaban paridevesi, do not grieve too much (D II 232).
+
+Other examples of the adverbial accusative: cattaro nam devaputat catudisam rakkhaya upagacchanti, four junior gods came to protect him on (all) four sides, lit. with regard to the four directions (D II 12); digbam va assasanto digbam assasimi ti pajanati, when he is breathing a long in-breath he knows that he is breathing a long in-breath (D II 291); atha kho Bhagava Rajagabe yatabbbirantam vibaritud ayasmentam Anandam amantesi..., when the Blessed One had stayed at Rajagaha for as long as he wished, he addressed the Venerable Ananda... (D II 81).
+
+8. It is the object of various prepositions and postpositions: antara, between, paccha, after, yattha, according to, vina, without, santike, in the presence of, and the following, which also occur as prefixes to verbs: annu, after, abhi, towards, pati, back to, facing.
+
+### C. The Instrumental is used for:
+1. The logical subject of passive verbs:
+svakkha To Bhagavata dhammo, the Dhamma has been well-proclaimed by the Blessed One (D II 9),
+sakka pana etam maya natum, I can know this (lit. this can be known by me) (D I 187).
+
+2. Cause, or reason: siya kho pana bhikkhave Sattbagaravena pi na puccheyyyattha, it may be monks, that you do not ask questions because of reverence for your Teacher (D II 155), na akaranena Tatbagata sitam patukaronti, Tathagatas do not smile without a reason (M II 45).
+
+3. Accompaniment:
+atha kho Bhagava ayasmata Angulimalena pacchasamanepa yena Savatthi tena arikam pakkami, then the Blessed One set out for Savatthi with the Venerable Angulimala as attendant (ascetic) (M II 100).
+
+The words saba and saddhim, with, are often used as pre- or postpositions in such contexts: mahata bhikkhusanghena saddhim, with a large group of monks.
+
+4. Means:
+seyathapi Rahula rañno nago... sangamagato purimebi padebi kammam karotiti, pacchimebi padebi kammam karotiti, ... purimena kayena... pacchimena kayena... sise... kannebi... dantebi... nanguftbena... sondaya pi kammam karotiti, It is just as when, Rahul, a royal elephant in battle does his work with front and back legs, with the front and back of his body, with his head, ears, tusks, tail and trunk (M 1414-5),
+yattba kho avuso na jayati na jiyati na miyati na cavata na uppajati, naban tam gamanena lokassa antam... patteyyan ti vadami, I do not say that one can reach by walking [the commentary Spk II 116 has padagamena] the end of the world where there is no being born, no growing old, no dying, no falling (from one state) and being reborn (in another) (S I 61).
+
+5. Manner:
+akase pallankena kamati, he travels cross-legged through the sky (D I 78),
+rakkhitenaeva kayena rakkhitaya vaca ryakbitena citta npattbitaya satiyamrsvutebi indriye bi gamam v naigam m pavisissati, he will enter a village or town with body protected, speech protected, mind protected, with mindfulness established and senses controlled (S II 271).
+
+6. Attendant circumstances:
+kaya nu 'tta bhikkhave eterabi katbaya sannisinna, (engaged in) what kind of talk were you sitting just now? (D II 1),
+Abhibhu bhikkhu... dissamanena kayena dhamman desesi, adissamanena pi... dissamāṇa bettbimena upaddbakāyena adissamāṇa uparimena upaddbakāyena... dissamāṇa uparimena upaddbakāyena adissamāṇa bettbimena upaddbakāyena dhamman desesi, then the monk Abhibhu taught the Dhamma with his body visible, (then) with his body invisible, (then) with the lower half of his body visible and the upper half invisible, (and then) with the upper half of his body visible and the lower half invisible (S I 56),
+Kusinaraka Malla santbagare sannapatita bonti kenacid eva karaniye, the Mallans of Kusinara were gathered in the meeting-hall on some business (D II 147).
+
+7. In yena... tena constructions:
+atba kho Bhagava... yena Magadhamahtannam avasatbo ten'upasamkarnati, the Blessed One approached the dwelling-place of the great ministers of Magadha (D II 88).
+
+With the verb $\sqrt{a}s$, the accusative tad is found:
+atha kho Bhagavababata bhikkhusangbena saddhim yena Beluagamako tad avasari. then the Blessed One went with a large group of monks to the village of Beluva (D II 98).
+
+8. Place:
+dakkinena passena siseyyant kappesi, he lies down like a lion on his right side (A I 114),
+aen'eea tani caturasi-pabbajitta-sabassini agamansu, aenena Vipasiti bodhisattana, the 84,000 ascetics went one way, Vipassi the future Buddha another (D II 30).
+
+9. Time:
+tena kho pana samayena, at that time (this is a standard means of starting a text or a section of a text),
+atha kho ayasma Anando etena upayena pathbamen' eva yamena Kosinarake Malle Bhagavantam vandapesi, and then, by this means, the Venerable Ananda got (all) the Mallans from Kusinara to pay their respects to the Blessed One in just the first watch (of the night) (D II 148),
+kalena dhammasavanam, hearing the Dhamma at the right time (Sn 265).
+
+10. Phrases with a cognate or semantically related verb and noun:
+atba kho bhagava Bahiyam... iminā samkhittena ovidena ovaditiv pakkami, then the Blessed One exhorted Bāhiya briefly (lit.: with this short exhortation) and left (Ud 8),
+santena nun' ajja bhante Bhagava vibarena vibasi, has the Blessed One, sir, passed the time peacefully today? (D II 205),
+seyyatha pi... puriso...rukkham mule cbindeyya... agni dabeyya, it is just as if a man might uproot a tree and burn it with fire (S II 88).
+
+11. Comparison:
+na tena seyyo sadiso va vijati, there is no-one better than or the same as he (D III 158).
+
+12. Other adverbial uses:
+adhivasesi Bhagava tunhibhavena, the Blessed One accepted (the invitation) by remaining silent (D II 84),
+addasa kho Selo brahmano Bhagavato kye dvattimsa mahapurisalakkhanani yebbuyyena thatevua dve, the brahmin Sela saw almost all the 32 marks of a Great Man on the Blessed One's body, except for two (Sn p. 107),
+ebi tvam brahmana yena Bhagava ten'upasamkama,...mama vacanena Bhagavato pade sirasa vandabi, go, brahmin, approach the Blessed One and in my name venerate his feet with your head (D II 72),
+Vipassi marisa bhagava... khattiyo jatiya abosi, sir, the Blessed One Vipassi was a khattiya by birth (D II 50),
+devi je Ambapali etam bhattam satasabassena ti, Ambapali you wretch, give (us the right to offer the Buddha) this meal for a hundred thousand! (D II 96),
+idba bhikkhave ekacco puggalo agalbena pi vuccamano pharusena pi... amanapena pi... sammodati, here, monks, a certain person is spoken to severely, harshly, unpleasantly...(but) rejoices (A I 283-4),
+yada tumbe Kalama attana va janeyyatha..., when you know for yourselves, Kalamans... (A I 188).
+
+13. $\text{kim}$ is used with the instrumental in the senses what is the use of? away with!, no more of!, and alam in that of enough of!, there is no need: tena hi, amma, rañno appiyakālato pattbāya kim tambākām idba vāsena, so, lady, what is the use of your living here since the king became unkind? (Ja II 2); tena hi samma sārati bālān āja uyānabbūmīyā, so then good charioteer, that's enough of the pleasure-park for today! (D II 23); alam Devadatta, ma te rucci sanghabbedo, stop, Devadatta! Don't set your mind on a division in the Order! (Vin II 198).
+
+### D. The Dative is different in form from the genitive only in the $-a$ declension in the singular. In other declensions, therefore, it is often difficult and rarely necessary to decide whether the case is dative or genitive. The examples given here all use the singular of the $-a$ declension. It is used for
+1. Purpose, result:
+bhikkhu patisankhya yoniso pindapitam patisevati, n' eva davaya na madaya na mandanaya na vibhisananaya, yavad eva imassa kayasa thitiya yipanaya, the monk (who) seeks alms reflectively (does so) not for sport, nor intoxication (with himself), nor for making (himself) attractive, nor for beautification, but just as much as is necessary for his body to persist, (for him) to keep (it) going (M I 355),
+acinnam kho pan etam vassam vuttanam bhikkhunam Bhagavantam dassanaya upasamkamitum, it is the custom for monks who have finished the rains retreat to go to see the Blessed One (Vin I 18),
+siya kalaniu c' assa garunam dassanaya, he should know the right time for seeing teachers (Sn 325),
+n' etam bhikkhave appasannannam va pasadaya pasannannam va bhavyabbavaya, atha kho tam bhikkhave appasannannam c' eva appasadaya pasannannam ca ekaccanam annathattadi ti, 'this, monks, (will) not (conduce) to giving confidence to those without confidence, nor to increasing the confidence of those who have it, but to (continued) lack of confidence in those who have none, and to causing some of those who have confidence to become otherwise' (Vin I 45).
+
+2. The dative of $attha$ has the sense for the sake of:
+yass' atthaya kulaputta sammad eva aggarasma anagariyam pabbajenti, tad anuttaram brahmacariyapariyosanan... upasampaja vibarissatba ti, 'you will enter and live in that unsurpassed goal of the celibate life for the sake of which children from good families go forth from home to homelessness' (Vin I 9).
+
+3. Direction:
+bhikkhu... manomayam kayam abbinimminaya cittam abbinibarati abbininnameti, the monk bends, inclines his mind to the creation of a mind-made body (D I 77),
+sakuñjalamutto va appo saggaaya gacchati, few go to heaven, like a bird released from a net (Dhp 174).
+
+4. Time:
+adhivasetu no bhavam Gotamo ajatanaya bhattam saddhim bhikkhusangbena, may the Blessed One accept a meal from us today, along with the order of monks (D II 88),
+aho nuna mahasamano svatanaya nagaccheyya, the great ascetic would certainly not come tomorrow (Vin I 27),
+dukkham upenti punapumnam ciraya, they go to suffering again and again, for a long time (Dhp 342),
+karoto ciyati papam cirattaya Antaka, Endmaker (Mara), for (you) who does evil it is heaped up for a long time (M I 338).
+
+5. Some adjectives and indeclinables are used with the dative:
+appamadarato bhikkhu pamade bhayadassiva / abhabbo paribbanaya nibbanas' eva santike, the monk who is devoted to carefulness, and sees the danger in carelessness, is incapable of falling away and is near to nirvana (Dhp 32),
+exam ante ayasmantiam Nigantnam na kallam assa veyyakaranaia.... (M II 215),
+alam hi te Vaccha añanaya Alam sammobaya, it is enough to cause you bewildered, Vaccha, enough to confuse you (M I 487),
+n' esba bhante katba Bhagavato dullabba bhabissati paccha pi savanaya, it will not be difficult for the Blessed One to hear this talk afterwards (D I 179).
+
+### E. The Ablative, whose endings in the singular can be replaced in some declensions by the suffix -to, is used:
+1. The point from which, cause, origin, motive, etc.:
+seyyathapi naraja puriso sakamba gama ainam gaman gacbeyya, tambi pi gama ananm gaman gacbeyya, tambi pi gamsaikam yeva gaman pacbagaccheyya, it is just as if, great king, a person were to go from his own village to another village, (then) from that village to another village, (then) from that village back to his own village (D I 81).
 idha ambakam yo patthamam gamato pindaya patikkameya, so asanan painapeya..., whichever of us should return first from the village (after going) for alms, should prepare seats... (Vin I 157),
 asanne ito Manasakatam na-y-itre Manasakatam, Manasakata is near here, not far from here (D I 248),
 tambaya jayati soko tambaya jayati bhayam / tambaya vippamuttasa n' atti soko kuto bhayam, from craving arises grief, from craving arises fear. For the one who is liberated from craving there is no grief, from where (could there arise) fear? (Dhp 216),
