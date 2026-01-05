@@ -31,7 +31,7 @@ samādhijam avitarkam avicāram, niṣprītikam, upekṣāsmṛtipariśuddhaṃ 
 vimokṣaḥ katasmaḥ? aṣṭ[au] vimokṣāḥ: rūpī rūpāṇi paśyatīti prathamo vimokṣaḥ|
 adhyātmam a[rūpasaṃ]jñī bahirdhā rūpāṇi paśyatīti dvitīyo vimokṣaḥ|
 śubhaṃ vlmokṣaṃ kāyena sākṣātkṛtvopasaṃpadya viharatīti tṛtīyo
-vimokṣaḥ| ākāśānantyāyatanam ... vijñāunāntyāyatanam ... ā[kiṃca]nyāyatanam... [nai]vasaṃjñānāsaṃjñāyatanam ... saṃjñāvedayitanirodhaṃ kāyena sākṣātkṛtyopasaṃpadya
+vimokṣaḥ| ākāśānantyāyatanam ___ vijñāunāntyāyatanam ___ ā[kiṃca]nyāyatanam___ [nai]vasaṃjñānāsaṃjñāyatanam ___ saṃjñāvedayitanirodhaṃ kāyena sākṣātkṛtyopasaṃpadya
 viharatīty aṣṭamo vimokṣaḥ|
 
 # 1_3
@@ -173,7 +173,7 @@ vitarkayitukāmatā|
 vyāpādaḥ katamaḥ? sabrahmacāribhyaś codanām āgamyānyatamānyatamaṃ
 va kaṃcid apakāraṃ pratighanimittam anusmarato yaś cetasa āghātaḥ, apavakāraṃ vā kartukāmasya tad eva
 pratighanimittaṃ bahulam anuvitarkayato'nuvicārayato
-yaś cetasa āghātaḥ(??).
+yaś cetasa āghātaḥ(??)_
 
 (p131)
 
@@ -333,7 +333,7 @@ vicikitsā, tad ubhayaṃ tamaskāya ity
 ucyate|
 
 adhigatapratyavekṣāyāḥ punaḥ pratipakṣeṇa
-styānamiddham andhakāraḥ, tena hi taddharmāprasaṃkhyānāt(??).
+styānamiddham andhakāraḥ, tena hi taddharmāprasaṃkhyānāt(??)_
 
 # 2_2_2_4_1
 
@@ -739,7 +739,7 @@ ca catvāraḥ pudgalā
 vyavasthāpitāḥ: dharmaparyāptikāle, dhāraṇakāle, arthopaparīkṣaṇakāle, dharmānudharmapratipattikāle ca catvāri
 pratisaraṇāni vyavasthāpitāni|
 
-# (2.-) vyavasthānaṃ parisamāptam|
+# 2_- vyavasthānaṃ parisamāptam|
 
 # 3_0
 
@@ -775,7 +775,7 @@ tatra dharmālambanaḥ katamaḥ? yaḥ śrutamayyā prajñayā saṃprayukta�
 arthālambano yaś cintāmayyā bhāvanāmayyā ca
 prajñayā saṃprayuktaḥ|
 
-# (3.1.2.2.3-6)
+# 3_1_2_2_3_6
 
 kāyālambano yāvad dharmālambanaḥ smṛtyupasthānaprayuktasya
 kāyādīn yoniśo manasikurvato yo manaskāraḥ|
@@ -869,16 +869,14 @@ niśchidranirantaravāhī|
 
 satkṛtyamanasikāro yo'śithilaprāyogikaḥ|
 
-# (3.1.2.2.ad19-24)
+# 3_1_2_2_ad19-24
 
 tatrādhimuktivicayamanaskāreṇa jñānadarśanaṃ
 viśodhayati, aupaśamikena prasrabdhiṃ
 janayati; ekāṃśabhāvitenobhayāṃśabhāvitena
 ca nivaraṇebhyaś cittaṃ vimocayati;(?) sātatyamanaskāreṇāvandhyaṃ kālaṃ karoti; sa[tkṛtyama]naskāreṇa kṣiprābhijñatām āpnoti|
 
-# (3.1
-
-.2.2.25)
+# 3_1_2_2_25
 
 anulomiko manaskāro yaḥ
 kleśaprahāṇāyānukūlaḥ, yenālambanaṃ vidūṣayati|
@@ -960,77 +958,77 @@ bhagavatāṃ sarvatrāviparokṣānāvaraṇejñānena
 saṃprayuktaḥ, bodhisattvānāṃ ca triṣu yāneṣu kauśalyaṃ
 kurvatāṃ pañcasu vā punar vidyāsthāneṣu|
 
-# (3.1.3.ad1-2)
+# 3_1_3_ad1-2
 
 tatra lakṣaṇapratisaṃvedī manaskāro
 dharmālambano 'py arthālambano'pi; anye tu ṣaḍ arthālambanā eva|
 
-# (3.1.3.ad3--6)
+# 3_1_3_ad3--6
 
 kāyādyālambanā manaskārāḥ sarveṣu saptasu
 veditavyāḥ|
 
 (p162)
 
-# (3.1.3.ad7-8)
+# 3_1_3_ad7-8
 
 lakṣaṇapratisaṃvedī, ādhimokṣikaḥ, prayoganiṣṭhāphalaś
 cādhimuktitattvamanaskārasaṃgṛhītāḥ;
 mīmāṃsāmanaskāra adhimuktimanaskāreṇaiva; śeṣās trayas tattvamanaskārā eva pūrvakaṃ
 paryāyaṃ ni[śritya(??)] | anyais(??) tu yathāyogaṃ veditavyāḥ|
 
-# (3.1.3.ad9-11)
+# 3_1_3_ad9-11
 
 sarve sapta śaikṣā naivaśaikṣanāśaikṣāś ca; dvāv aśaikṣau: lakṣaṇapratisamvedī
 yaḥ śuddhabhūmikaḥ, prayoganiṣṭhāphalaś ca|
 
-# (3.1.3.ad12-14)
+# 3_1_3_ad12-14
 
 lakṣaṇapratisaṃvedī, ādhimokSikaH
 miimaaMsaamanaskaarash ca parij~naamanaskaaraaH sheSaas trayaH
-prahaaNamanaskaaraaH prayoganiSThaaphalaH prahiiNe.
+prahaaNamanaskaaraaH prayoganiSThaaphalaH prahiiNe_
 
 (p163)
 
-# (3|1|3'd15-18)
+# 3_1_3_d15-18
 
-savikalpapratibimbaalambana eva miimaaMsaamanaskaaraH sheSaa ubhayathaa.
+savikalpapratibimbaalambana eva miimaaMsaamanaskaaraH sheSaa ubhayathaa_
 vastuparyantaalambanaaH
-sarva eva. kaaryapariniSpattyaalambanaaH prathamena paryaayeNa sarve dvitiiyena
-prayoganiSThaaphala eva.
+sarva eva_ kaaryapariniSpattyaalambanaaH prathamena paryaayeNa sarve dvitiiyena
+prayoganiSThaaphala eva_
 
-# (3|1|3'd19-24)
+# 3_1_3_d19-24
 
-adhimuktivicayamanaskaaro yas tatprathamaH so.a saMgRRihiitaH yaH
+adhimuktivicayamanaskaaro yas tatprathamaH so_a saMgRRihiitaH yaH
 shamathapuurvakaH
-sa sarveSu. evaM prathamaupashamiko vipashyanaapuurvash ca veditavyaH.
-ekaaMshobhayaaMshabhaavitaaH SaT ubhayaaMshabhaavita eva prayoganiSThaaphalaH.
-saatatyamanaskaaraH satkRRityamanaskaarash ca sarveSu.
+sa sarveSu_ evaM prathamaupashamiko vipashyanaapuurvash ca veditavyaH_
+ekaaMshobhayaaMshabhaavitaaH SaT ubhayaaMshabhaavita eva prayoganiSThaaphalaH_
+saatatyamanaskaaraH satkRRityamanaskaarash ca sarveSu_
 
-# (3|1|3'd25-28)
+# 3_1_3_d25-28
 
 aanulomiko dvaabhyaaM
 prathamaabhyaam praatipakSikaH praavivekyaprayoganiSThaabhyaaM saMgRRihiito
-ratisaMgraahakaikadeshena ca. prasadaniiyo ratisaMgraahakasyaivaikadeshaH.
+ratisaMgraahakaikadeshena ca_ prasadaniiyo ratisaMgraahakasyaivaikadeshaH_
 prahaaNaaprahaaNapratyavekSaNaamanaskaareNa miimaaMsaamanaskaara eva
-saMgRRihitaH. prahaaNapratipakSaM nigamayyaitad() uktam anyais tu yathaayogaM veditavyam.
+saMgRRihitaH_ prahaaNapratipakSaM nigamayyaitad() uktam anyais tu yathaayogaM veditavyam_
 
-# (3|1|3'd29-32)
+# 3_1_3_d29-32
 
 balavaahano na
-kenacit. sacchhidrasaabhogavaahanau yaavad ratisaMgraahakeNa.
+kenacit_ sacchhidrasaabhogavaahanau yaavad ratisaMgraahakeNa_
 svarasavaahanaH
-prayoganiSThaatatphalaabhyaam.
+prayoganiSThaatatphalaabhyaam_
 
-# (3|1|3'd33-36)
+# 3_1_3_d33-36
 
 vicayamanaskaaro
-lakSaNapratisaMvedinaa. adhyaatmasaMpiNDita aadhimokSikeNa. aavaraNavishodhanaH
-praavivekyaratisaMgraahakamiimaamsaaprayoganiSThaiH.
+lakSaNapratisaMvedinaa_ adhyaatmasaMpiNDita aadhimokSikeNa_ aavaraNavishodhanaH
+praavivekyaratisaMgraahakamiimaamsaaprayoganiSThaiH_
 aashrayaniSpattigocaravishuddhaH
-prayoganiSThaaphalenaiva saMgRRihiitaH.
+prayoganiSThaaphalenaiva saMgRRihiitaH_
 
-# (3|1|3'd37-40)
+# 3_1_3_d37-40
 
 parapraṇītaḥ pratyātmādhigrahaś
 ca sarvaiḥ| udāro na kenacit| sarvatragaḥ prayoganiṣṭhāphalena yaḥ prathamaḥ; dvitīyas tu sarvaiḥ| lakṣaṇapratisaṃvedino
@@ -1064,7 +1062,7 @@ saṅganimittaṃ ca|
 
 # 3_2_1_4A [prati]niṣevaṇīyaṃ nimittaṃ katamat? tad etatpratipakṣeṇa veditavyam|
 
-# 3_2_1_3B.1
+# 3_2_1_3B_1
 
 īayanimittaṃ katamat? indriyair aguptadvāratā, bhojane'mātrajñatā,
 pūrvarātrāpararātraṃ jāgarikāyogam ananuyuktatā, asaṃprajānavihāritā, mohacaritatā,
@@ -1072,18 +1070,18 @@ svapnālukatā, anupāyajñatā, kausīdyasahagataś chando vīryaṃ cittaṃ m
 ca, śamathānabhyāsaḥ, śamathe'kṛtaparijayasyaikāṃśaśamathamanasikāraḥ,
 andhakārāyitatvaṃ cetasaḥ, ālambane'priyārohitā ca|
 
-# 3_2_1_3B.2
+# 3_2_1_3B_2
 
 auddhatyanimittaṃ katamat? indriyair aguptadvāratādayaḥ pūrvavac catvāraḥ, rāgacaritatā, anupaśamālukatā, asaṃvignacittatā, anupāyajñatā, atipragrahasahagatāś chandādayaḥ [purva]vat, pragrahānabhyāsaḥ, pragrahe'kṛtaparijayasya(?) tadekāṃśabhāvanā, anyatamānyatamenauddhatyasthānīyena
 dharmeṇa cetaso vikṣepo jñātivitarkādinā|
 
 (p165)
 
-# 3_2_1_3B.3
+# 3_2_1_3B_3
 
 vikṣepanimittaṃ katamat? catvāra indriyāguptadvāratādayaḥ pūrvavat, vitarkacaritatā, mṛdvindriyatā, bahvarthabahukṛtyabahukarmāntatā, asaṃvignaci[ttatā] , anupāyajñatā pravivekānabhyāsaḥ, ālambane'priyārohitā, saṃsargeṇa prayogacchidrīkaraṇatā, vikṣepāvikṣepaparijñānavadhānatā ca|
 
-# 3_2_1_3B.4
+# 3_2_1_3B_4
 
 saṅganimittaṃ katamat? catvāra indriyāguptadvāratādayaḥ pūrvavat, mṛdvindriyatā, trṛṣṇācaritatā, kleśabahulatā, ayoniśomanaskāraḥ, anādīnavadarśanatā, uttariṃ cāniḥsaraṇadarśitā|
 
@@ -1186,7 +1184,7 @@ nimittam|
 
 akliṣṭanimittaṃ katamat? etadviparyāyād akliṣṭanimittaṃ veditavyam|
 
-# (3.2.2.2.ad15-16)
+# 3_2_2_2_ad15-16
 
 tatra sarāgādipratyavekṣā niṣkrāntānām aprahāṇaprayuktānām; prayuktānāṃ tu saṃkṣipta[l]ī[ n]ādipratyavekṣā| tatra sarāgaṃ yad rāgasaṃ-
 
@@ -1999,7 +1997,7 @@ apūrvasamāpattyarthaṃ tu bhagavatā prathamasya dhyānasya prayogamārga ukt
 katamā samādhibhāvanā
 jñānadarśanapratilambhāya saṃvartate? iha
 bhikṣuṇālokanimittam eva sādhu ca suṣṭhu ca
-sūdgṛhītaṃ bhavatīti yathāsūtram| saiṣa di[vyaca]kṣurabhinirhāraprayogamārge draṣṭavyā(?). tatra
+sūdgṛhītaṃ bhavatīti yathāsūtram| saiṣa di[vyaca]kṣurabhinirhāraprayogamārge draṣṭavyā(?)_ tatra
 
 (p196)
 
@@ -2341,7 +2339,7 @@ ucyate| nirodhālambanena
 vyuttiṣṭhamā[naḥ sa] rvanimittānām amanasikārād animittaṃ dhātum
 ālambate| tasmād animittaṃ sparśaṃ spṛśatīty ucyate|
 
-# (4.1.\_) uktā dhyānavimokṣasamādhisamāpattayaḥ|
+# (4_1_\_) uktā dhyānavimokṣasamādhisamāpattayaḥ|
 
 # 4_2_1
 
@@ -2615,7 +2613,7 @@ nirvedhabhāgīyaḥ" iti| kathaṃ punar
 vyavacārayati?
 "ayaṃ hīnaḥ, ayaṃ śreyān, ayaṃ śreyastaraḥ, ayaṃ śreyastamaḥ" iti yathākramam| kathaṃ punaḥ kṛtvā?
 
-# (4,2.5.1)
+# (4,2_5_1)
 
 ihāyaṃ dhyāyī prathamād dhyānād vyutthitas tad
 dhyānaṃ na tāvat samāpattukāmo bhavati| sa tāny ākāraliṅganimittāni na
