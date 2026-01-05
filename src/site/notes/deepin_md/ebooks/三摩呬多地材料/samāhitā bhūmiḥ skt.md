@@ -2339,7 +2339,9 @@ ucyate| nirodhālambanena
 vyuttiṣṭhamā[naḥ sa] rvanimittānām amanasikārād animittaṃ dhātum
 ālambate| tasmād animittaṃ sparśaṃ spṛśatīty ucyate|
 
-# (4_1_\_) uktā dhyānavimokṣasamādhisamāpattayaḥ|
+# 4_1
+
+uktā dhyānavimokṣasamādhisamāpattayaḥ|
 
 # 4_2_1
 
