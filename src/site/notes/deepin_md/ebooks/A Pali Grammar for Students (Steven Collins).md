@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"source":"https://bgithub.xyz/avatarqz/vilasa.github.io/blob/master/src/site/notes/download/%E4%BF%AE%E5%AD%A6/2023/%E5%8D%97%E4%BC%A0/pali/A%20Pali%20Grammar%20for%20Students%20(Steven%20Collins).md","permalink":"/deepin-md/ebooks/a-pali-grammar-for-students-steven-collins/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-publish":true,"source":"https://bgithub.xyz/avatarqz/vilasa.github.io/blob/master/src/site/notes/deepin_md/ebooks/A%20Pali%20Grammar%20for%20Students%20(Steven%20Collins).md","permalink":"/deepin-md/ebooks/a-pali-grammar-for-students-steven-collins/","dgPassFrontmatter":true}
 ---
 
 
@@ -1674,33 +1674,33 @@ and three more which it shares with the imperative:
 | pattakila | opportunity | imperative: ayam te saccakāla, saccam vudatu | this is a time for truth for you; tell the truth |
 |  |  | optative: ayam te saccakāla, saccam vudeyāsi | this is a time for truth for you; you should tell the truth |
 
-### The Present Indicative, Imperative and Optative of $\sqrt{as}$, and $\sqrt{(b)}\bar{b}\bar{u}$, to be, are:
+### The Present Indicative, Imperative and Optative of $\sqrt{as}$, and $\sqrt{(h)}\har{h}\har{u}$, to he, are:
 
-|  | $\sqrt{as}$ |  |  | $\sqrt{(b) bū}$ |  |  |
+|  | $\sqrt{as}$ |  |  | $\sqrt{(h) hū}$ |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | singular | present | imperative | optative 1 | optative 2 | present | imperative | optative |
-| 1 | asmi or ambi | asmi or ambi | assam | sīyān | bomi | bomi | bueyyām |
-| 2 | asi | dhi | assa | sīyā | bosi | bobi | bueyyāsi |
-| 3 | atthi | atthu | assa | sīyā | hoti | botu | bueyyāti |
+| 1 | asmi or amhi | asmi or amhi | assam | sīyān | homi | homi | hueyyām |
+| 2 | asi | dhi | assa | sīyā | hosi | hohi | hueyyāsi |
+| 3 | atthi | atthu | assa | sīyā | hoti | hotu | hueyyāti |
 | plural |  |  |  |  |  |  |  |
-| 1 | asma or ambi | asma or ambi | assāma | [-] | boma | boma | bueyyāma |
-| 2 | attha | attha | assatha | [-] | botha | botha | bueyyātha |
-| 3 | santi | santu | assu | sīyūn or sīyānzu | bonti | bontu | bueyyūm |
+| 1 | asma or amhi | asma or amhi | assāma | [-] | homa | homa | hueyyāma |
+| 2 | attha | attha | assatha | [-] | hotha | hotha | hueyyātha |
+| 3 | santi | santu | assu | sīyūn or sīyānzu | honti | hontu | hueyyūm |
 
 ### Conjugation of the ajjattani (aorist)
-The aorist can seem confusing because of its many different paradigms. If one wanted to write Pali, this would be a problem; but modern students wish only to read it, and aorist forms are usually easy to recognize. The aorist is formed in four ways, as in Sanskrit, but in Pali changes caused by the meeting of consonants, etc., sometimes make the formal derivation of aorists difficult to discern. Each has the augment (prefix) $a-$, and is formed (i) from the root directly (ii) with thematic $-a-$ (iii) with $-s$ (iv) with $-i$-s
+The aorist can seem confusing hecause of its many different paradigms. If one wanted to write Pali, this would he a prohlem; hut modern students wish only to read it, and aorist forms are usually easy to recognize. The aorist is formed in four ways, as in Sanskrit, hut in Pali changes caused hy the meeting of consonants, etc., sometimes make the formal derivation of aorists difficult to discern. Each has the augment (prefix) $a-$, and is formed (i) from the root directly (ii) with thematic $-a-$ (iii) with $-s$ (iv) with $-i$-s
 
 #### (i) root aorist:
 
-| SINGULAR | $\sqrt{dā}$ | $\sqrt{kṛ}$ | $\sqrt{bū}$ |
+| SINGULAR | $\sqrt{dā}$ | $\sqrt{kṛ}$ | $\sqrt{hū}$ |
 | --- | --- | --- | --- |
-| 1 | adam | akam | abum |
-| 2 | adā | akā | abū |
-| 3 | adā | akā | abū |
+| 1 | adam | akam | ahum |
+| 2 | adā | akā | ahū |
+| 3 | adā | akā | ahū |
 | PLURAL |  |  |  |
-| 1 | adambā | akambī | abumbī |
+| 1 | adamhā | akamhī | ahumhī |
 | 2 | adattha | akattha |  |
-| 3 | adumādū |  | abum, abū |
+| 3 | adumādū |  | ahum, ahū |
 
 #### (ii) thematic $a$-aorist:
 
@@ -2704,7 +2704,9 @@ $\{[\text{catur-assa}] \text{pokkbarani} \mid +[\text{puppita-rukkba}],$ a Copul
 $\langle [(catur-assa|pokkbarani) - [puppbita-rukkba]) + patimanditam is a Dependent Determinative, with two members caturassapokkbaranipupppbitarukkba + patimanditam
 
 Aggavamsa cites this example of Pali kavya-style:
-pavarasurasarugarudamunjabhuagagandabhamakutakutacumbitaselasamgbattitacarano tatabgata, the Tathagata's feet resounded on rocks which had been gently touched by [lit.: 'at'] the tops of head-ornaments (belonging to) magnificent gods and anti-gods, garuda-birds, humans, snakes and celestial musicians
+pavarasurāsuragarudamanujabhujagagandhabbamakūṭakūṭacumbitaselasaṃghaṭṭitacaraṇo tathāgato
+
+“The Tathāgata, whose feet resounded upon rocks that had been gently touched by the very tips of the head-ornaments of lofty gods, titans, garuḍas, humans, serpents and celestial musicians.”
 
 The analysis [from Kacc Be 173-4] is:
 sura $^+$ asrud $^+$ garuda $^+$ manunta $^+$ bhujaga $^+$ gandhabha is a Copulative with six members
@@ -2713,7 +2715,7 @@ pavar + [suzuragrudamanujabhujagagandhabha] is a Descriptive Determinative
 [pavarasurasuragaradamujabhujagandbhamakutanam] $^+$ kutani is a Dependent Determinative
 [pavarasururasuragarudamunjabhujagagandhabhamakutakitesu] $^+$ cumbita is a Dependent Determinative
 [pavarasurusragarudamanujabhujagagandhabhamakutakutacumbita] + sela is a Descriptive Determinative
-[pavarusurasuragaradamujabhujagagandbhbamakutakutacumbitaselasam-gbaṭṭita] + carana is a Descriptive Determinative
+[pavarusurasuragaradamujabhujagagandbhbamakutakutacumbitaselasam-ghaṭṭita] + carana is a Descriptive Determinative
 [-carana yassa tatabagatasa] so yam pavarasurasuragarudamanujabhujagandabhamakutakitacumbitaselasamgbattitacarano tatabago is a Possessive based on a Descriptive Determinative
 
 # 7 iti-sadda Direct and Indirect Speech
