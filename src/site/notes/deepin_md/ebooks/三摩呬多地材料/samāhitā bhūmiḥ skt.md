@@ -1056,11 +1056,15 @@ pratiniṣevanīyaṃ ca|
 
 nidānanimittaṃ katamat yaḥ samādhisaṃbhāraḥ|
 
-# 3_2_1_3A parivarjanīyaṃ nimittaṃ katamat? tac caturvidham: layanimittam auddhatyanimittaṃ vikṣepanimittaṃ
+# 3_2_1_3A 
+
+parivarjanīyaṃ nimittaṃ katamat? tac caturvidham: layanimittam auddhatyanimittaṃ vikṣepanimittaṃ
 
 saṅganimittaṃ ca|
 
-# 3_2_1_4A [prati]niṣevaṇīyaṃ nimittaṃ katamat? tad etatpratipakṣeṇa veditavyam|
+# 3_2_1_4A 
+
+[prati]niṣevaṇīyaṃ nimittaṃ katamat? tad etatpratipakṣeṇa veditavyam|
 
 # 3_2_1_3B_1
 
@@ -1085,7 +1089,9 @@ vikṣepanimittaṃ katamat? catvāra indriyāguptadvāratādayaḥ pūrvavat, v
 
 saṅganimittaṃ katamat? catvāra indriyāguptadvāratādayaḥ pūrvavat, mṛdvindriyatā, trṛṣṇācaritatā, kleśabahulatā, ayoniśomanaskāraḥ, anādīnavadarśanatā, uttariṃ cāniḥsaraṇadarśitā|
 
-# 3_2_1_4B teṣāṃ(?) parivarjanīyānāṃ pratipakṣeṇa yathāyogaṃ
+# 3_2_1_4B 
+
+teṣāṃ(?) parivarjanīyānāṃ pratipakṣeṇa yathāyogaṃ
 
 pratiniṣevaṇīyāni veditavyāni|
 
