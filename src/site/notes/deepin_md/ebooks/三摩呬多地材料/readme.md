@@ -10,7 +10,7 @@
 
 地址：  [大陆](https://bgithub.xyz/avatarqz/vilasa.github.io/tree/master/src/site/notes/deepin_md/ebooks/%E4%B8%89%E6%91%A9%E5%91%AC%E5%A4%9A%E5%9C%B0%E6%9D%90%E6%96%99)
 [海外](https://github.com/avatarqz/vilasa.github.io/tree/master/src/site/notes/deepin_md/ebooks/%E4%B8%89%E6%91%A9%E5%91%AC%E5%A4%9A%E5%9C%B0%E6%9D%90%E6%96%99)
-[备用链接](https://www.jianguoyun.com/p/DYu9wXQQtOnlChjFiaAGIAA)
+[备用链接坚果云](https://www.jianguoyun.com/p/DYu9wXQQtOnlChjFiaAGIAA)
 
 待办：
 - [ ] 科判：
@@ -19,7 +19,7 @@
 
 
 参考：
- - https://ybh.dila.edu.tw/ui.html?locale=zh 《CT3268》 《論記》 《披尋記》
+- https://ybh.dila.edu.tw/ui.html?locale=zh  《CT3268》 《論記》 《披尋記》
 - 俱舍论【惠空：俱舍论定品与瑜伽师地论三摩呬多地之比较】
 
 注意事项：
