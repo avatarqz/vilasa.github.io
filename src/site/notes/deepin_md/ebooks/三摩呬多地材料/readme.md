@@ -8,7 +8,7 @@
 
 缘起：《三摩呬多地》基本上含摄了百分之九十禅定相关的原始契经。在这个基础上，可以进行南北传佛教禅定相关原典和注释的比较。
 
-地址：  [大陆](https://bgithub.xyz/avatarqz/vilasa.github.io/tree/master/src/site/notes/deepin_md/ebooks/%E4%B8%89%E6%91%A9%E5%91%AC%E5%A4%9A%E5%9C%B0%E6%9D%90%E6%96%99Y)
+地址：  [大陆](https://bgithub.xyz/avatarqz/vilasa.github.io/tree/master/src/site/notes/deepin_md/ebooks/%E4%B8%89%E6%91%A9%E5%91%AC%E5%A4%9A%E5%9C%B0%E6%9D%90%E6%96%99)
 [海外](https://github.com/avatarqz/vilasa.github.io/tree/master/src/site/notes/deepin_md/ebooks/%E4%B8%89%E6%91%A9%E5%91%AC%E5%A4%9A%E5%9C%B0%E6%9D%90%E6%96%99)
 [备用链接](https://www.jianguoyun.com/p/DYu9wXQQtOnlChjFiaAGIAA)
 
