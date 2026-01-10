@@ -4,7 +4,7 @@
 
 平行文本项目2026-01-09
 
-发起者：净智法师
+<!--发起者：净智法师-->
 
 目标：《三摩呬多地》基本上含摄了百分之九十禅定相关的原始契经。在这个基础上，可以进行南北传佛教禅定相关原典和注释的比较。
 
@@ -26,7 +26,7 @@
 -  MD格式：标题不能有空格及标点符号
 - 链接使用 MD格式，即`[]()`
 
-正文：
+# 正文：
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/deepin-md/ebooks///" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -129,15 +129,16 @@ yo vā yasyādhipatir gurur vā gurusthānīyo vā, sa ca svayaṃ prāṇātip�
 
 [samāhitā bhūmiḥ skt#2_1_2_1](samāhitā%20bhūmiḥ%20skt.md#2_1_2_1)
 2.1.2.1 prāmodyaṃ katamat? ādiśuddhasya saṃbhārabhūmiṃ pariśuddhāṃ vyavalokayato yad avipratisārapūrvikāttamanaskatā prāmodyaṃ saumanasyaṃ cittakalyatā| 
+
+欢者，谓从本来清净行者，观资粮地所修净行，无悔为先，慰意适悦，心欣踊性。
 [^kalla]
 
-[^kalla]: kalla =kalya,  kallacitta(n.) 順從心, 堪任心, 柔軟心
+[^kalla]: 欣踊 kalla =kalya,  kallacitta(n.) 順從心, 堪任心, 柔軟心
 	
 	Majjhimanikāye 中部Majjhimapaṇṇāsapāḷi 中五十经：
 	当世尊知婆罗门梵寿心已堪能、心已柔软、心已离盖、心已高昂、心已净信时，便开示诸佛亲身发现之法——苦、集、灭、道。譬如清净、无垢之布，能妥善地接受染料.如是，婆罗门梵寿即于其座，生起离尘、离垢之法眼：‘凡是集起之法，皆是灭尽之法。’
 	395  Yadā bhagavā [PB T 2.0545] aññāsi brahmāyuṃ brāhmaṇaṃ kallacittaṃ muducittaṃ vinīvaraṇacittaṃ udaggacittaṃ pasannacittaṃ, atha yā buddhānaṃ sāmukkaṃsikā dhammadesanā taṃ pakāsesi – dukkhaṃ, samudayaṃ, nirodhaṃ, maggaṃ. 
 
-欢者，谓从本来清净行者，观资粮地所修净行，无悔为先，慰意适悦，心欣踊性。
 
 [samāhitā bhūmiḥ skt#2_1_2_2](samāhitā%20bhūmiḥ%20skt.md#2_1_2_2)
 2.1.2.2 prītiḥ katamā? yaḥ samyakprayogapūrvako harṣaḥ prītiḥ(?) saumanasyaṃ cittakalyatā|
@@ -276,6 +277,9 @@ SN 46.51 [^食][^非食]
 [^光明]
 
 [^光明]: 《清净道论》173页（Visuddhimagga, p.175）修习「光明遍」（ālokakasiṇa）时，可取日、月、灯火等明相为所缘。
+	SN 51.20 Vibhaṅgasutta  
+	10.2 / 15.2  
+	“比丘们！此处比丘已善加把握‘光明想’，善建立‘昼想’。”Idha bhikkhave bhikkhuno ālokasaññā suggahitā hoti divāsaññā svādhiṭṭhitā.
 
 [samāhitā bhūmiḥ skt#2_2_2_3_3](samāhitā%20bhūmiḥ%20skt.md#2_2_2_3_3)
 2.2.2.3.3 tatra prathamālokapratipakṣeṇa trividham andhakāraṃ veditavyam, yaduta niśāndhakāram, meghāndhakāram, tiraskaraṇāndhakāraṃ ca tadyathā guhādiṣu| dharmālokasya pratipakṣeṇa trayas tamaskāyaḥ, tathā hi tān dharmān yathābhūtam aprajānann atītam adhvānaṃ kāṅkṣati vicikitsaty anāgataṃ pratyutpannaṃ api; buddhadharmādiṣu ca| tatra yā cāvidyā yā ca vicikitsā, tad ubhayaṃ tamaskāya ity ucyate| adhigatapratyavekṣāyāḥ punaḥ pratipakṣeṇa styānamiddham andhakāraḥ, tena hi taddharmāprasaṃkhyānāt(??).
@@ -287,8 +291,9 @@ SN 46.51 [^食][^非食]
 
 问：掉举恶作盖以何为食？答：于亲属等所有寻思、于曾所经戏笑等念、及于彼相不正思惟多所修习，以之为食。亲属寻思者，[^亲属]谓因亲属或盛或衰、或离或合，发欣戚行，心生筹虑等。国土寻思者，谓因国土盛衰等相，广如前说。不死寻思者，谓因少年及衰老位诸有所作或利他事，发欣戚行，心生筹虑等。笑者，谓随有一，或因开论、或因合论，现齿而笑，欢聚哑哑。戏者，谓双陆、摴蒱、弄珠等戏。或有所余种类欢乐。谓互相受用，受用境界，受诸快乐；或由同处，或因戏论，欢娱而住。所行事者，谓相执持手臂发等，或相摩触随一身分，或抱或呜，或相顾眄，或作余事。
 
-[^亲属]:《杂阿含》第602经所谓“起亲里觉”（巴 ñāti-vitakka），属八种不善寻思之一（见《瑜伽师地论》卷30）。
-巴利对应：Ñāti-vitakko, janapada-vitakko...（《增支部》A.8.54）
+[^亲属]: “亲属寻思”（巴 ñātivitakka），属八种不善寻思之一：欲、嗔、害、亲里、国土、不死、族姓、轻侮。 （见《瑜伽师地论》八十九卷九页）。
+885.Tattha katamo ñātivitakko? Ñātake ārabbha gehasito takko vitakko micchāsaṅkappo – ayaṃ vuccati ‘‘ñātivitakko’’.885. 在此，何为亲属寻思？缘于亲属而有与家相关的思惟、寻思、邪思惟——这称为‘亲属寻思’。
+《分别论》（Vibhaṅgapāḷi）
 
 [samāhitā bhūmiḥ skt#2_2_2_4_2](samāhitā%20bhūmiḥ%20skt.md#2_2_2_4_2)
 2.2.2.4.2 anāhāraḥ katamaḥ? asti śamathaḥ; tatra yoniśomanasikāro bahulīkāraḥ| tatra śamatho yā navākārā cittasthitiḥ śamathapakṣyāś ca dharmāḥ| te punar ye kecit saṃvejanīyāḥ, tadyathātmavipattiḥ, paravipattiḥ, ātmasaṃpattiḥ, parasaṃpattiś ca, yaiś cittaṃ saṃvijata uttrasyati saṃvegam āpadyate śame'vatiṣṭhate|
