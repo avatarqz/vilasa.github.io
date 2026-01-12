@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/deepin-md/ebooks//readme/","dgPassFrontmatter":true}
 ---
 
-平行文本项目2026-01-09
+# 平行文本项目2026-01-09
 
 <!--发起者：净智法师-->
 
@@ -34,13 +34,17 @@
 5. 行内代码（高亮） `` `文本` ``  
 6. 上标 / 下标 `<sup>文本</sup>`、`<sub>文本</sub>`（原生 HTML，GitHub 也放行）  
 
-此外，GFM 还提供 5 种彩色 alert 区块（非行内样式）：
+- GFM 还提供 5 种彩色 alert 区块（非行内样式）：
 
 
 > [!NOTE]
+
 > [!TIP]
+
 > [!IMPORTANT]
+
 > [!WARNING]
+
 > [!CAUTION]
 
 
