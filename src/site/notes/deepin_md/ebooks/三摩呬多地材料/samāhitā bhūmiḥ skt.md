@@ -990,14 +990,14 @@ prahaaNamanaskaaraaH prayoganiSThaaphalaH prahiiNe_
 
 (p163)
 
-# 3_1_3_d15-18
+# 3_1_3_ad15-18
 
 savikalpapratibimbaalambana eva miimaaMsaamanaskaaraH sheSaa ubhayathaa_
 vastuparyantaalambanaaH
 sarva eva_ kaaryapariniSpattyaalambanaaH prathamena paryaayeNa sarve dvitiiyena
 prayoganiSThaaphala eva_
 
-# 3_1_3_d19-24
+# 3_1_3_ad19-24
 
 adhimuktivicayamanaskaaro yas tatprathamaH so_a saMgRRihiitaH yaH
 shamathapuurvakaH
@@ -1005,7 +1005,7 @@ sa sarveSu_ evaM prathamaupashamiko vipashyanaapuurvash ca veditavyaH_
 ekaaMshobhayaaMshabhaavitaaH SaT ubhayaaMshabhaavita eva prayoganiSThaaphalaH_
 saatatyamanaskaaraH satkRRityamanaskaarash ca sarveSu_
 
-# 3_1_3_d25-28
+# 3_1_3_ad25-28
 
 aanulomiko dvaabhyaaM
 prathamaabhyaam praatipakSikaH praavivekyaprayoganiSThaabhyaaM saMgRRihiito
@@ -1013,14 +1013,14 @@ ratisaMgraahakaikadeshena ca_ prasadaniiyo ratisaMgraahakasyaivaikadeshaH_
 prahaaNaaprahaaNapratyavekSaNaamanaskaareNa miimaaMsaamanaskaara eva
 saMgRRihitaH_ prahaaNapratipakSaM nigamayyaitad() uktam anyais tu yathaayogaM veditavyam_
 
-# 3_1_3_d29-32
+# 3_1_3_ad29-32
 
 balavaahano na
 kenacit_ sacchhidrasaabhogavaahanau yaavad ratisaMgraahakeNa_
 svarasavaahanaH
 prayoganiSThaatatphalaabhyaam_
 
-# 3_1_3_d33-36
+# 3_1_3_ad33-36
 
 vicayamanaskaaro
 lakSaNapratisaMvedinaa_ adhyaatmasaMpiNDita aadhimokSikeNa_ aavaraNavishodhanaH
@@ -1028,7 +1028,7 @@ praavivekyaratisaMgraahakamiimaamsaaprayoganiSThaiH_
 aashrayaniSpattigocaravishuddhaH
 prayoganiSThaaphalenaiva saMgRRihiitaH_
 
-# 3_1_3_d37-40
+# 3_1_3_ad37-40
 
 parapraṇītaḥ pratyātmādhigrahaś
 ca sarvaiḥ| udāro na kenacit| sarvatragaḥ prayoganiṣṭhāphalena yaḥ prathamaḥ; dvitīyas tu sarvaiḥ| lakṣaṇapratisaṃvedino
