@@ -26,7 +26,9 @@
 - 标题不能有空格及标点符号
 - 链接使用 MD格式，即`[]()`
 - 脚注顺序，先是阿含经相关的[^]，然后梵语，接下来是其他的注释书
-- GitHub Flavored Markdown（GFM）在标准 Markdown 基础上额外支持 6 种「文字样式」，均可直接在 `.md` 文件、Issue、PR、Wiki 里使用：
+- 
+
+<details markdown='1'><summary>GitHub Flavored Markdown（GFM）在标准 Markdown 基础上额外支持 6 种「文字样式」，均可直接在 `.md` 文件、Issue、PR、Wiki 里使用：</summary>
 
 1. 斜体 `*文本*` 或 `_文本_`  
 2. 粗体 `**文本**` 或 `__文本__`  
@@ -36,10 +38,8 @@
 6. 上标 / 下标 `<sup>文本</sup>`、`<sub>文本</sub>`
 7. （原生 HTML，GitHub 也放行）  
 
-<details markdown='1'><summary>展开/收起</summary>
-收
-
 </details>
+
 
 # 正文：
 [本地分中三摩呬多地第六之一 简体](本地分中三摩呬多地第六之一%20简体.md)
