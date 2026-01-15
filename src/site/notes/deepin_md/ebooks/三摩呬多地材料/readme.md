@@ -14,18 +14,21 @@
 
 待办：
 - [ ] 科判
+	- [x] 《披寻记》，藏文《CT3268》，《略纂》， 《论记》，梵本
+	- [x] 瑜伽师地论三摩呬多地之一
+	- [ ] 瑜伽师地论三摩呬多地之二
 - [ ] 阿含，尼柯耶(使用脚注)
-- [ ] 略纂
+- [ ] 平行文本链接录入：瑜伽师地论三摩呬多地之一
 
 
 参考：
-- https://ybh.dila.edu.tw/ui.html?locale=zh  《CT3268》 《論記》 《披尋記》
+- https://ybh.dila.edu.tw/ui.html?locale=zh  《CT3268》 《论记》 《披寻记》
 - 俱舍论【惠空：俱舍论定品与瑜伽师地论三摩呬多地之比较】
 
 注意事项：
 - 标题不能有空格及标点符号
 - 链接使用 MD格式，即`[]()`
-- 脚注顺序，先是阿含经相关的[^]，然后梵语，接下来是其他的注释书\^a1
+- 脚注顺序，先是阿含经相关的[^]，然后梵语，接下来是其他的注释书
 - 巴利语佛典 https://suttacentral.net/ +经号如an3.65 即 https://suttacentral.net/an3.65
 
 <details markdown='1'><summary>GitHub Flavored Markdown（GFM）在标准 Markdown 基础上额外支持 6 种「文字样式」，均可直接在 `.md` 文件、Issue、PR、Wiki 里使用：</summary>
