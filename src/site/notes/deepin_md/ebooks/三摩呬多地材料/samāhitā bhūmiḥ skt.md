@@ -2621,7 +2621,7 @@ nirvedhabhāgīyaḥ" iti| kathaṃ punar
 vyavacārayati?
 "ayaṃ hīnaḥ, ayaṃ śreyān, ayaṃ śreyastaraḥ, ayaṃ śreyastamaḥ" iti yathākramam| kathaṃ punaḥ kṛtvā?
 
-# (4,2_5_1)
+# 4_2_5_1
 
 ihāyaṃ dhyāyī prathamād dhyānād vyutthitas tad
 dhyānaṃ na tāvat samāpattukāmo bhavati| sa tāny ākāraliṅganimittāni na
