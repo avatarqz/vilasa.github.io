@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/books/jpts/readme/","dgPassFrontmatter":true}
 ---
 
-[PDF]([https://palitextsociety.org/](https://palitextsociety.org/journals-of-the-pali-text-society-free-downloads/))
+[PDF](https://palitextsociety.org/journals-of-the-pali-text-society-free-downloads/)
 
   
 Journal, Vol. I, 1882  [Journal of the Pali Text Society: 1882_I](https://palitextsociety.org/wp-content/uploads/2022/01/JPTS_1882_I.pdf)
