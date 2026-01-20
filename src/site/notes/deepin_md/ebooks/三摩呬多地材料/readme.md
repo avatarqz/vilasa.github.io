@@ -22,7 +22,7 @@
 
 
 参考：
-- https://ybh.dila.edu.tw/ui.html?locale=zh  《CT3268》 《论记》 《披寻记》
+- https://ybh.dila.edu.tw/ui.html?locale=zh  《CT3268》 《论记》 《披寻记》[▼](https://ybh.dila.edu.tw/pages/download?locale=zh&menu=download#material)
 - 俱舍论【惠空：俱舍论定品与瑜伽师地论三摩呬多地之比较】
 
 注意事项：
@@ -46,4 +46,4 @@
 
 # 正文：
 [本地分中三摩呬多地第六之一 简体](本地分中三摩呬多地第六之一%20简体.md)
-[[]]
+[本地分中三摩呬多地第六之二1579_012](本地分中三摩呬多地第六之二1579_012.md)
