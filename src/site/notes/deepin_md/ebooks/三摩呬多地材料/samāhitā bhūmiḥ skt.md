@@ -1521,9 +1521,11 @@ tat kasya hetoḥ?
 nāvītarāgasya tatropapattiḥ; na cāsamāpannasya vairāgyaṃ pṛthagjanasya| na
 ceha tatra vā samāpannayoḥ sukhaviśeṣo vidyate; āśrayaviśeṣas tu vidyate|
 
-# (3|) manaskāranimittabhāvanā samāptā|
+# 3_
 
-# (4|0)
+manaskāranimittabhāvanā samāptā|
+
+# 4_0
 
 sūtrāntasaṃgrahaḥ katamaḥ?
 
