@@ -39,6 +39,7 @@
 - 巴利三藏 https://suttacentral.net/ +经号：如an3.65 即 https://suttacentral.net/an3.65
 - 阿含经：如杂阿含SA http://agama.buddhason.org/SA/SA0417.htm
 - 阿含经的引用使用脚注，如果全都使用连接，可以，达到整个藏经的互联互通，但是不是所有的瑜伽师地论的句子都，完全符合阿含经，所以脚注还可以。配合各种解释诠释，更方便读者阅读，也方便找初期的文档成型。
+- 每次修改都要与原版文体**对比**及验证！！！工具：[notepad--v3.6.3 ](https://gitee.com/cxasm/notepad--/releases/tag/v3.6.3) [WinMerge](https://github.com/WinMerge/winmerge/releases)
 
 <details markdown='1'><summary>GitHub Flavored Markdown（GFM）在标准 Markdown 基础上额外支持 6 种「文字样式」，均可直接在 `.md` 文件、Issue、PR、Wiki 里使用：</summary>
 
